@@ -1,0 +1,461 @@
+﻿team_id,year,team,region,seed,finish,weekend,her_hoops_raw,her_hoops_id
+2017 Connecticut,2017,Connecticut,East,1,Final Four,3,UConn,2017 UConn
+2017 Duke,2017,Duke,East,2,Second Round,1,Duke,2017 Duke
+2017 Maryland,2017,Maryland,East,3,Sweet 16,2,Maryland,2017 Maryland
+2017 UCLA,2017,UCLA,East,4,Sweet 16,2,UCLA,2017 UCLA
+2017 Texas A&M,2017,Texas A&M,East,5,Second Round,1,Texas A&M,2017 Texas A&M
+2017 West Virginia,2017,West Virginia,East,6,Second Round,1,West Virginia,2017 West Virginia
+2017 Temple,2017,Temple,East,7,First Round,1,Temple,2017 Temple
+2017 Syracuse,2017,Syracuse,East,8,Second Round,1,Syracuse,2017 Syracuse
+2017 Iowa St.,2017,Iowa St.,East,9,First Round,1,Iowa St.,2017 Iowa St.
+2017 Oregon,2017,Oregon,East,10,Elite Eight,2,Oregon,2017 Oregon
+2017 Elon,2017,Elon,East,11,First Round,1,Elon,2017 Elon
+2017 Penn,2017,Penn,East,12,First Round,1,Penn,2017 Penn
+2017 Boise St.,2017,Boise St.,East,13,First Round,1,Boise St.,2017 Boise St.
+2017 Bucknell,2017,Bucknell,East,14,First Round,1,Bucknell,2017 Bucknell
+2017 Hampton,2017,Hampton,East,15,First Round,1,Hampton,2017 Hampton
+2017 Albany,2017,Albany,East,16,First Round,1,UAlbany,2017 UAlbany
+2017 Baylor,2017,Baylor,South,1,Elite Eight,2,Baylor,2017 Baylor
+2017 Mississippi St.,2017,Mississippi St.,South,2,Runner Up,3,Mississippi St.,2017 Mississippi St.
+2017 Washington,2017,Washington,South,3,Sweet 16,2,Washington,2017 Washington
+2017 Louisville,2017,Louisville,South,4,Sweet 16,2,Louisville,2017 Louisville
+2017 Tennessee,2017,Tennessee,South,5,Second Round,1,Tennessee,2017 Tennessee
+2017 Oklahoma,2017,Oklahoma,South,6,Second Round,1,Oklahoma,2017 Oklahoma
+2017 DePaul,2017,DePaul,South,7,Second Round,1,DePaul,2017 DePaul
+2017 LSU,2017,LSU,South,8,First Round,1,LSU,2017 LSU
+2017 California,2017,California,South,9,Second Round,1,California,2017 California
+2017 Northern Iowa,2017,Northern Iowa,South,10,First Round,1,UNI,2017 UNI
+2017 Gonzaga,2017,Gonzaga,South,11,First Round,1,Gonzaga,2017 Gonzaga
+2017 Dayton,2017,Dayton,South,12,First Round,1,Dayton,2017 Dayton
+2017 Chattanooga,2017,Chattanooga,South,13,First Round,1,Chattanooga,2017 Chattanooga
+2017 Montana St.,2017,Montana St.,South,14,First Round,1,Montana St.,2017 Montana St.
+2017 Troy,2017,Troy,South,15,First Round,1,Troy,2017 Troy
+2017 Texas Southern,2017,Texas Southern,South,16,First Round,1,Texas Southern,2017 Texas Southern
+2017 Notre Dame,2017,Notre Dame,Midwest,1,Elite Eight,2,Notre Dame,2017 Notre Dame
+2017 Stanford,2017,Stanford,Midwest,2,Final Four,3,Stanford,2017 Stanford
+2017 Texas,2017,Texas,Midwest,3,Sweet 16,2,Texas,2017 Texas
+2017 Kentucky,2017,Kentucky,Midwest,4,Second Round,1,Kentucky,2017 Kentucky
+2017 Ohio St.,2017,Ohio St.,Midwest,5,Sweet 16,2,Ohio St.,2017 Ohio St.
+2017 North Carolina St.,2017,North Carolina St.,Midwest,6,Second Round,1,NC State,2017 NC State
+2017 Kansas St.,2017,Kansas St.,Midwest,7,Second Round,1,Kansas St.,2017 Kansas St.
+2017 Green Bay,2017,Green Bay,Midwest,8,First Round,1,Green Bay,2017 Green Bay
+2017 Purdue,2017,Purdue,Midwest,9,Second Round,1,Purdue,2017 Purdue
+2017 Drake,2017,Drake,Midwest,10,First Round,1,Drake,2017 Drake
+2017 Auburn,2017,Auburn,Midwest,11,First Round,1,Auburn,2017 Auburn
+2017 Western Kentucky,2017,Western Kentucky,Midwest,12,First Round,1,Western Ky.,2017 Western Ky.
+2017 Belmont,2017,Belmont,Midwest,13,First Round,1,Belmont,2017 Belmont
+2017 Central Arkansas,2017,Central Arkansas,Midwest,14,First Round,1,Central Ark.,2017 Central Ark.
+2017 New Mexico St.,2017,New Mexico St.,Midwest,15,First Round,1,New Mexico St.,2017 New Mexico St.
+2017 Robert Morris,2017,Robert Morris,Midwest,16,First Round,1,Robert Morris,2017 Robert Morris
+2017 South Carolina,2017,South Carolina,West,1,Champion,3,South Carolina,2017 South Carolina
+2017 Oregon St.,2017,Oregon St.,West,2,Sweet 16,2,Oregon St.,2017 Oregon St.
+2017 Florida St.,2017,Florida St.,West,3,Elite Eight,2,Florida St.,2017 Florida St.
+2017 Miami FL,2017,Miami FL,West,4,Second Round,1,Miami (FL),2017 Miami (FL)
+2017 Marquette,2017,Marquette,West,5,First Round,1,Marquette,2017 Marquette
+2017 Missouri,2017,Missouri,West,6,Second Round,1,Missouri,2017 Missouri
+2017 Creighton,2017,Creighton,West,7,Second Round,1,Creighton,2017 Creighton
+2017 Arizona St.,2017,Arizona St.,West,8,Second Round,1,Arizona St.,2017 Arizona St.
+2017 Michigan St.,2017,Michigan St.,West,9,First Round,1,Michigan St.,2017 Michigan St.
+2017 Toledo,2017,Toledo,West,10,First Round,1,Toledo,2017 Toledo
+2017 South Florida,2017,South Florida,West,11,First Round,1,South Fla.,2017 South Fla.
+2017 Quinnipiac,2017,Quinnipiac,West,12,Sweet 16,1,Quinnipiac,2017 Quinnipiac
+2017 Florida Gulf Coast,2017,Florida Gulf Coast,West,13,First Round,1,FGCU,2017 FGCU
+2017 Western Illinois,2017,Western Illinois,West,14,First Round,1,Western Ill.,2017 Western Ill.
+2017 Long Beach St.,2017,Long Beach St.,West,15,First Round,1,Long Beach St.,2017 Long Beach St.
+2017 UNC Asheville,2017,UNC Asheville,West,16,First Round,1,UNC Asheville,2017 UNC Asheville
+2018 Connecticut,2018,Connecticut,East,1,Final Four,3,UConn,2018 UConn
+2018 South Carolina,2018,South Carolina,East,2,Elite Eight,2,South Carolina,2018 South Carolina
+2018 Florida St.,2018,Florida St.,East,3,Second Round,1,Florida St.,2018 Florida St.
+2018 Georgia,2018,Georgia,East,4,Second Round,1,Georgia,2018 Georgia
+2018 Duke,2018,Duke,East,5,Sweet 16,2,Duke,2018 Duke
+2018 South Florida,2018,South Florida,East,6,First Round,1,South Fla.,2018 South Fla.
+2018 California,2018,California,East,7,First Round,1,California,2018 California
+2018 Miami FL,2018,Miami FL,East,8,First Round,1,Miami (FL),2018 Miami (FL)
+2018 Quinnipiac,2018,Quinnipiac,East,9,Second Round,1,Quinnipiac,2018 Quinnipiac
+2018 Virginia,2018,Virginia,East,10,Second Round,1,Virginia,2018 Virginia
+2018 Buffalo,2018,Buffalo,East,11,Sweet 16,2,Buffalo,2018 Buffalo
+2018 Belmont,2018,Belmont,East,12,First Round,1,Belmont,2018 Belmont
+2018 Mercer,2018,Mercer,East,13,First Round,1,Mercer,2018 Mercer
+2018 Little Rock,2018,Little Rock,East,14,First Round,1,Little Rock,2018 Little Rock
+2018 North Carolina A&T,2018,North Carolina A&T,East,15,First Round,1,N.C. A&T,2018 N.C. A&T
+2018 St. Francis,2018,St. Francis,East,16,First Round,1,Saint Francis,2018 Saint Francis
+2018 Mississippi St.,2018,Mississippi St.,South,1,Final Four,3,Mississippi St.,2018 Mississippi St.
+2018 Texas,2018,Texas,South,2,Sweet 16,2,Texas,2018 Texas
+2018 UCLA,2018,UCLA,South,3,Elite Eight,2,UCLA,2018 UCLA
+2018 North Carolina St.,2018,North Carolina St.,South,4,Sweet 16,2,NC State,2018 NC State
+2018 Maryland,2018,Maryland,South,5,Second Round,1,Maryland,2018 Maryland
+2018 Iowa,2018,Iowa,South,6,First Round,1,Iowa,2018 Iowa
+2018 Arizona St.,2018,Arizona St.,South,7,Second Round,1,Arizona St.,2018 Arizona St.
+2018 Syracuse,2018,Syracuse,South,8,First Round,1,Syracuse,2018 Syracuse
+2018 Oklahoma St.,2018,Oklahoma St.,South,9,Second Round,1,Oklahoma St.,2018 Oklahoma St.
+2018 Nebraska,2018,Nebraska,South,10,First Round,1,Nebraska,2018 Nebraska
+2018 Creighton,2018,Creighton,South,11,First Round,1,Creighton,2018 Creighton
+2018 Princeton,2018,Princeton,South,12,First Round,1,Princeton,2018 Princeton
+2018 Elon,2018,Elon,South,13,First Round,1,Elon,2018 Elon
+2018 American,2018,American,South,14,First Round,1,American,2018 American
+2018 Maine,2018,Maine,South,15,First Round,1,Maine,2018 Maine
+2018 Nicholls St.,2018,Nicholls St.,South,16,First Round,1,Nicholls,2018 Nicholls
+2018 Louisville,2018,Louisville,Midwest,1,Runner Up,3,Louisville,2018 Louisville
+2018 Baylor,2018,Baylor,Midwest,2,Sweet 16,2,Baylor,2018 Baylor
+2018 Tennessee,2018,Tennessee,Midwest,3,Second Round,1,Tennessee,2018 Tennessee
+2018 Stanford,2018,Stanford,Midwest,4,Sweet 16,2,Stanford,2018 Stanford
+2018 Missouri,2018,Missouri,Midwest,5,First Round,1,Missouri,2018 Missouri
+2018 Oregon St.,2018,Oregon St.,Midwest,6,Elite Eight,2,Oregon St.,2018 Oregon St.
+2018 Michigan,2018,Michigan,Midwest,7,Second Round,1,Michigan,2018 Michigan
+2018 Marquette,2018,Marquette,Midwest,8,Second Round,1,Marquette,2018 Marquette
+2018 Dayton,2018,Dayton,Midwest,9,First Round,1,Dayton,2018 Dayton
+2018 Northern Colorado,2018,Northern Colorado,Midwest,10,First Round,1,Northern Colo.,2018 Northern Colo.
+2018 Western Kentucky,2018,Western Kentucky,Midwest,11,First Round,1,Western Ky.,2018 Western Ky.
+2018 Florida Gulf Coast,2018,Florida Gulf Coast,Midwest,12,Second Round,1,FGCU,2018 FGCU
+2018 Gonzaga,2018,Gonzaga,Midwest,13,First Round,1,Gonzaga,2018 Gonzaga
+2018 Liberty,2018,Liberty,Midwest,14,First Round,1,Liberty,2018 Liberty
+2018 Grambling St.,2018,Grambling St.,Midwest,15,First Round,1,Grambling,2018 Grambling
+2018 Boise St.,2018,Boise St.,Midwest,16,First Round,1,Boise St.,2018 Boise St.
+2018 Notre Dame,2018,Notre Dame,West,1,Champion,3,Notre Dame,2018 Notre Dame
+2018 Oregon,2018,Oregon,West,2,Elite Eight,2,Oregon,2018 Oregon
+2018 Ohio St.,2018,Ohio St.,West,3,Second Round,1,Ohio St.,2018 Ohio St.
+2018 Texas A&M,2018,Texas A&M,West,4,Sweet 16,2,Texas A&M,2018 Texas A&M
+2018 DePaul,2018,DePaul,West,5,Second Round,1,DePaul,2018 DePaul
+2018 LSU,2018,LSU,West,6,First Round,1,LSU,2018 LSU
+2018 Green Bay,2018,Green Bay,West,7,First Round,1,Green Bay,2018 Green Bay
+2018 South Dakota St.,2018,South Dakota St.,West,8,First Round,1,South Dakota St.,2018 South Dakota St.
+2018 Villanova,2018,Villanova,West,9,Second Round,1,Villanova,2018 Villanova
+2018 Minnesota,2018,Minnesota,West,10,Second Round,1,Minnesota,2018 Minnesota
+2018 Central Michigan,2018,Central Michigan,West,11,Sweet 16,2,Central Mich.,2018 Central Mich.
+2018 Oklahoma,2018,Oklahoma,West,12,First Round,1,Oklahoma,2018 Oklahoma
+2018 Drake,2018,Drake,West,13,First Round,1,Drake,2018 Drake
+2018 George Washington,2018,George Washington,West,14,First Round,1,George Washington,2018 George Washington
+2018 Seattle,2018,Seattle,West,15,First Round,1,Seattle U,2018 Seattle U
+2018 Cal St. Northridge,2018,Cal St. Northridge,West,16,First Round,1,CSUN,2018 CSUN
+2019 Louisville,2019,Louisville,East,1,Elite Eight,2,Louisville,2019 Louisville
+2019 Connecticut,2019,Connecticut,East,2,Final Four,3,UConn,2019 UConn
+2019 Maryland,2019,Maryland,East,3,Second Round,1,Maryland,2019 Maryland
+2019 Oregon St.,2019,Oregon St.,East,4,Sweet 16,2,Oregon St.,2019 Oregon St.
+2019 Gonzaga,2019,Gonzaga,East,5,Second Round,1,Gonzaga,2019 Gonzaga
+2019 UCLA,2019,UCLA,East,6,Sweet 16,2,UCLA,2019 UCLA
+2019 Rutgers,2019,Rutgers,East,7,First Round,1,Rutgers,2019 Rutgers
+2019 Michigan,2019,Michigan,East,8,Second Round,1,Michigan,2019 Michigan
+2019 Kansas St.,2019,Kansas St.,East,9,First Round,1,Kansas St.,2019 Kansas St.
+2019 Buffalo,2019,Buffalo,East,10,Second Round,1,Buffalo,2019 Buffalo
+2019 Tennessee,2019,Tennessee,East,11,First Round,1,Tennessee,2019 Tennessee
+2019 Little Rock,2019,Little Rock,East,12,First Round,1,Little Rock,2019 Little Rock
+2019 Boise St.,2019,Boise St.,East,13,First Round,1,Boise St.,2019 Boise St.
+2019 Radford,2019,Radford,East,14,First Round,1,Radford,2019 Radford
+2019 Towson,2019,Towson,East,15,First Round,1,Towson,2019 Towson
+2019 Robert Morris,2019,Robert Morris,East,16,First Round,1,Robert Morris,2019 Robert Morris
+2019 Baylor,2019,Baylor,South,1,Champion,3,Baylor,2019 Baylor
+2019 Iowa,2019,Iowa,South,2,Elite Eight,2,Iowa,2019 Iowa
+2019 North Carolina St.,2019,North Carolina St.,South,3,Sweet 16,2,NC State,2019 NC State
+2019 South Carolina,2019,South Carolina,South,4,Sweet 16,2,South Carolina,2019 South Carolina
+2019 Florida St.,2019,Florida St.,South,5,Second Round,1,Florida St.,2019 Florida St.
+2019 Kentucky,2019,Kentucky,South,6,Second Round,1,Kentucky,2019 Kentucky
+2019 Missouri,2019,Missouri,South,7,Second Round,1,Missouri,2019 Missouri
+2019 California,2019,California,South,8,Second Round,1,California,2019 California
+2019 North Carolina,2019,North Carolina,South,9,First Round,1,North Carolina,2019 North Carolina
+2019 Drake,2019,Drake,South,10,First Round,1,Drake,2019 Drake
+2019 Princeton,2019,Princeton,South,11,First Round,1,Princeton,2019 Princeton
+2019 Bucknell,2019,Bucknell,South,12,First Round,1,Bucknell,2019 Bucknell
+2019 Belmont,2019,Belmont,South,13,First Round,1,Belmont,2019 Belmont
+2019 Maine,2019,Maine,South,14,First Round,1,Maine,2019 Maine
+2019 Mercer,2019,Mercer,South,15,First Round,1,Mercer,2019 Mercer
+2019 Abilene Christian,2019,Abilene Christian,South,16,First Round,1,Abilene Christian,2019 Abilene Christian
+2019 Notre Dame,2019,Notre Dame,Midwest,1,Runner Up,3,Notre Dame,2019 Notre Dame
+2019 Stanford,2019,Stanford,Midwest,2,Elite Eight,2,Stanford,2019 Stanford
+2019 Iowa St.,2019,Iowa St.,Midwest,3,Second Round,1,Iowa St.,2019 Iowa St.
+2019 Texas A&M,2019,Texas A&M,Midwest,4,Sweet 16,2,Texas A&M,2019 Texas A&M
+2019 Marquette,2019,Marquette,Midwest,5,Second Round,1,Marquette,2019 Marquette
+2019 DePaul,2019,DePaul,Midwest,6,First Round,1,DePaul,2019 DePaul
+2019 BYU,2019,BYU,Midwest,7,Second Round,1,BYU,2019 BYU
+2019 Central Michigan,2019,Central Michigan,Midwest,8,First Round,1,Central Mich.,2019 Central Mich.
+2019 Michigan St.,2019,Michigan St.,Midwest,9,Second Round,1,Michigan St.,2019 Michigan St.
+2019 Auburn,2019,Auburn,Midwest,10,First Round,1,Auburn,2019 Auburn
+2019 Missouri St.,2019,Missouri St.,Midwest,11,Sweet 16,2,Missouri St.,2019 Missouri St.
+2019 Rice,2019,Rice,Midwest,12,First Round,1,Rice,2019 Rice
+2019 Wright St.,2019,Wright St.,Midwest,13,First Round,1,Wright St.,2019 Wright St.
+2019 New Mexico St.,2019,New Mexico St.,Midwest,14,First Round,1,New Mexico St.,2019 New Mexico St.
+2019 UC Davis,2019,UC Davis,Midwest,15,First Round,1,UC Davis,2019 UC Davis
+2019 Bethune-Cookman,2019,Bethune-Cookman,Midwest,16,First Round,1,Bethune-Cookman,2019 Bethune-Cookman
+2019 Mississippi St.,2019,Mississippi St.,West,1,Elite Eight,2,Mississippi St.,2019 Mississippi St.
+2019 Oregon,2019,Oregon,West,2,Final Four,3,Oregon,2019 Oregon
+2019 Syracuse,2019,Syracuse,West,3,Second Round,1,Syracuse,2019 Syracuse
+2019 Miami FL,2019,Miami FL,West,4,Second Round,1,Miami (FL),2019 Miami (FL)
+2019 Arizona St.,2019,Arizona St.,West,5,Sweet 16,2,Arizona St.,2019 Arizona St.
+2019 South Dakota St.,2019,South Dakota St.,West,6,Sweet 16,2,South Dakota St.,2019 South Dakota St.
+2019 Texas,2019,Texas,West,7,First Round,1,Texas,2019 Texas
+2019 South Dakota,2019,South Dakota,West,8,First Round,1,South Dakota,2019 South Dakota
+2019 Clemson,2019,Clemson,West,9,Second Round,1,Clemson,2019 Clemson
+2019 Indiana,2019,Indiana,West,10,Second Round,1,Indiana,2019 Indiana
+2019 Quinnipiac,2019,Quinnipiac,West,11,First Round,1,Quinnipiac,2019 Quinnipiac
+2019 UCF,2019,UCF,West,12,First Round,1,UCF,2019 UCF
+2019 Florida Gulf Coast,2019,Florida Gulf Coast,West,13,First Round,1,FGCU,2019 FGCU
+2019 Fordham,2019,Fordham,West,14,First Round,1,Fordham,2019 Fordham
+2019 Portland St.,2019,Portland St.,West,15,First Round,1,Portland St.,2019 Portland St.
+2019 Southern,2019,Southern,West,16,First Round,1,Southern U.,2019 Southern U.
+2021 Connecticut,2021,Connecticut,East,1,Final Four,3,UConn,2021 UConn
+2021 Baylor,2021,Baylor,East,2,Elite Eight,2,Baylor,2021 Baylor
+2021 Tennessee,2021,Tennessee,East,3,Second Round,1,Tennessee,2021 Tennessee
+2021 Kentucky,2021,Kentucky,East,4,Second Round,1,Kentucky,2021 Kentucky
+2021 Iowa,2021,Iowa,East,5,Sweet 16,2,Iowa,2021 Iowa
+2021 Michigan,2021,Michigan,East,6,Sweet 16,2,Michigan,2021 Michigan
+2021 Virginia Tech,2021,Virginia Tech,East,7,Second Round,1,Virginia Tech,2021 Virginia Tech
+2021 Syracuse,2021,Syracuse,East,8,Second Round,1,Syracuse,2021 Syracuse
+2021 South Dakota St.,2021,South Dakota St.,East,9,First Round,1,South Dakota St.,2021 South Dakota St.
+2021 Marquette,2021,Marquette,East,10,First Round,1,Marquette,2021 Marquette
+2021 Florida Gulf Coast,2021,Florida Gulf Coast,East,11,First Round,1,FGCU,2021 FGCU
+2021 Central Michigan,2021,Central Michigan,East,12,First Round,1,Central Mich.,2021 Central Mich.
+2021 Idaho St.,2021,Idaho St.,East,13,First Round,1,Idaho St.,2021 Idaho St.
+2021 Middle Tennessee,2021,Middle Tennessee,East,14,First Round,1,Middle Tenn.,2021 Middle Tenn.
+2021 Jackson St.,2021,Jackson St.,East,15,First Round,1,Jackson St.,2021 Jackson St.
+2021 High Point,2021,High Point,East,16,First Round,1,High Point,2021 High Point
+2021 South Carolina,2021,South Carolina,South,1,Final Four,3,South Carolina,2021 South Carolina
+2021 Maryland,2021,Maryland,South,2,Sweet 16,2,Maryland,2021 Maryland
+2021 UCLA,2021,UCLA,South,3,Second Round,1,UCLA,2021 UCLA
+2021 West Virginia,2021,West Virginia,South,4,Second Round,1,West Virginia,2021 West Virginia
+2021 Georgia Tech,2021,Georgia Tech,South,5,Sweet 16,2,Georgia Tech,2021 Georgia Tech
+2021 Texas,2021,Texas,South,6,Elite Eight,2,Texas,2021 Texas
+2021 Alabama,2021,Alabama,South,7,Second Round,1,Alabama,2021 Alabama
+2021 Oregon St.,2021,Oregon St.,South,8,Second Round,1,Oregon St.,2021 Oregon St.
+2021 Florida St.,2021,Florida St.,South,9,First Round,1,Florida St.,2021 Florida St.
+2021 North Carolina,2021,North Carolina,South,10,First Round,1,North Carolina,2021 North Carolina
+2021 Bradley,2021,Bradley,South,11,First Round,1,Bradley,2021 Bradley
+2021 Stephen F. Austin,2021,Stephen F. Austin,South,12,First Round,1,SFA,2021 SFA
+2021 Lehigh,2021,Lehigh,South,13,First Round,1,Lehigh,2021 Lehigh
+2021 Wyoming,2021,Wyoming,South,14,First Round,1,Wyoming,2021 Wyoming
+2021 Mount St. Mary's,2021,Mount St. Mary's,South,15,First Round,1,Mount St. Mary's,2021 Mount St. Mary's
+2021 Mercer,2021,Mercer,South,16,First Round,1,Mercer,2021 Mercer
+2021 North Carolina St.,2021,North Carolina St.,Midwest,1,Sweet 16,2,NC State,2021 NC State
+2021 Texas A&M,2021,Texas A&M,Midwest,2,Sweet 16,2,Texas A&M,2021 Texas A&M
+2021 Arizona,2021,Arizona,Midwest,3,Runner Up,3,Arizona,2021 Arizona
+2021 Indiana,2021,Indiana,Midwest,4,Elite Eight,2,Indiana,2021 Indiana
+2021 Gonzaga,2021,Gonzaga,Midwest,5,First Round,1,Gonzaga,2021 Gonzaga
+2021 Rutgers,2021,Rutgers,Midwest,6,First Round,1,Rutgers,2021 Rutgers
+2021 Iowa St.,2021,Iowa St.,Midwest,7,Second Round,1,Iowa St.,2021 Iowa St.
+2021 South Florida,2021,South Florida,Midwest,8,Second Round,1,South Fla.,2021 South Fla.
+2021 Washington St.,2021,Washington St.,Midwest,9,First Round,1,Washington St.,2021 Washington St.
+2021 Michigan St.,2021,Michigan St.,Midwest,10,First Round,1,Michigan St.,2021 Michigan St.
+2021 BYU,2021,BYU,Midwest,11,Second Round,1,BYU,2021 BYU
+2021 Belmont,2021,Belmont,Midwest,12,Second Round,1,Belmont,2021 Belmont
+2021 VCU,2021,VCU,Midwest,13,First Round,1,VCU,2021 VCU
+2021 Stony Brook,2021,Stony Brook,Midwest,14,First Round,1,Stony Brook,2021 Stony Brook
+2021 Troy,2021,Troy,Midwest,15,First Round,1,Troy,2021 Troy
+2021 North Carolina A&T,2021,North Carolina A&T,Midwest,16,First Round,1,N.C. A&T,2021 N.C. A&T
+2021 Stanford,2021,Stanford,West,1,Champion,3,Stanford,2021 Stanford
+2021 Louisville,2021,Louisville,West,2,Elite Eight,2,Louisville,2021 Louisville
+2021 Georgia,2021,Georgia,West,3,Second Round,1,Georgia,2021 Georgia
+2021 Arkansas,2021,Arkansas,West,4,First Round,1,Arkansas,2021 Arkansas
+2021 Missouri St.,2021,Missouri St.,West,5,Sweet 16,2,Missouri St.,2021 Missouri St.
+2021 Oregon,2021,Oregon,West,6,Sweet 16,2,Oregon,2021 Oregon
+2021 Northwestern,2021,Northwestern,West,7,Second Round,1,Northwestern,2021 Northwestern
+2021 Oklahoma St.,2021,Oklahoma St.,West,8,Second Round,1,Oklahoma St.,2021 Oklahoma St.
+2021 Wake Forest,2021,Wake Forest,West,9,First Round,1,Wake Forest,2021 Wake Forest
+2021 UCF,2021,UCF,West,10,First Round,1,UCF,2021 UCF
+2021 South Dakota,2021,South Dakota,West,11,First Round,1,South Dakota,2021 South Dakota
+2021 UC Davis,2021,UC Davis,West,12,First Round,1,UC Davis,2021 UC Davis
+2021 Wright St.,2021,Wright St.,West,13,Second Round,1,Wright St.,2021 Wright St.
+2021 Drexel,2021,Drexel,West,14,First Round,1,Drexel,2021 Drexel
+2021 Marist,2021,Marist,West,15,First Round,1,Marist,2021 Marist
+2021 Utah Valley,2021,Utah Valley,West,16,First Round,1,Utah Valley,2021 Utah Valley
+2022 North Carolina St.,2022,North Carolina St.,East,1,Elite Eight,2,NC State,2022 NC State
+2022 Connecticut,2022,Connecticut,East,2,Runner Up,3,UConn,2022 UConn
+2022 Indiana,2022,Indiana,East,3,Sweet 16,2,Indiana,2022 Indiana
+2022 Oklahoma,2022,Oklahoma,East,4,Second Round,1,Oklahoma,2022 Oklahoma
+2022 Notre Dame,2022,Notre Dame,East,5,Sweet 16,2,Notre Dame,2022 Notre Dame
+2022 Kentucky,2022,Kentucky,East,6,First Round,1,Kentucky,2022 Kentucky
+2022 UCF,2022,UCF,East,7,Second Round,1,UCF,2022 UCF
+2022 Washington St.,2022,Washington St.,East,8,First Round,1,Washington St.,2022 Washington St.
+2022 Kansas St.,2022,Kansas St.,East,9,Second Round,1,Kansas St.,2022 Kansas St.
+2022 Florida,2022,Florida,East,10,First Round,1,Florida,2022 Florida
+2022 Princeton,2022,Princeton,East,11,Second Round,1,Princeton,2022 Princeton
+2022 Massachusetts,2022,Massachusetts,East,12,First Round,1,Massachusetts,2022 Massachusetts
+2022 IUPUI,2022,IUPUI,East,13,First Round,1,IU Indy,2022 IU Indy
+2022 Charlotte,2022,Charlotte,East,14,First Round,1,Charlotte,2022 Charlotte
+2022 Mercer,2022,Mercer,East,15,First Round,1,Mercer,2022 Mercer
+2022 Mount St. Mary's,2022,Mount St. Mary's,East,16,First Round,1,Mount St. Mary's,2022 Mount St. Mary's
+2022 Longwood,2022,Longwood,East,16,First Round,1,Longwood,2022 Longwood
+2022 South Carolina,2022,South Carolina,South,1,Champion,3,South Carolina,2022 South Carolina
+2022 Iowa,2022,Iowa,South,2,Second Round,1,Iowa,2022 Iowa
+2022 Iowa St.,2022,Iowa St.,South,3,Sweet 16,2,Iowa St.,2022 Iowa St.
+2022 Arizona,2022,Arizona,South,4,Second Round,1,Arizona,2022 Arizona
+2022 North Carolina,2022,North Carolina,South,5,Sweet 16,2,North Carolina,2022 North Carolina
+2022 Georgia,2022,Georgia,South,6,Second Round,1,Georgia,2022 Georgia
+2022 Colorado,2022,Colorado,South,7,First Round,1,Colorado,2022 Colorado
+2022 Miami FL,2022,Miami FL,South,8,Second Round,1,Miami (FL),2022 Miami (FL)
+2022 South Florida,2022,South Florida,South,9,First Round,1,South Fla.,2022 South Fla.
+2022 Creighton,2022,Creighton,South,10,Elite Eight,2,Creighton,2022 Creighton
+2022 Dayton,2022,Dayton,South,11,First Round,1,Dayton,2022 Dayton
+2022 DePaul,2022,DePaul,South,11,First Round,1,DePaul,2022 DePaul
+2022 Stephen F. Austin,2022,Stephen F. Austin,South,12,First Round,1,SFA,2022 SFA
+2022 UNLV,2022,UNLV,South,13,First Round,1,UNLV,2022 UNLV
+2022 UT Arlington,2022,UT Arlington,South,14,First Round,1,UT Arlington,2022 UT Arlington
+2022 Illinois St.,2022,Illinois St.,South,15,First Round,1,Illinois St.,2022 Illinois St.
+2022 Howard,2022,Howard,South,16,First Round,1,Howard,2022 Howard
+2022 Incarnate Word,2022,Incarnate Word,South,16,First Round,1,UIW,2022 UIW
+2022 Louisville,2022,Louisville,Midwest,1,Final Four,3,Louisville,2022 Louisville
+2022 Baylor,2022,Baylor,Midwest,2,Second Round,1,Baylor,2022 Baylor
+2022 Michigan,2022,Michigan,Midwest,3,Elite Eight,2,Michigan,2022 Michigan
+2022 Tennessee,2022,Tennessee,Midwest,4,Sweet 16,2,Tennessee,2022 Tennessee
+2022 Oregon,2022,Oregon,Midwest,5,First Round,1,Oregon,2022 Oregon
+2022 BYU,2022,BYU,Midwest,6,First Round,1,BYU,2022 BYU
+2022 Mississippi,2022,Mississippi,Midwest,7,First Round,1,Ole Miss,2022 Ole Miss
+2022 Nebraska,2022,Nebraska,Midwest,8,First Round,1,Nebraska,2022 Nebraska
+2022 Gonzaga,2022,Gonzaga,Midwest,9,Second Round,1,Gonzaga,2022 Gonzaga
+2022 South Dakota,2022,South Dakota,Midwest,10,Sweet 16,2,South Dakota,2022 South Dakota
+2022 Villanova,2022,Villanova,Midwest,11,Second Round,1,Villanova,2022 Villanova
+2022 Belmont,2022,Belmont,Midwest,12,Second Round,1,Belmont,2022 Belmont
+2022 Buffalo,2022,Buffalo,Midwest,13,First Round,1,Buffalo,2022 Buffalo
+2022 American,2022,American,Midwest,14,First Round,1,American,2022 American
+2022 Hawaii,2022,Hawaii,Midwest,15,First Round,1,Hawaii,2022 Hawaii
+2022 Albany,2022,Albany,Midwest,16,First Round,1,UAlbany,2022 UAlbany
+2022 Stanford,2022,Stanford,West,1,Final Four,3,Stanford,2022 Stanford
+2022 Texas,2022,Texas,West,2,Elite Eight,2,Texas,2022 Texas
+2022 LSU,2022,LSU,West,3,Second Round,1,LSU,2022 LSU
+2022 Maryland,2022,Maryland,West,4,Sweet 16,2,Maryland,2022 Maryland
+2022 Virginia Tech,2022,Virginia Tech,West,5,First Round,1,Virginia Tech,2022 Virginia Tech
+2022 Ohio St.,2022,Ohio St.,West,6,Sweet 16,2,Ohio St.,2022 Ohio St.
+2022 Utah,2022,Utah,West,7,Second Round,1,Utah,2022 Utah
+2022 Kansas,2022,Kansas,West,8,Second Round,1,Kansas,2022 Kansas
+2022 Georgia Tech,2022,Georgia Tech,West,9,First Round,1,Georgia Tech,2022 Georgia Tech
+2022 Arkansas,2022,Arkansas,West,10,First Round,1,Arkansas,2022 Arkansas
+2022 Missouri St.,2022,Missouri St.,West,11,First Round,1,Missouri St.,2022 Missouri St.
+2022 Florida St.,2022,Florida St.,West,11,First Round,1,Florida St.,2022 Florida St.
+2022 Florida Gulf Coast,2022,Florida Gulf Coast,West,12,Second Round,1,FGCU,2022 FGCU
+2022 Delaware,2022,Delaware,West,13,First Round,1,Delaware,2022 Delaware
+2022 Jackson St.,2022,Jackson St.,West,14,First Round,1,Jackson St.,2022 Jackson St.
+2022 Fairfield,2022,Fairfield,West,15,First Round,1,Fairfield,2022 Fairfield
+2022 Montana St.,2022,Montana St.,West,16,First Round,1,Montana St.,2022 Montana St.
+2023 South Carolina,2023,South Carolina,East,1,Final Four,3,South Carolina,2023 South Carolina
+2023 Maryland,2023,Maryland,East,2,Elite Eight,2,Maryland,2023 Maryland
+2023 Notre Dame,2023,Notre Dame,East,3,Sweet 16,2,Notre Dame,2023 Notre Dame
+2023 UCLA,2023,UCLA,East,4,Sweet 16,2,UCLA,2023 UCLA
+2023 Oklahoma,2023,Oklahoma,East,5,Second Round,1,Oklahoma,2023 Oklahoma
+2023 Creighton,2023,Creighton,East,6,First Round,1,Creighton,2023 Creighton
+2023 Arizona,2023,Arizona,East,7,Second Round,1,Arizona,2023 Arizona
+2023 South Florida,2023,South Florida,East,8,Second Round,1,South Fla.,2023 South Fla.
+2023 Marquette,2023,Marquette,East,9,First Round,1,Marquette,2023 Marquette
+2023 West Virginia,2023,West Virginia,East,10,First Round,1,West Virginia,2023 West Virginia
+2023 Illinois,2023,Illinois,East,11,Second Round,1,Illinois,2023 Illinois
+2023 Mississippi St.,2023,Mississippi St.,East,11,First Round,1,Mississippi St.,2023 Mississippi St.
+2023 Portland,2023,Portland,East,12,First Round,1,Portland,2023 Portland
+2023 Sacramento St.,2023,Sacramento St.,East,13,First Round,1,Sacramento St.,2023 Sacramento St.
+2023 Southern Utah,2023,Southern Utah,East,14,First Round,1,Southern Utah,2023 Southern Utah
+2023 Holy Cross,2023,Holy Cross,East,15,First Round,1,Holy Cross,2023 Holy Cross
+2023 Norfolk St.,2023,Norfolk St.,East,16,First Round,1,Norfolk St.,2023 Norfolk St.
+2023 Virginia Tech,2023,Virginia Tech,South,1,Final Four,3,Virginia Tech,2023 Virginia Tech
+2023 Connecticut,2023,Connecticut,South,2,Sweet 16,2,UConn,2023 UConn
+2023 Ohio St.,2023,Ohio St.,South,3,Elite Eight,2,Ohio St.,2023 Ohio St.
+2023 Tennessee,2023,Tennessee,South,4,Sweet 16,2,Tennessee,2023 Tennessee
+2023 Iowa St.,2023,Iowa St.,South,5,First Round,1,Iowa St.,2023 Iowa St.
+2023 North Carolina,2023,North Carolina,South,6,Second Round,1,North Carolina,2023 North Carolina
+2023 Baylor,2023,Baylor,South,7,Second Round,1,Baylor,2023 Baylor
+2023 USC,2023,USC,South,8,First Round,1,Southern California,2023 Southern California
+2023 South Dakota St.,2023,South Dakota St.,South,9,Second Round,1,South Dakota St.,2023 South Dakota St.
+2023 Alabama,2023,Alabama,South,10,First Round,1,Alabama,2023 Alabama
+2023 Purdue,2023,Purdue,South,11,First Round,1,Purdue,2023 Purdue
+2023 St. John's,2023,St. John's,South,11,First Round,1,St. John's (NY),2023 St. John's (NY)
+2023 Toledo,2023,Toledo,South,12,Second Round,1,Toledo,2023 Toledo
+2023 Saint Louis,2023,Saint Louis,South,13,First Round,1,Saint Louis,2023 Saint Louis
+2023 James Madison,2023,James Madison,South,14,First Round,1,James Madison,2023 James Madison
+2023 Vermont,2023,Vermont,South,15,First Round,1,Vermont,2023 Vermont
+2023 Chattanooga,2023,Chattanooga,South,16,First Round,1,Chattanooga,2023 Chattanooga
+2023 Indiana,2023,Indiana,Midwest,1,Second Round,1,Indiana,2023 Indiana
+2023 Utah,2023,Utah,Midwest,2,Sweet 16,2,Utah,2023 Utah
+2023 LSU,2023,LSU,Midwest,3,Champion,3,LSU,2023 LSU
+2023 Villanova,2023,Villanova,Midwest,4,Sweet 16,2,Villanova,2023 Villanova
+2023 Washington St.,2023,Washington St.,Midwest,5,First Round,1,Washington St.,2023 Washington St.
+2023 Michigan,2023,Michigan,Midwest,6,Second Round,1,Michigan,2023 Michigan
+2023 North Carolina St.,2023,North Carolina St.,Midwest,7,First Round,1,NC State,2023 NC State
+2023 Oklahoma St.,2023,Oklahoma St.,Midwest,8,First Round,1,Oklahoma St.,2023 Oklahoma St.
+2023 Miami FL,2023,Miami FL,Midwest,9,Elite Eight,2,Miami (FL),2023 Miami (FL)
+2023 Princeton,2023,Princeton,Midwest,10,Second Round,1,Princeton,2023 Princeton
+2023 UNLV,2023,UNLV,Midwest,11,First Round,1,UNLV,2023 UNLV
+2023 Florida Gulf Coast,2023,Florida Gulf Coast,Midwest,12,Second Round,1,FGCU,2023 FGCU
+2023 Cleveland St.,2023,Cleveland St.,Midwest,13,First Round,1,Cleveland St.,2023 Cleveland St.
+2023 Hawaii,2023,Hawaii,Midwest,14,First Round,1,Hawaii,2023 Hawaii
+2023 Gardner Webb,2023,Gardner Webb,Midwest,15,First Round,1,Gardner-Webb,2023 Gardner-Webb
+2023 Tennessee Tech,2023,Tennessee Tech,Midwest,16,First Round,1,Tennessee Tech,2023 Tennessee Tech
+2023 Monmouth,2023,Monmouth,Midwest,16,First Round,1,Monmouth,2023 Monmouth
+2023 Stanford,2023,Stanford,West,1,Second Round,1,Stanford,2023 Stanford
+2023 Iowa,2023,Iowa,West,2,Runner Up,3,Iowa,2023 Iowa
+2023 Duke,2023,Duke,West,3,Second Round,1,Duke,2023 Duke
+2023 Texas,2023,Texas,West,4,Second Round,1,Texas,2023 Texas
+2023 Louisville,2023,Louisville,West,5,Elite Eight,2,Louisville,2023 Louisville
+2023 Colorado,2023,Colorado,West,6,Sweet 16,2,Colorado,2023 Colorado
+2023 Florida St.,2023,Florida St.,West,7,First Round,1,Florida St.,2023 Florida St.
+2023 Mississippi,2023,Mississippi,West,8,Sweet 16,2,Ole Miss,2023 Ole Miss
+2023 Gonzaga,2023,Gonzaga,West,9,First Round,1,Gonzaga,2023 Gonzaga
+2023 Georgia,2023,Georgia,West,10,Second Round,1,Georgia,2023 Georgia
+2023 Middle Tennessee,2023,Middle Tennessee,West,11,First Round,1,Middle Tenn.,2023 Middle Tenn.
+2023 Drake,2023,Drake,West,12,First Round,1,Drake,2023 Drake
+2023 East Carolina,2023,East Carolina,West,13,First Round,1,East Carolina,2023 East Carolina
+2023 Iona,2023,Iona,West,14,First Round,1,Iona,2023 Iona
+2023 Southeastern Louisiana,2023,Southeastern Louisiana,West,15,First Round,1,Southeastern La.,2023 Southeastern La.
+2023 Southern,2023,Southern,West,16,First Round,1,Southern U.,2023 Southern U.
+2023 Sacred Heart,2023,Sacred Heart,West,16,First Round,1,Sacred Heart,2023 Sacred Heart
+2024 South Carolina,2024,South Carolina,East,1,Champion,3,South Carolina,2024 South Carolina
+2024 Notre Dame,2024,Notre Dame,East,2,Sweet 16,2,Notre Dame,2024 Notre Dame
+2024 Oregon St.,2024,Oregon St.,East,3,Elite Eight,2,Oregon St.,2024 Oregon St.
+2024 Indiana,2024,Indiana,East,4,Sweet 16,2,Indiana,2024 Indiana
+2024 Oklahoma,2024,Oklahoma,East,5,Second Round,1,Oklahoma,2024 Oklahoma
+2024 Nebraska,2024,Nebraska,East,6,Second Round,1,Nebraska,2024 Nebraska
+2024 Mississippi,2024,Mississippi,East,7,Second Round,1,Ole Miss,2024 Ole Miss
+2024 North Carolina,2024,North Carolina,East,8,Second Round,1,North Carolina,2024 North Carolina
+2024 Michigan St.,2024,Michigan St.,East,9,First Round,1,Michigan St.,2024 Michigan St.
+2024 Marquette,2024,Marquette,East,10,First Round,1,Marquette,2024 Marquette
+2024 Texas A&M,2024,Texas A&M,East,11,First Round,1,Texas A&M,2024 Texas A&M
+2024 Florida Gulf Coast,2024,Florida Gulf Coast,East,12,First Round,1,FGCU,2024 FGCU
+2024 Fairfield,2024,Fairfield,East,13,First Round,1,Fairfield,2024 Fairfield
+2024 Eastern Washington,2024,Eastern Washington,East,14,First Round,1,Eastern Wash.,2024 Eastern Wash.
+2024 Kent St.,2024,Kent St.,East,15,First Round,1,Kent St.,2024 Kent St.
+2024 Sacred Heart,2024,Sacred Heart,East,16,First Round,1,Sacred Heart,2024 Sacred Heart
+2024 Presbyterian,2024,Presbyterian,East,16,First Round,1,Presbyterian,2024 Presbyterian
+2024 Texas,2024,Texas,South,1,Elite Eight,2,Texas,2024 Texas
+2024 Stanford,2024,Stanford,South,2,Sweet 16,2,Stanford,2024 Stanford
+2024 North Carolina St.,2024,North Carolina St.,South,3,Final Four,3,NC State,2024 NC State
+2024 Gonzaga,2024,Gonzaga,South,4,Sweet 16,2,Gonzaga,2024 Gonzaga
+2024 Utah,2024,Utah,South,5,Second Round,1,Utah,2024 Utah
+2024 Tennessee,2024,Tennessee,South,6,Second Round,1,Tennessee,2024 Tennessee
+2024 Iowa St.,2024,Iowa St.,South,7,Second Round,1,Iowa St.,2024 Iowa St.
+2024 Alabama,2024,Alabama,South,8,Second Round,1,Alabama,2024 Alabama
+2024 Florida St.,2024,Florida St.,South,9,First Round,1,Florida St.,2024 Florida St.
+2024 Maryland,2024,Maryland,South,10,First Round,1,Maryland,2024 Maryland
+2024 Green Bay,2024,Green Bay,South,11,First Round,1,Green Bay,2024 Green Bay
+2024 South Dakota St.,2024,South Dakota St.,South,12,First Round,1,South Dakota St.,2024 South Dakota St.
+2024 UC Irvine,2024,UC Irvine,South,13,First Round,1,UC Irvine,2024 UC Irvine
+2024 Chattanooga,2024,Chattanooga,South,14,First Round,1,Chattanooga,2024 Chattanooga
+2024 Norfolk St.,2024,Norfolk St.,South,15,First Round,1,Norfolk St.,2024 Norfolk St.
+2024 Drexel,2024,Drexel,South,16,First Round,1,Drexel,2024 Drexel
+2024 Iowa,2024,Iowa,Midwest,1,Runner Up,3,Iowa,2024 Iowa
+2024 UCLA,2024,UCLA,Midwest,2,Sweet 16,2,UCLA,2024 UCLA
+2024 LSU,2024,LSU,Midwest,3,Elite Eight,2,LSU,2024 LSU
+2024 Kansas St.,2024,Kansas St.,Midwest,4,Second Round,1,Kansas St.,2024 Kansas St.
+2024 Colorado,2024,Colorado,Midwest,5,Sweet 16,2,Colorado,2024 Colorado
+2024 Louisville,2024,Louisville,Midwest,6,First Round,1,Louisville,2024 Louisville
+2024 Creighton,2024,Creighton,Midwest,7,Second Round,1,Creighton,2024 Creighton
+2024 West Virginia,2024,West Virginia,Midwest,8,Second Round,1,West Virginia,2024 West Virginia
+2024 Princeton,2024,Princeton,Midwest,9,First Round,1,Princeton,2024 Princeton
+2024 UNLV,2024,UNLV,Midwest,10,First Round,1,UNLV,2024 UNLV
+2024 Middle Tennessee,2024,Middle Tennessee,Midwest,11,Second Round,1,Middle Tenn.,2024 Middle Tenn.
+2024 Drake,2024,Drake,Midwest,12,First Round,1,Drake,2024 Drake
+2024 Portland,2024,Portland,Midwest,13,First Round,1,Portland,2024 Portland
+2024 Rice,2024,Rice,Midwest,14,First Round,1,Rice,2024 Rice
+2024 California Baptist,2024,California Baptist,Midwest,15,First Round,1,California Baptist,2024 California Baptist
+2024 Holy Cross,2024,Holy Cross,Midwest,16,First Round,1,Holy Cross,2024 Holy Cross
+2024 UT Martin,2024,UT Martin,Midwest,16,First Round,1,UT Martin,2024 UT Martin
+2024 USC,2024,USC,West,1,Elite Eight,2,Southern California,2024 Southern California
+2024 Ohio St.,2024,Ohio St.,West,2,Second Round,1,Ohio St.,2024 Ohio St.
+2024 Connecticut,2024,Connecticut,West,3,Final Four,3,UConn,2024 UConn
+2024 Virginia Tech,2024,Virginia Tech,West,4,Second Round,1,Virginia Tech,2024 Virginia Tech
+2024 Baylor,2024,Baylor,West,5,Sweet 16,2,Baylor,2024 Baylor
+2024 Syracuse,2024,Syracuse,West,6,Second Round,1,Syracuse,2024 Syracuse
+2024 Duke,2024,Duke,West,7,Sweet 16,2,Duke,2024 Duke
+2024 Kansas,2024,Kansas,West,8,Second Round,1,Kansas,2024 Kansas
+2024 Michigan,2024,Michigan,West,9,First Round,1,Michigan,2024 Michigan
+2024 Richmond,2024,Richmond,West,10,First Round,1,Richmond,2024 Richmond
+2024 Auburn,2024,Auburn,West,11,First Round,1,Auburn,2024 Auburn
+2024 Arizona,2024,Arizona,West,11,First Round,1,Arizona,2024 Arizona
+2024 Vanderbilt,2024,Vanderbilt,West,12,First Round,1,Vanderbilt,2024 Vanderbilt
+2024 Columbia,2024,Columbia,West,12,First Round,1,Columbia,2024 Columbia
+2024 Marshall,2024,Marshall,West,13,First Round,1,Marshall,2024 Marshall
+2024 Jackson St.,2024,Jackson St.,West,14,First Round,1,Jackson St.,2024 Jackson St.
+2024 Maine,2024,Maine,West,15,First Round,1,Maine,2024 Maine
+2024 Texas A&M Corpus Chris,2024,Texas A&M Corpus Chris,West,16,First Round,1,A&M-Corpus Christi,2024 A&M-Corpus Christi
