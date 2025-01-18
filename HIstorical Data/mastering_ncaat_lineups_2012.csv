@@ -1,0 +1,885 @@
+﻿team_id,1_player,2_player,3_player,4_player,5_player,prpg!,dprpg,bpm,obpm,dbpm
+2012 Alabama,Trevor Releford,Levi Randolph,Andrew Steele,Nick Jacobs,JaMychal Green,11,18.7,22.9,7.9,13.2
+2012 Baylor,Pierre Jackson,A.J. Walton,Brady Heslip,Quincy Acy,Perry Jones III,15.3,16.8,23.8,14.6,9.3
+2012 Belmont,Kerron Johnson,Drew Hanlen,Ian Clark,Blake Jenkins,Mick Hedgepeth,13.8,12.6,19.9,17.3,2.6
+2012 BYU,Matt Carlino,Brock Zylstra,Charles Abouo,Noah Hartsock,Brandon Davies,12.3,18.2,21.1,10.9,11.7
+2012 California,Justin Cobbs,Jorge Gutierrez,Allen Crabbe,David Kravish,Harper Kamp,15.5,19.2,24.4,13.7,9.5
+2012 Cincinnati,Cashmere Wright,Dion Dixon,Jaquon Parker,Sean Kilpatrick,Yancy Gates,15.7,18.9,23.7,16.4,11.3
+2012 Colorado,Spencer Dinwiddie,Nate Tomlinson,Carlon Brown,Andre Roberson,Austin Dufault,11.3,16.6,19.1,10.7,9.5
+2012 Colorado St.,Dorian Green,Kaipo Sabas,Wes Eikmeier,Pierce Hornung,Will Bell,14.2,12,13.4,13.3,3.5
+2012 Connecticut,Shabazz Napier,Ryan Boatright,Jeremy Lamb,Roscoe Smith,Andre Drummond,14,16.8,18.8,11.9,5.4
+2012 Creighton,Antoine Young,Jahenns Manigat,Grant Gibbs,Doug McDermott,Gregory Echenique,17,12.6,22.3,21.3,12.9
+2012 Davidson,Nik Cochran,JP Kuhlman,Chris Czerapowicz,De'Mon Brooks,Jake Cohen,14.6,13.3,22.4,19.6,8.4
+2012 Detroit Mercy,Ray McCallum,Jason Calliste,Chase Simon,Doug Anderson,LaMarcus Lowe,10.8,12.4,7.4,7.2,1.9
+2012 Duke,Austin Rivers,Seth Curry,Tyler Thornton,Mason Plumlee,Miles Plumlee,13.7,15.5,23.3,14.7,9.6
+2012 Florida,Erving Walker,Kenny Boynton,Bradley Beal,Erik Murphy,Patric Young,20.5,15.3,30.4,26.2,7.8
+2012 Florida St.,Luke Loucks,Deividas Dulkys,Michael Snaer,Xavier Gibson,Bernard James,9.7,17.5,24.1,9,10.1
+2012 Georgetown,Jason Clark,Greg Whittington,Hollis Thompson,Otto Porter,Henry Sims,13,19.8,26.8,12.4,14.4
+2012 Gonzaga,Kevin Pangos,Gary Bell Jr.,Guy Edi,Elias Harris,Robert Sacre,12.9,15.7,23.2,15.2,10.8
+2012 Harvard,Brandyn Curry,Oliver McNally,Laurent Rivard,Kyle Casey,Keith Wright,11.3,17.4,19.6,9.5,8
+2012 Indiana,Jordan Hulls,Will Sheehey,Victor Oladipo,Christian Watford,Cody Zeller,17.4,16.2,30.5,23.1,10.7
+2012 Iona,Scott Machado,Lamont Jones,Sean Armand,Randy Dezouvre,Mike Glover,15.5,12.5,19.1,18.9,-0.1
+2012 Iowa St.,Scott Christopherson,Chris Allen,Chris Babb,Melvin Ejim,Royce White,13.2,16.8,18.3,11.7,7
+2012 Kansas,Tyshawn Taylor,Elijah Johnson,Travis Releford,Thomas Robinson,Jeff Withey,17.8,21.2,35.3,18.8,18.3
+2012 Kansas St.,Angel Rodriguez,Will Spradling,Rodney McGruder,Jamar Samuels,Jordan Henriquez,12,17,23.1,10.6,12.8
+2012 Kentucky,Marquis Teague,Doron Lamb,Michael Kidd-Gilchrist,Anthony Davis,Terrence Jones,19.9,22.6,40.7,24,18.7
+2012 Lamar,Anthony Miles,Mike James,Devon Lamb,Brandon Davis,Stan Brown,12,13.2,10.9,10.9,3.7
+2012 Lehigh,Mackey McKnight,C.J. McCollum,Jordan Hamilton,John Adams,Gabe Knutson,11.3,12.9,15,10,3.6
+2012 LIU,Jason Brickman,C.J. Garner,Michael Culpo,Jamal Olasewere,Julian Boyd,11.7,11,6.4,11.2,-3.6
+2012 Long Beach St.,Casper Ware,Mike Caffey,James Ennis,Eugene Phelps,T.J. Robinson,11,16.1,13.4,8.3,3.7
+2012 Louisville,Peyton Siva,Chris Smith,Kyle Kuric,Chane Behanan,Gorgui Dieng,11.5,22.2,25.4,8.8,16.3
+2012 Loyola MD,R.J. Williams,Dylon Cormier,Robert Olson,Erik Etherly,Shane Walker,9.4,13.9,8.4,5.4,5
+2012 Marquette,Junior Cadougan,Darius Johnson-Odom,Vander Blue,Jamil Wilson,Jae Crowder,14.1,18.5,26,13.8,9.5
+2012 Memphis,Joe Jackson,Chris Crawford,Will Barton,Ferrakohn Hall,Tarik Black,13.7,16.6,24.5,13.4,7.1
+2012 Michigan,Trey Burke,Stu Douglass,Tim Hardaway Jr.,Zack Novak,Jordan Morgan,16,17.5,18.9,13,7.7
+2012 Michigan St.,Keith Appling,Brandon Wood,Austin Thornton,Draymond Green,Adreian Payne,14.7,19.2,33.6,16,18.6
+2012 Mississippi Valley St.,Kevin Burwell,Brent Arrington,Terrence Joyner,Amos Studivant,Paul Crosby,3.7,11.2,-10.3,-7.6,-6.1
+2012 Missouri,Phl Pressey,Matt Pressey,Marcus Denmon,Kim English,Ricardo Ratliffe,19.9,16.6,29.6,25.7,9.1
+2012 Montana,Will Cherry,Art Steward,Kareem Jamar,Mathias Ward,Derek Selvig,11,18.6,15.7,6.8,9.5
+2012 Murray St.,Isaiah Canaan,Jewuan Long,Donte Poole,Edward Daniel,Ivan Aska,13.8,16.5,20.9,12.1,5.5
+2012 NC St.,Lorenzo Brown,Scott Wood,C.J. Williams,C.J. Leslie,Richard Howell,15.8,16.8,22.3,15.7,7.5
+2012 New Mexico,Kendall Williams,Hugh Greenwood,Tony Snell,A.J. Hardeman,Drew Gordon,10.6,17.8,24.5,10.8,8.4
+2012 New Mexico St.,Hernst Laroche,Daniel Mullings,Tyrone Watson,Wendell McKines,Hamidu Rahman,10.2,16.1,14.6,8.9,11.5
+2012 Norfolk St.,Pendarvis Williams,Chris McEachin,Rodney McCauley,Marcos Tamares,Kyle O'Quinn,6.9,12.6,3,0.8,0.3
+2012 North Carolina,Stilman White,Reggie Bullock,Harrison Barnes,John Henson,Tyler Zeller,14.1,16.3,31.3,16.3,14.7
+2012 Notre Dame,Eric Atkins,Jerian Grant,Pat Connaughton,Scott Martin,Jack Cooley,14,18.4,19.3,11.8,4.7
+2012 Ohio,D.J. Cooper,Nick Kellogg,Walter Offutt,Jon Smith,Ivo Baltic,9.3,15.9,17.5,8.2,6.7
+2012 Ohio St.,Aaron Craft,Lenzelle Smith Jr.,William Buford,Deshaun Thomas,Jared Sullinger,17.7,23,40.8,23.2,23.9
+2012 Purdue,Lewis Jackson,Ryne Smith,Terone Johnson,D.J. Byrd,Robbie Hummel,16.2,13.7,28,24.5,11.4
+2012 Saint Louis,Kwamain Mitchell,Mike McCall,Dwayne Evans,Brian Conklin,Rob Loe,11.5,16.5,24,12,13.8
+2012 Saint Mary's,Matthew Dellavedova,Jorden Page,Clint Steindl,Rob Jones,Brad Waldow,14,14.8,17.4,15.1,4.3
+2012 San Diego St.,Xavier Thames,Chase Tapley,James Rahon,Jamaal Franklin,Tim Shelton,11.8,17.8,17.5,8.7,11.4
+2012 South Dakota St.,Nate Wolters,Brayden Carlson,Griffan Callahan,Tony Fiegen,Jordan Dykstra,14.1,13.9,14.8,12.9,1.4
+2012 South Florida,Anthony Collins,Hugh Robertson,Victor Rudd,Ron Anderson Jr.,Augustus Gilchrist,7.4,17.7,10.3,-0.9,8.7
+2012 Southern Miss,Neil Watson,Angelo Johnson,LaShay Page,Torye Pelham,Darnell Dodson,12,13.4,20.8,15.9,6.1
+2012 St. Bonaventure,Charlon Kloof,Jordan Gathers,Demitrius Conger,Da'Quan Cook,Andrew Nicholson,10.3,13.1,13.2,8.6,2.9
+2012 Syracuse,Scoop Jardine,Brandon Triche,Kris Joseph,C.J. Fair,Rakeem Christmas,12,15.5,23.3,14.5,9.8
+2012 Temple,Khaliff Wyatt,Juan Fernandez,Ramone Moore,Rahlir Hollis-Jefferson,Micheal Eric,15.8,16.9,20.5,14.3,6.5
+2012 Texas,Myck Kabongo,J'Covan Brown,Julien Lewis,Jonathan Holmes,Clint Chapman,12.5,15,15.6,9.1,5.5
+2012 UNC Asheville,Matt Dickey,J.P. Primm,Jaron Lane,Chris Stephenson,Jeremy Atkinson,14.8,13.1,11.5,13.4,-1
+2012 UNLV,Oscar Bellfield,Anthony Marshall,Chace Stanback,Mike Moser,Brice Massamba,12.1,17.3,18.4,9.5,8.5
+2012 Vanderbilt,Brad Tinsley,John Jenkins,Jeffery Taylor,Lance Goulbourne,Festus Ezeli,17.4,17.5,30.8,20.8,8.2
+2012 VCU,Darius Theus,Rob Brandenberg,Troy Daniels,Bradford Burgess,Juvonte Reddic,10.7,16.5,17.6,10.4,9.9
+2012 Vermont,Sandro Carissimo,Brendan Bald,Brian Voelkel,Luke Apfield,Matt Glass,6.8,12.9,5.4,2.7,4.1
+2012 Virginia,Jontel Evans,Sammy Zeglinski,Joe Harris,Akil Mitchell,Mike Scott,11.2,21.3,25,8.9,11
+2012 West Virginia,Jabarie Hinds,Darryl Bryant,Keaton Miles,Deniz Kilicli,Kevin Jones,13.5,15.8,15.9,9.5,5.6
+2012 Western Kentucky,Jamal Crook,Derrick Gordon,T.J. Price,George Fant,Teeng Akol,4.8,12.9,-1.7,-4.4,2.1
+2012 Wichita St.,Joe Ragland,Demetric Williams,Toure' Murry,Ben Smith,Garrett Stutz,14.9,16.1,28.2,19.5,12.9
+2012 Wisconsin,Jordan Taylor,Josh Gasser,Rob Wilson,Ryan Evans,Jared Berggren,14.5,20.7,28.8,13.8,13.5
+2012 Xavier,Tu Holloway,Mark Lyons,Dezmine Wells,Andre Walker,Kenny Frease,12.7,17,19.6,11.9,6.1
+2013 Akron,Carmelo Betancourt,Brian Walsh,Chauncey Gilliam,Demetrius Tree Treadwell,Zeke Marshall,7.8,12.9,8.3,0.1,9.42
+2013 Albany,Mike Black,Jacob Iati,Gary Johnson,Sam Rowley,John Puk,7.9,11.7,1,-1,-0.4
+2013 Arizona,Mark Lyons,Nick Johnson,Kevin Parrom,Solomon Hill,Kaleb Tarczewski,15.5,17.2,27.3,17.9,12.6
+2013 Belmont,Kerron Johnson,Ian Clark,J.J. Mann,Blake Jenkins,Trevor Noack,14.9,16.8,20.1,15.2,6.5
+2013 Boise St.,Derrick Marks,Jeff Elorriaga,Igor Hadziomerovic,Anthony Drmic,Ryan Watkins,14.9,15.2,19.5,14.6,11
+2013 Bucknell,Bryson Johnson,Steven Kaspar,Cameron Ayers,Joe Willman,Mike Muscala,13.8,17.1,22.9,12.9,9.7
+2013 Butler,Rotnei Clarke,Kellen Dunham,Roosevelt Jones,Khyle Marshall,Andrew Smith,14.7,15.4,22.6,17.3,7.7
+2013 California,Justin Cobbs,Tyrone Wallace,Allen Crabbe,David Kravish,Richard Solomon,12.9,18.3,17.5,8,7.7
+2013 Cincinnati,Cashmere Wright,JaQuon Parker,Sean Kilpatrick,Titus Rubles,Cheikh Mbodj,12.2,18.5,22,8.8,8.3
+2013 Colorado,Askia Booker,Spencer Dinwiddie,Xavier Johnson,Andre Roberson,Josh Scott,13.9,18.8,21.6,10.9,9.2
+2013 Colorado St.,Wes Eikmeier,Jonathan Octeus,Pierce Hornung,Greg Smith,Colton Iverson,15,14.7,19.5,15.4,7.8
+2013 Creighton,Austin Chatman,Jahenns Manigat,Grant Gibbs,Doug McDermott,Gregory Echenique,16.6,16.2,26.9,18.7,19
+2013 Davidson,Nik Cochran,JP Kuhlman,Chris Czerapowicz,De'Mon Brooks,Jake Cohen,13.3,14,16.9,14.4,4.2
+2013 Duke,Quinn Cook,Seth Curry,Rasheed Sulaimon,Ryan Kelly,Mason Plumlee,21.8,20.4,39.1,28.1,16
+2013 Florida,Scottie Wilbekin,Kenny Boynton,Mike Rosario,Erik Murphy,Patric Young,18.5,21.5,38,21.4,20
+2013 Florida Gulf Coast,Brett Comer,Bernard Thompson,Sherwood Brown,Chase Fieler,Eric McKnight,9.9,14.8,13.8,7,9.7
+2013 Georgetown,Markel Starks,D'Vaun Smith-Rivera,Jabril Trawick,Otto Porter,Nate Lubick,13.7,21.6,29.5,13,19.6
+2013 Gonzaga,Kevin Pangos,Gary Bell Jr.,Mike Hart,Elias Harris,Kelly Olynyk,19,17.4,42,28.4,16.9
+2013 Harvard,Siyani Chambers,Christian Webster,Laurent Rivard,Wesley Saunders,Kenyatta Smith,11.4,14.6,8.7,5.1,5
+2013 Illinois,Tracy Abrams,D.J. Richardson,Brandon Paul,Tyler Griffey,Nnanna Egwu,13.1,16.3,20.3,11.3,11
+2013 Indiana,Kevin Yogi Ferrell,Jordan Hulls,Victor Oladipo,Christian Watford,Cody Zeller,20.8,19.6,42.7,28.4,17.5
+2013 Iona,Tavon Sledge,Lamont Jones,Sean Armand,Taaj Ridley,David Laury,15.4,11.6,9.3,12.5,-1.8
+2013 Iowa St.,Korie Lucious,Chris Babb,Will Clyburn,Melvin Ejim,Georges Niang,15.3,15.1,18.4,16.3,4.7
+2013 James Madison,Devon Moore,Andre Nation,Alioune Diouf,A.J. Davis,Rayshawn Goins,7.8,12.7,5.1,3.4,5
+2013 Kansas,Elijah Johnson,Ben McLemore,Travis Releford,Kevin Young,Jeff Withey,16.4,21.3,37,19,17.5
+2013 Kansas St.,Angel Rodriguez,Martavious Irving,Rodney McGruder,Shane Southwell,Thomas Gipson,12.9,14.9,22.1,16.4,6
+2013 La Salle,Tyreek Duren,Tyrone Garland,Sam Mills,Ramon Galloway,Jerrell Wright,14.4,16.2,19.1,15.1,7.6
+2013 Liberty,John Caleb Sanders,Davon Marshall,Tavares Speaks,Andrew Smith,JR Coronado,10.3,10.4,1.9,7.3,-3.4
+2013 LIU,Jason Brickman,C.J. Garner,Brandon Thompson,E.J. Reed,Jamal Olasewere,11.6,8.2,-0.9,8,-9.6
+2013 Louisville,Peyton Siva,Russ Smith,Wayne Blackshear,Chane Behanan,Gorgui Dieng,15.4,22.4,38.4,18.7,20.1
+2013 Marquette,Junior Cadougan,Vander Blue,Trent Lockett,Jamil Wilson,Davante Gardner,14.2,14.7,24.3,17.6,9.6
+2013 Memphis,Joe Jackson,Geron Johnson,D.J. Stephens,Adonis Thomas,Shaq Goodwin,11.5,17.2,22.1,8.9,14.3
+2013 Miami FL,Shane Larkin,Durand Scott,Trey McKinney Jones,Julian Gamble,Kenny Kadji,16.2,20.1,29.4,16.3,12
+2013 Michigan,Trey Burke,Nik Stauskas,Tim Hardaway Jr.,Glenn Robinson III,Mitch McGary,21.1,17.5,35.1,26.1,12.2
+2013 Michigan St.,Keith Appling,Gary Harris,Branden Dawson,Adreian Payne,Derrick Nix,16,20.3,33.4,17.9,16.4
+2013 Middle Tennessee,Bruce Massey,Marcos Knight,Kerry Hammonds,JT Sulton,Shawn Jones,7.6,15.3,19.5,6.4,9.7
+2013 Minnesota,Andre Hollins,Austin Hollins,Joe Coleman,Rodney Williams,Trevor Mbakwe,15.5,17.2,28.4,19.2,10.6
+2013 Mississippi,Marshall Henderson,Nick Williams,Ladarius White,Murphy Holloway,Reginald Buckner,12.6,15.9,19.9,13.5,9.2
+2013 Missouri,Phl Pressey,Keion Bell,Jabari Brown,Laurence Bowers,Alex Oriakhi,17.3,16.7,27.8,20.2,11.4
+2013 Montana,Will Cherry,Jordan Gregory,Kareem Jamar,Spencer Coleman,Eric Hutchison,8.8,11.7,6.1,4.4,2.2
+2013 NC St.,Lorenzo Brown,Scott Wood,C.J. Leslie,T.J. Warren,Richard Howell,18.9,16.7,25.3,20,10
+2013 New Mexico,Kendall Williams,Hugh Greenwood,Tony Snell,Cameron Bairstow,Alex Kirk,14.3,19.2,25.9,14.4,11.7
+2013 New Mexico St.,Kendall Williams,Hugh Greenwood,Tony Snell,Cameron Bairstow,Alex Kirk,14.3,19.2,25.9,14.4,11.7
+2013 North Carolina,Marcus Paige,Dexter Strickland,P.J. Hairston,Reggie Bullock,James Michael McAdoo,14.3,16.8,26.1,17.4,14.5
+2013 North Carolina A&T,Lamont Middleton,Jean Louisme,Adrian Powell,Austin Witter,Bruce Beckford,3.5,15.4,1.8,-4,-1.2
+2013 Northwestern St.,Jalan West,Brison White,Gary Roberson,Marvin Frazier,James Hulbin,7.5,8.9,7.8,6.7,-0.7
+2013 Notre Dame,Jerian Grant,Eric Atkins,Pat Connaughton,Jack Cooley,Tom Knight,17.1,16,24,16.4,12
+2013 Ohio St.,Aaron Craft,Lenzelle Smith Jr.,Sam Thompson,Deshaun Thomas,Amir Williams,14.9,18.7,28.8,15.9,20.3
+2013 Oklahoma,Sam Grooms,Je'lon Hornbeak,Steven Pledger,Amath M'Baye,Romero Osby,11.8,14,18.7,13.6,5.4
+2013 Oklahoma St.,Marcus Smart,Phil Forte,Markel Brown,Le'Bryan Nash,Michael Cobbins,14.3,20,27.4,14,13.1
+2013 Oregon,Dominic Artis,Damyean Dotson,E.J. Singler,Arsalan Kazemi,Tony Woods,10.5,17.2,21.2,9.1,11.6
+2013 Pacific,Lorenzo McCloud,Sama Taku,Colin Beatty,Travis Fulton,Khalil Kelley,7.4,10.6,1.6,3.2,2.1
+2013 Pittsburgh,Tray Woodall,James Robinson,Lamar Patterson,Talib Zanna,Steven Adams,13.9,17.6,32.6,18.6,16.8
+2013 Saint Louis,Kwamain Mitchell,Mike McCall Jr.,Dwayne Evans,Grandy Glaze,Rob Loe,10.3,17.2,22.6,8.7,11
+2013 Saint Mary's,Matthew Dellavedova,Jordan Giusti,Stephen Holt,Beau Levesque,Brad Waldow,15.6,13.9,24.4,17.9,10.8
+2013 San Diego St.,Xavier Thames,Chase Tapley,Jamaal Franklin,JJ O'Brien,Deshawn Stephens,12.1,18.9,22.5,9.6,12.4
+2013 South Dakota St.,Nate Wolters,Brayden Carlson,Chad White,Tony Fiegen,Jordan Dykstra,14.8,13.3,10.6,13.3,-0.7
+2013 Southern,Jameel Grace,Cameron Monroe,Derick Beltran,Javan Mitchell,Brandon Moore,3.2,13.4,-10.3,-13,-0.9
+2013 Syracuse,Michael Carter-Williams,Brandon Triche,James Southerland,C.J. Fair,Rakeem Christmas,16.8,20.8,33.1,18.2,17.3
+2013 Temple,Khaliff Wyatt,Will Cummings,Rahlir Hollis-Jefferson,Scootie Randall,Jake O'Brien,12.8,14.6,18.8,13.5,8.1
+2013 UCLA,Larry Drew II,Jordan Adams,Shabazz Muhammad,Travis Wear,Kyle Anderson,15.2,17.7,22.9,15.2,7.4
+2013 UNLV,Anthony Marshall,Katin Reinhardt,Bryce Dejean-Jones,Khem Birch,Anthony Bennett,11.5,18,24.2,11.5,9.6
+2013 Valparaiso,Erik Buggs,Will Bogan,Matt Kenney,Ryan Broekhoff,Kevin Van Wijk,11.8,14.2,19.3,13.8,11.5
+2013 VCU,Darius Theus,Rob Brandenberg,Troy Daniels,Treveon Graham,Juvonte Reddic,15.6,16.5,29.9,23.4,14
+2013 Villanova,Ryan Arcidiacono,Darrun Hilliard,James Bell,JayVaughn Pinkston,Mouphtaou Yarou,12.1,17.5,20.2,10.9,11.1
+2013 Western Kentucky,Jamal Crook,Caden Dickerson,T.J. Price,George Fant,Aleksejs Rostov,6.5,11,-2.1,-1.8,-0.7
+2013 Wichita St.,Malcolm Armstead,Tekele Cotton,Ron Baker,Cleanthony Early,Carl Hall,14,16.3,28.8,18.7,14.1
+2013 Wisconsin,Traevon Jackson,Ben Brust,Mike Bruesewitz,Ryan Evans,Jared Berggren,11.3,21.8,23.6,5.7,14.3
+2014 Albany,DJ Evans,Peter Hooley,Gary Johnson,Sam Rowley,John Puk,7.8,13.3,0,-0.9,-0.6
+2014 American,Darius Gardner,Jesse Reed,John Schoof,Marko Vasic,Tony Wroblicky,9.9,17.7,8.7,1.2,5.1
+2014 Arizona,T.J. McConnell,Gabe York,Nick Johnson,Aaron Gordon,Kaleb Tarczewski,14.2,22.3,34.3,15.1,18.6
+2014 Arizona St.,Jahii Carson,Jermaine Marshall,Shaquielle McKissic,Jonathan Gilling,Jordan Bachynski,13,18.8,21.2,10.4,9.8
+2014 Baylor,Kenny Chery,Brady Heslip,Royce O'Neale,Cory Jefferson,Isaiah Austin,17,14.4,28.9,21.9,11.1
+2014 BYU,Kyle Collinsworth,Anson Winder,Tyler Haws,Eric Mika,Nate Austin,12.9,14.2,17.5,12.1,6.8
+2014 Cal Poly,Jamal Johnson,Kyle Odister,Dave Nwaba,Joel Awich,Chris Eversley,7.4,11.3,7.5,4.2,-0.5
+2014 Cincinnati,Ge'Lawn Guyn,Sean Kilpatrick,Shaquille Thomas,Titus Rubles,Justin Jackson,10.8,19.1,23,6.8,12.2
+2014 Coastal Carolina,Josh Cameron,Warren Gillis,Elijah Wilson,Badou Diagne,El Hadji Ndieguene,5.9,13.7,1.1,-2.1,1.3
+2014 Colorado,Askia Booker,Xavier Talton,Xavier Johnson,Wesley Gordon,Josh Scott,10.5,16.6,16.5,7.1,7
+2014 Connecticut,Shabazz Napier,Ryan Boatright,Niels Giffey,DeAndre Daniels,Phillip Nolan,14.4,17.2,25.9,13.1,13.4
+2014 Creighton,Austin Chatman,Jahenns Manigat,Grant Gibbs,Ethan Wragge,Doug McDermott,19.9,14.8,31.1,26.1,10.7
+2014 Dayton,Khari Price,Jordan Sibert,Dyshawn Pierre,Devin Oliver,Matt Kavanaugh,13.4,12.5,22.6,17.6,9.2
+2014 Delaware,Jarvis Threatt,Kyle Anderson,Devon Saddler,Davon Usher,Carl Baptiste,17.4,16.9,21.9,17.7,8.6
+2014 Duke,Rasheed Sulaimon,Tyler Thornton,Rodney Hood,Amile Jefferson,Jabari Parker,18.2,15.4,30.7,22.2,11.8
+2014 Eastern Kentucky,Glenn Cosey,Marcus Lewis,Corey Walden,Tarius Johnson,Eric Stutz,12.8,11.6,7.7,9.5,0.8
+2014 Florida,Scottie Wilbekin,Michael Frazier,Casey Prather,Will Yeguete,Patric Young,15.7,21.1,36.4,17.6,13.9
+2014 George Washington,Joe McDonald,Maurice Creek,Patricio Garino,Isaiah Armwood,Kevin Larsen,13.1,18.3,22,11.9,9.4
+2014 Gonzaga,David Stockton,Kevin Pangos,Gary Bell Jr.,Sam Dower Jr.,Przemek Karnowski,14,18.1,23.3,12,14.9
+2014 Harvard,Siyani Chambers,Laurent Rivard,Wesley Saunders,Steve Moundo-Missi,Kyle Casey,12.3,17.7,19.5,9.2,9.8
+2014 Iowa,Mike Gesell,Roy Devyn Marble,Melsahn Basabe,Aaron White,Adam Woodbury,13.2,14.3,27.3,18.3,13.4
+2014 Iowa St.,DeAndre Kane,Monte Morris,Naz Long,Dustin Hogue,Melvin Ejim,16.1,17.3,26.4,17.4,10.9
+2014 Kansas,Naadir Tharpe,Wayne Selden Jr.,Andrew Wiggins,Perry Ellis,Tarik Black,15.7,15.6,27.8,19.1,12.5
+2014 Kansas St.,Will Spradling,Marcus Foster,Wesley Iwundu,Shane Southwell,Thomas Gipson,10.3,16.9,22.4,10.3,11.4
+2014 Kentucky,Andrew Harrison,Aaron Harrison,James Young,Julius Randle,Dakari Johnson,15.1,16.7,22,15.5,9.6
+2014 Louisiana,Elfrid Payton,Bryant Mbamalu,Xavian Rimmer,Elridge Moore,Shawn Long,11.4,12.6,11,10.6,-2.8
+2014 Louisville,Russ Smith,Chris Jones,Luke Hancock,Montrezl Harrell,Stephan Van Treese,15.6,19.6,40.6,20.9,21.8
+2014 Manhattan,Michael Alvarado,RaShawn Stores,George Beamon,Emmy Andujar,Rhamel Brown,9.1,14.7,20.3,9.3,10.5
+2014 Massachusetts,Chaz Williams,Derrick Gordon,Raphiael Putney,Sampson Carter,Cady Lalanne,10.4,17.3,14.8,6.5,8.5
+2014 Memphis,Joe Jackson,Geron Johnson,Chris Crawford,Austin Nichols,Shaq Goodwin,10.7,17.3,18.7,8.5,10.6
+2014 Mercer,Langston Hall,Anthony White,Bud Thomas,Jake Gollon,Daniel Coursey,8.2,13.9,11.3,4.7,5.6
+2014 Michigan,Derrick Walton Jr.,Nik Stauskas,Caris LeVert,Glenn Robinson III,Jordan Morgan,18.5,15.8,26.2,20.9,8.3
+2014 Michigan St.,Keith Appling,Gary Harris,Denzel Valentine,Branden Dawson,Adreian Payne,17.7,19.6,34.5,22,15.6
+2014 Milwaukee,Jordan Aaron,Steve McWhorter,Austin Arians,Kyle Kelm,Matt Tiby,9,13.2,2.9,3.4,1.5
+2014 Mount St. Mary's,Julian Norfleet,Byron Ashe,Sam Prescott,Rashad Whack,Taylor Danaher,10.4,8.7,-0.3,6.1,-2
+2014 NC St.,Tyler Lewis,Ralston Turner,T.J. Warren,Kyle Washington,Jordan Vandenberg,11.9,12,14,10.7,-0.1
+2014 Nebraska,Benny Parker,Ray Gallegos,Terran Petteway,Shavon Shields,Walter Pitchford,11.9,15.1,20.4,9.8,11
+2014 New Mexico,Kendall Williams,Hugh Greenwood,Deshawn Delaney,Cameron Bairstow,Alex Kirk,16.4,17.7,30.2,17.4,17.3
+2014 New Mexico St.,Daniel Mullings,DK Eldridge,Kevin Aronis,Tshilidzi Nephawe,Sim Bhullar,11.4,13.7,17.3,11.9,5.6
+2014 North Carolina,Marcus Paige,Leslie McDonald,J.P. Tokoto,James Michael McAdoo,Kennedy Meeks,12.7,17.6,26,15.2,11.3
+2014 North Carolina Central,Emanuel Chapman,Jeremy Ingram,Alfonzo Houston,Karamo Jawara,Jay Copeland,9,16.4,10.1,4.1,4.2
+2014 North Dakota St.,Lawrence Alexander,Kory Brown,TrayVonn Wright,Taylor Braun,Marshall Bjorklund,15.4,13.6,17.2,15.1,7.3
+2014 Ohio St.,Aaron Craft,Lenzelle Smith Jr.,Sam Thompson,LaQuinton Ross,Amir Williams,11.9,20.8,28,10.7,20.4
+2014 Oklahoma,Jordan Woodard,Isaiah Cousins,Buddy Hield,Cameron Clark,Ryan Spangler,16.3,15.5,22.8,17.3,8.3
+2014 Oklahoma St.,Marcus Smart,Phil Forte,Markel Brown,Le'Bryan Nash,Kamari Murphy,17.6,19.1,30.6,18.6,12.4
+2014 Oregon,Johnathan Loyd,Joseph Young,Damyean Dotson,Mike Moser,Waverly Austin,13,12.4,19.7,13.7,9.2
+2014 Pittsburgh,Lamar Patterson,James Robinson,Cameron Wright,Michael Young,Talib Zanna,15.9,18.3,29.5,16.9,12.7
+2014 Providence,Bryce Cotton,Josh Fortune,LaDontae Henton,Tyler Harris,Kadeem Batts,16.2,17.2,15.2,13.1,2.8
+2014 Saint Joseph's,Chris Wilson,Langston Galloway,DeAndre Bembry,Ronald Roberts,Halil Kanacevic,14.8,18.3,21.4,12.8,10.8
+2014 Saint Louis,Jordair Jett,Mike McCall Jr.,Jake Barnett,Dwayne Evans,Rob Loe,9,20.1,21,4.3,14.6
+2014 San Diego St.,Xavier Thames,JJ O'Brien,Winston Shepard,Josh Davis,Skylar Spencer,9.5,20.5,22.8,7.6,13.6
+2014 Stanford,Chasson Randle,Anthony Brown,Josh Huestis,Dwight Powell,Stefan Nastic,15.2,17.6,20.7,11.9,9.1
+2014 Stephen F. Austin,Trey Pinkney,Desmond Haymon,Thomas Walkup,Nikola Gajic,Jacob Parker,11.1,14.5,19.3,11.9,7.7
+2014 Syracuse,Tyler Ennis,Trevor Cooney,C.J. Fair,Jerami Grant,Rakeem Christmas,17.4,20.5,28.9,15,15.7
+2014 Tennessee,Antonio Barton,Jordan McRae,Josh Richardson,Jeronne Maymon,Jarnell Stokes,16.5,18.2,30.1,19.6,11.2
+2014 Texas,Javan Felix,Isaiah Taylor,Demarcus Holland,Jonathan Holmes,Cameron Ridley,10.8,16.4,20,10.9,13.2
+2014 Texas Southern,Madarious Gibbs,Lawrence Johnson-Danner,D'Aris Scarver,D'Angelo Scott,Aaric Murray,8.5,7.9,-3.7,3.5,-5.9
+2014 Tulsa,Shaquille Harrison,James Woodard,Tim Peete,Rashad Smith,D'Andre Wright,9,14.5,15.5,6.2,10.6
+2014 UCLA,Kyle Anderson,Norman Powell,Jordan Adams,Travis Wear,David Wear,15.9,16.7,31.2,19,11.8
+2014 VCU,Briante Weber,Rob Brandenberg,Jordan Burgess,Treveon Graham,Juvonte Reddic,9.6,19.2,26,8.3,21.8
+2014 Villanova,Ryan Arcidiacono,Darrun Hilliard,James Bell,JayVaughn Pinkston,Daniel Ochefu,14.1,18.6,31,15.6,17.2
+2014 Virginia,London Perrantes,Malcolm Brogdon,Joe Harris,Akil Mitchell,Mike Tobey,12,20.1,30.4,12,16.4
+2014 Weber St.,Davion Berry,Jordan Richardson,Jeremy Senglin,Kyle Tresnak,Joel Bolomboy,10,12.4,4.3,6,-3.2
+2014 Western Michigan,David Brown,Austin Richie,Tucker Haymond,Connar Tava,Shayne Whittington,11.5,14.9,8.9,6.2,2.6
+2014 Wichita St.,Fred VanVleet,Tekele Cotton,Ron Baker,Cleanthony Early,Kadeem Coleby,15,17.9,33.2,16,20.8
+2014 Wisconsin,Traevon Jackson,Ben Brust,Josh Gasser,Sam Dekker,Frank Kaminsky,20.2,18.2,31.9,22.6,13
+2014 Wofford,Karl Cochran,Eric Garcia,Spencer Collins,Lee Skinner,CJ Neumann,8.5,13.4,4.9,2.9,2.7
+2014 Xavier,Dee Davis,Semaj Christon,Justin Martin,Isaiah Philmore,Jalen Reynolds,11.7,14,11.2,7.2,5.1
+2015 Albany,Evan Singletary,Peter Hooley,Ray Sanders,Sam Rowley,Michael Rowley,10.6,14.4,8.8,7.7,2.6
+2015 Arizona,T.J. McConnell,Stanley Johnson,Rondae Hollis-Jefferson,Brandon Ashley,Kaleb Tarczewski,14.9,22.4,36.2,17.1,19.5
+2015 Arkansas,Rashad Madden,Anton Beard,Michael Qualls,Alandise Harris,Bobby Portis,14.3,14.4,25.9,19.2,6.6
+2015 Baylor,Kenny Chery,Lester Medford,Royce O'Neale,Taurean Prince,Rico Gathers,16.1,20,33.6,21.3,16.3
+2015 Belmont,Reece Chamberlain,Taylor Barnette,Craig Bradshaw,Evan Bradds,Amanze Egekeze,11.4,11.8,10.7,11.7,3.1
+2015 Boise St.,Derrick Marks,Igor Hadziomerovic,Chandler Hutchison,Nick Duncan,James Webb III,11.8,15.2,19.7,10.4,10.3
+2015 Buffalo,Shannon Evans,Lamonte Bearden,Jarryn Skeete,Xavier Ford,Justin Moss,11.9,16.3,15.6,10.9,5.6
+2015 Butler,Alexander Barlow,Kellen Dunham,Roosevelt Jones,Andrew Chrabascz,Kameron Woods,13.6,22.4,28.5,12.8,16.1
+2015 BYU,Kyle Collinsworth,Chase Fischer,Tyler Haws,Josh Sharp,Corbin Kaufusi,13.5,12.1,19.2,15.6,2.5
+2015 Cincinnati,Troy Caupain,Farad Cobb,Shaq Thomas,Gary Clark,Octavius Ellis,11.1,17.7,24.3,11.2,13.7
+2015 Coastal Carolina,Shivaughn Wiggins,Josh Cameron,Warren Gillis,Badou Diagne,Tristian Curtis,8.2,12.4,5.4,5.2,0.3
+2015 Davidson,Jack Gibbs,Brian Sullivan,Tyler Kalinoski,Jordan Barham,Peyton Aldridge,20.2,14.6,27.8,26.8,6.8
+2015 Dayton,Scoochie Smith,Kyle Davis,Jordan Sibert,Kendall Pollard,Dyshawn Pierre,11.6,19.9,17.3,7.1,7.9
+2015 Duke,Tyus Jones,Quinn Cook,Matt Jones,Justise Winslow,Jahlil Okafor,19.9,19,38.2,26.2,12.6
+2015 Eastern Washington,Tyler Harvey,Parker Kelly,Drew Brandon,Ognjen Miljkovic,Venky Jois,13.8,11.5,7.3,12,-3.8
+2015 Georgetown,D'Vauntes Smith-Rivera,L.J. Peak,Jabril Trawick,Isaac Copeland,Joshua Smith,12.8,15.9,23.2,15.1,9.8
+2015 Georgia,J.J. Frazier,Charles Mann,Cameron Forte,Nemanja Djurisic,Marcus Thornton,12.7,14.7,17.8,13.8,5.5
+2015 Georgia St.,Ryann Green,Kevin Ware,R.J. Hunter,Markus Crider,Curtis Washington,9.3,14.6,11.4,4.7,6.9
+2015 Gonzaga,Kevin Pangos,"Gary Bell, Jr.",Byron Wesley,Kyle Wiltjer,Przemek Karnowski,17.3,18.4,34.7,23.8,18.8
+2015 Hampton,Deron Powers,Brian Darden,Reginald Johnson,Quinton Chirvous,Jervon Pressley,4.9,9.2,-9.1,-0.8,-7.2
+2015 Harvard,Siyani Chambers,Corbin Miller,Wesley Saunders,Jonah Travis,Steve Moundou-Missi,9.7,17.3,15.4,7.8,7.3
+2015 Indiana,Yogi Ferrell,Robert Johnson,James Blackmon Jr.,Troy Williams,Hanner Mosquera-Perea,16.5,12.8,17.6,18.5,2.9
+2015 Iowa,Mike Gesell,Peter Jok,Jarrod Uthoff,Aaron White,Adam Woodbury,12.4,17,25.9,15,16.1
+2015 Iowa St.,Monte Morris,Naz Long,Dustin Hogue,Georges Niang,Jameel McKay,17.3,17.4,27.7,19.2,11.8
+2015 Kansas,Frank Mason,Wayne Selden Jr.,Kelly Oubre,Perry Ellis,Landen Lucas,12.3,17.1,25.8,13.5,14.3
+2015 Kentucky,Andrew Harrison,Aaron Harrison,Trey Lyles,Willie Cauley-Stein,Karl-Anthony Towns,14.2,20.6,45,21.2,22.5
+2015 Lafayette,Nick Lindner,Joey Ptasinski,Bryce Scott,Seth Hinrichs,Dan Trist,15.4,8.2,3.6,15,-5.4
+2015 Louisville,Terry Rozier,Quentin Snider,Wayne Blackshear,Montrezl Harrell,Mangok Mathiang,11.2,20.2,23.3,8,17.5
+2015 LSU,Jalyn Patterson,Keith Hornsby,Tim Quarterman,Jordan Mickey,Jarell Martin,12.8,20.4,21.8,11,9
+2015 Manhattan,RaShawn Stores,Shane Richards,Donovan Kates,Emmy Andujar,Ashton Pankey,8.6,14.1,8.8,5.6,5.1
+2015 Maryland,Melo Trimble,Richaud Pack,Dez Wells,Jake Layman,Damonte Dodd,13.5,17.6,23.9,11.7,14
+2015 Michigan St.,Travis Trice,Bryn Forbes,Denzel Valentine,Branden Dawson,Matt Costello,16.2,18.3,35.1,22.8,12.9
+2015 Mississippi,Jarvis Summers,Stefan Moody,Martavious Newby,Sebastian Saiz,M.J. Rhett,11.3,13.4,17,11.7,5.4
+2015 NC St.,Trevor Lacey,Ralston Turner,Caleb Martin,Abdul-Malik Abu,Lennard Freeman,11.4,13.7,16.9,13,4.1
+2015 New Mexico St.,Ian Baker,Daniel Mullings,Remi Barry,Pascal Siakam,Tshilidzi Nephawe,11.8,16.7,16.6,10,8.2
+2015 North Carolina,Marcus Paige,J.P. Tokoto,Justin Jackson,Brice Johnson,Kennedy Meeks,16.2,18.3,37.1,24.1,15.8
+2015 North Dakota St.,Lawrence Alexander,Carlin Dupree,Kory Brown,A.J. Jacobson,Chris Kading,7.2,14.7,2,-0.4,4
+2015 North Florida,Dallas Moore,Jalen Nesbitt,Demarcus Daniels,Beau Beech,Chris Davenport,10.7,13.8,8.8,8.2,2
+2015 Northeastern,T.J. Williams,David Walker,Zach Stahl,Quincy Ford,Scott Eatherton,10.5,15,9.1,7.6,2.7
+2015 Northern Iowa,Deon Mitchell,Matt Bohannon,Jeremy Morgan,Marvin Singleton,Seth Tuttle,11.4,15.9,26.6,14.6,12.4
+2015 Notre Dame,Jerian Grant,Demetrius Jackson,Steve Vasturia,Pat Connaughton,Zach Auguste,21.2,17.4,30,25.1,10.1
+2015 Ohio St.,Shannon Scott,D'Angelo Russell,Jae'Sean Tate,Sam Thompson,Amir Williams,13.8,19.1,28.7,15.1,12.4
+2015 Oklahoma,Jordan Woodard,Isaiah Cousins,Buddy Hield,Ryan Spangler,TaShawn Thomas,14.2,23,31.4,15.2,15.7
+2015 Oklahoma St.,Anthony Hickey,Phil Forte,Jeff Newberry,Le'Bryan Nash,Michael Cobbins,13.8,18,22.9,13.9,10.9
+2015 Oregon,Joseph Young,Casey Benson,Elgin Cook,Dillon Brooks,Jordan Bell,12.5,14.4,16.4,10.2,8.1
+2015 Providence,Kris Dunn,LaDontae Henton,Tyler Harris,Ben Bentil,Carson Desrosiers,14.3,18.3,23.4,13.1,10.6
+2015 Purdue,Jon Octeus,Dakota Mathias,Rapheal Davis,Vince Edwards,A.J. Hammons,11.1,15.8,22.6,12,13.8
+2015 Robert Morris,Kavon Stewart,Marcquise Reed,Rodney Prior,Aaron Tate,Elijah Minnie,6.3,11.5,4.7,3.5,-0.3
+2015 San Diego St.,Aqeel Quinn,Matt Shrigley,JJ O'Brien,Winston Shepard,Skylar Spencer,7.5,18.9,22.3,5.6,17.3
+2015 SMU,Nic Moore,Ryan Manuel,Sterling Brown,Markus Kennedy,Yanick Moreira,13.4,16.6,26.2,16.8,11.7
+2015 St. John's,Rysheed Jordan,Phil Greene IV,D'Angelo Harrison,Sir'Dominic Pointer,Amar Alibegovic,12.8,17.4,14.3,7.9,6
+2015 Stephen F. Austin,Trey Pinkney,Dallas Cameron,Thomas Walkup,Ty Charles,Jacob Parker,10.4,13.4,18.2,12.2,9.1
+2015 Texas,Isaiah Taylor,Kendal Yancy,Jonathan Holmes,Connor Lammert,Cameron Ridley,11.3,15.9,21,11,8.5
+2015 Texas Southern,Madarious Gibbs,David Blanks,Chris Thomas,Malcolm Riley,Tonnie Collier,7.7,9.7,-0.6,6.8,-3.6
+2015 UAB,Nick Norton,Hakeem Baxter,Robert Brown,Tosin Mehinti,William Lee,6.3,13.1,6,1.5,-0.2
+2015 UC Irvine,Alex Young,Luke Nelson,Travis Souza,Will Davis II,Mamadou Ndiaye,9.6,14.9,12.9,7.7,8.6
+2015 UCLA,Bryce Alford,Isaac Hamilton,Norman Powell,Kevon Looney,Tony Parker,15.3,17.9,19.6,14.3,7.9
+2015 Utah,Delon Wright,Brandon Taylor,Dakarai Tucker,Jordan Loveridge,Jakob Poeltl,16.2,19.3,39.3,23.2,17.8
+2015 Valparaiso,E. Victor Nickerson,Tevonn Walker,Darien Walker,Alec Peters,Vashil Fernandez,9.4,15.7,15,6.5,15.2
+2015 VCU,JeQuan Lewis,Melvin Johnson,Terry Larrier,Treveon Graham,Mo Alie-Cox,11.4,14.3,18.9,14.7,12.2
+2015 Villanova,Dylan Ennis,Ryan Arcidiacono,Darrun Hilliard,JayVaughn Pinkston,Daniel Ochefu,15.7,19.3,32.4,18.9,13.2
+2015 Virginia,London Perrantes,Malcolm Brogdon,Evan Nolte,Anthony Gill,Darion Atkins,12.1,20.9,31.7,11.6,22.9
+2015 West Virginia,Juwan Staten,Gary Browne,Daxter Miles Jr.,Jonathan Holton,Devin Williams,10.5,14.8,20,12.3,7.5
+2015 Wichita St.,Fred VanVleet,Tekele Cotton,Evan Wessel,Ron Baker,Darius Carter,15.5,18.9,34.9,22.1,17.5
+2015 Wisconsin,Bronson Koenig,Josh Gasser,Nigel Hayes,Sam Dekker,Frank Kaminsky,24.2,21.4,44.9,32.7,18.3
+2015 Wofford,Karl Cochran,Eric Garcia,Spencer Collins,Lee Skinner,CJ Neumann,9.2,15.5,12.1,7,4.7
+2015 Wyoming,Josh Adams,Riley Grabau,Charles Hankerson Jr.,Larry Nance Jr.,Derek Cooke Jr.,10.4,18.1,12,5.5,7.5
+2015 Xavier,Dee Davis,Remy Abell,Trevon Bluiett,James Farr,Matt Stainbrook,11.7,14.8,20.7,13.6,5.2
+2016 Arizona,Kadeem Allen,Gabe York,Allonzo Trier,Ryan Anderson,Kaleb Tarczewski,15.2,17.8,26.9,17,13.9
+2016 Austin Peay,Josh Robinson,Khalil Davis,Jared Savage,Kenny Jones,Chris Horton,8.5,11,1,5.8,-5.9
+2016 Baylor,Lester Medford,Al Freeman,Ishmail Wainright,Taurean Prince,Johnathan Motley,14.8,14.9,22,15.8,10
+2016 Buffalo,Lamonte Bearden,CJ Massinburg,Willie Conner,Blake Hamilton,Nick Perkins,9.2,12.3,9.3,6.8,3.4
+2016 Butler,Roosevelt Jones,Kellen Dunham,Andrew Chrabascz,Kelan Martin,Tyler Wideman,17.2,16.4,25,18.8,10.6
+2016 Cal St. Bakersfield,Dedrick Basile,Brent Wrapp,Jaylin Airington,Kevin Mays,Aly Ahmed,7.8,16.1,10.7,3.3,9.6
+2016 California,Sam Singer,Jordan Mathews,Jaylen Brown,Ivan Rabb,Kameron Rooks,10.7,15.5,18.5,7.3,12.4
+2016 Chattanooga,Greg Pryor,Eric Robertson,Tre' McLean,Chuck Ester,Justin Tuoyo,8.3,14.3,7.7,2.2,3.4
+2016 Cincinnati,Troy Caupain,Kevin Johnson,Jacob Evans III,Gary Clark,Octavius Ellis,11.5,17.6,21.9,9.2,13.4
+2016 Colorado,Dominique Collier,Xavier Talton,George King,Wesley Gordon,Josh Scott,10.3,15.7,19.7,8.3,9.7
+2016 Connecticut,Sterling Gibbs,Rodney Purvis,Daniel Hamilton,Shonn Miller,Amida Brimah,14.4,18.4,27.2,13.5,14.5
+2016 Dayton,Scoochie Smith,Kyle Davis,Charles Cooke,Kendall Pollard,Dyshawn Pierre,12.8,19.3,22.2,11.6,8
+2016 Duke,Grayson Allen,Luke Kennard,Matt Jones,Brandon Ingram,Marshall Plumlee,21.2,17.9,30.5,23.8,10.6
+2016 Fairleigh Dickinson,Stephan Jiggetts,Darian Anderson,Marques Townes,Earl Potts Jr.,Mike Holloway,8.9,7.9,-7.5,2.8,-5.5
+2016 Florida Gulf Coast,Zach Johnson,Julian DeBose,Christian Terrell,Marc-Eddy Norelia,Demetris Morant,7,13,3.9,0.3,6.6
+2016 Fresno St.,Marvelle Harris,Cezar Guerrero,Julien Lewis,Karachi Edo,Cullen Russo,10.4,14.6,12.2,6.7,8.3
+2016 Gonzaga,Josh Perkins,Eric McClellan,Kyle Dranginis,Kyle Wiltjer,Domantas Sabonis,17.1,18.6,28.8,19,16.6
+2016 Green Bay,Carrington Love,Khalil Small,Charles Cooper,Jordan Fouse,Kenneth Lowe,9.6,12.2,7.6,6.6,1.5
+2016 Hampton,Reginald Johnson,Lawrence Cooks,Brian Darden,Quinton Chievous,Dionte Adams,7.5,10.8,-2.2,1.2,0.9
+2016 Hawaii,Roderick Bobbitt,Quincy Smith,Aaron Valdes,Mike Thomas,Stefan Jankovic,11.4,17,20.3,9.7,8.8
+2016 Holy Cross,Anthony Thompson,Eric Green,Karl Charles,Robert Champion,Malachi Alexander,4.4,9.7,-5.6,-2.1,-2.5
+2016 Indiana,Yogi Ferrell,Nick Zeisloft,Collin Hartman,Troy Williams,Thomas Bryant,15.8,13.9,25.7,19.4,7.4
+2016 Iona,A.J. English,Ibn Muhammad,Deyshonee Much,Isaiah Williams,Jordan Washington,13.5,12.4,8.7,11.4,1.3
+2016 Iowa,Mike Gesell,Anthony Clemmons,Peter Jok,Jarrod Uthoff,Adam Woodbury,14.6,17.7,25.3,15.5,14.1
+2016 Iowa St.,Monte Morris,Matt Thomas,Abdel Nader,Georges Niang,Jameel McKay,19.7,18,25,19.1,11
+2016 Kansas,Frank Mason III,Devonte' Graham,Wayne Selden Jr.,Perry Ellis,Landen Lucas,18.3,19.1,36.3,22.5,18.7
+2016 Kentucky,Tyler Ulis,Isaiah Briscoe,Jamal Murray,Derek Willis,Marcus Lee,18.8,16.9,35.4,25.9,14.2
+2016 Little Rock,Josh Hagins,Marcus Johnson,Kemy Osse,Roger Woods,Lis Shoshi,8.2,13.2,15.3,6.8,8.8
+2016 Maryland,Melo Trimble,Rasheed Sulaimon,Jake Layman,Robert Carter,Diamond Stone,17,17.8,29.4,19.3,11.2
+2016 Miami FL,Angel Rodriguez,Sheldon McClellan,Davon Reed,Kamari Murphy,Tonye Jekiri,14.8,17.8,24.2,14.9,7.6
+2016 Michigan,Derrick Walton Jr.,Muhammad-Ali Abdur-Rahkman,Zak Irvin,Duncan Robinson,Mark Donnal,13.1,15.2,16.6,11.5,9.6
+2016 Michigan St.,Denzel Valentine,Bryn Forbes,Eron Harris,Deyonta Davis,Matt Costello,19.1,16.4,40.8,30,9.9
+2016 Middle Tennessee,Jaqawn Raymond,Giddy Potts,Perrin Buford,Darnell Harris,Reggie Upshaw,9.6,15.7,16,8.6,8.9
+2016 North Carolina,Joel Berry II,Marcus Paige,Justin Jackson,Brice Johnson,Kennedy Meeks,18.1,18.3,39.8,26.2,18.1
+2016 Northern Iowa,Wes Washpun,Matt Bohannon,Jeremy Morgan,Paul Jesperson,Bennett Koch,13.6,16.8,16.2,8.8,9.8
+2016 Notre Dame,Demetrius Jackson,Matt Farrell,Steve Vasturia,V.J. Beachem,Zach Auguste,15.1,13.5,12.2,13.5,3
+2016 Oklahoma,Jordan Woodard,Isaiah Cousins,Buddy Hield,Khadeem Lattin,Ryan Spangler,18.6,19.9,34.4,20.5,9.2
+2016 Oregon,Tyler Dorsey,Casey Benson,Elgin Cook,Dillon Brooks,Chris Boucher,18.3,17.2,26.8,19.4,11.6
+2016 Oregon St.,Gary Payton II,Stephen Thompson Jr.,Malcolm Duvivier,Olaf Schaftenaar,Drew Eubanks,9.6,13.8,15.1,8.9,7.1
+2016 Pittsburgh,James Robinson,Cameron Johnson,Jamel Artis,Ryan Luther,Michael Young,13.6,15.9,23.6,15.5,8.5
+2016 Providence,Kris Dunn,Kyron Cartwright,Jalen Lindsey,Rodney Bullock,Ben Bentil,12.6,18.7,20.2,9.3,9.3
+2016 Purdue,P.J. Thompson,Rapheal Davis,Vince Edwards,Caleb Swanigan,A.J. Hammons,12.7,17.5,27.7,14.9,11.1
+2016 Saint Joseph's,Shavar Newkirk,Aaron Brown,DeAndre' Bembry,Isaiah Miles,Pierfrancesco Oliva,13.4,15.9,21.3,12.7,14.1
+2016 Seton Hall,Isaiah Whitehead,Khadeen Carrington,Desi Rodriguez,Ismael Sanogo,Angel Delgado,13.3,19.8,28.1,13.9,10.1
+2016 South Dakota St.,George Marshall,Deondre Parks,Reed Tellinghuisen,Jake Bittle,Mike Daum,12.3,14.1,16.7,14.8,-0.3
+2016 Southern,Christopher Hyder,Trelun Banks,Adrian Rodgers,Shawn Prudhomme,Jared Sam,7.7,12,2.2,3.8,1
+2016 Stephen F. Austin,Trey Pinkney,Demetrious Floyd,Thomas Walkup,Ty Charles,TJ Holyfield,10.4,15.5,22.1,9.4,11.1
+2016 Stony Brook,Carson Puriefoy,Lucas Woodhouse,Ahmad Walker,Rayshaun McGrew,Jameel Warney,11.4,17.2,13.4,6.3,5.9
+2016 Syracuse,Trevor Cooney,Malachi Richardson,Michael Gbinije,Tyler Lydon,Tyler Roberson,14.6,20.3,22,12.2,9.3
+2016 Temple,Josh Brown,Quenton DeCosey,Daniel Dingle,Obi Enechionyia,Jaylen Bond,9.1,16.1,10.9,2.7,9
+2016 Texas,Isaiah Taylor,Javan Felix,Demarcus Holland,Connor Lammert,Prince Ibeh,10.4,13.9,18.7,7.7,11.5
+2016 Texas A&M,Anthony Collins,Alex Caruso,Danuel House,Jalen Jones,Tyler Davis,13.1,18.2,26.1,13.5,14.4
+2016 Texas Tech,Keenan Evans,Toddrick Gotcher,Justin Gray,Zach Smith,Matthew Temple,12,13.7,19,10.6,9
+2016 Tulsa,Shaquille Harrison,James Woodard,Marquel Curtis,Pat Birt,Brandon Swannegan,11.8,15,15.7,11.2,7.8
+2016 UNC Asheville,Dylan Smith,Kevin Vannatta,Ahmad Thomas,Sam Hughes,Dwayne Sutton,8,16.4,7,0.6,3.9
+2016 UNC Wilmington,Denzel Ingram,Craig Ponder,Chris Flemmings,C.J. Bryce,Marcus Bryan,9.6,13,10.6,7.4,3.3
+2016 USC,Jordan McLaughlin,Julian Jacobs,Elijah Stewart,Bennie Boatwright,Nikola Jovanovic,13.7,15.3,18.2,13.2,6.8
+2016 Utah,Brandon Taylor,Lorenzo Bonam,Jordan Loveridge,Kyle Kuzma,Jakob Poeltl,16.4,16,24.2,18.2,7
+2016 Vanderbilt,Wade Baldwin IV,Matthew Fisher-Davis,Jeff Roberson,Damian Jones,Luke Kornet,14.8,18.4,31.3,16.8,14.6
+2016 VCU,JeQuan Lewis,Melvin Johnson,Korey Billbury,Jordan Burgess,Mo Alie-Cox,11,16.3,22.1,12.4,7
+2016 Villanova,Jalen Brunson,Ryan Arcidiacono,Josh Hart,Kris Jenkins,Daniel Ochefu,17.1,19.2,37.3,23.4,17.5
+2016 Virginia,London Perrantes,Devon Hall,Malcolm Brogdon,Isaiah Wilkins,Anthony Gill,17.3,18.4,36.9,22.1,12.3
+2016 Weber St.,McKay Cannon,Jeremy Senglin,Ryan Richardson,Zach Braxton,Joel Bolomboy,7.5,13.6,4.2,0.4,-0.1
+2016 West Virginia,Jevon Carter,Daxter Miles Jr.,Esa Ahmad,Nathan Adrian,Devin Williams,9.4,16.2,24.3,9,13.5
+2016 Wichita St.,Fred VanVleet,Ron Baker,Evan Wessel,Zach Brown,Shaquille Morris,11,16.2,30.8,12.5,16.9
+2016 Wisconsin,Bronson Koenig,Zak Showalter,Vitto Brown,Nigel Hayes,Ethan Happ,14.7,18.6,21.3,10.3,13.1
+2016 Xavier,Myles Davis,Remy Abell,Edmond Sumner,Trevon Bluiett,Jalen Reynolds,12.8,15.7,23.7,14,13.7
+2016 Yale,Makai Mason,Nick Victor,Anthony Dallier,Justin Sears,Brandon Sherrod,10.5,17,20.5,8.8,13.5
+2017 Arizona,Kadeem Allen,Allonzo Trier,Rawle Alkins,Lauri Markkanen,Dusan Ristic,17.9,18.5,30.9,21.9,16
+2017 Arkansas,Jaylen Barford,Dusty Hannahs,Manuale Watkins,Dustin Thomas,Moses Kingsley,12.1,12,15.5,12.2,1.4
+2017 Baylor,Manu Lecomte,King McClure,Ishmail Wainright,Johnathan Motley,Jo Lual-Acuil Jr.,14,18,30,15.9,17.4
+2017 Bucknell,Stephen Brown,Kimbal Mackenzie,Avi Toomer,Zach Thomas,Nana Foulland,11,15,17.5,9.2,11.2
+2017 Butler,Kethan Savage,Kamar Baldwin,Avery Woodson,Andrew Chrabascz,Tyler Wideman,12.9,14.8,25.1,14.3,12.7
+2017 Cincinnati,Troy Caupain,Kevin Johnson,Jacob Evans III,Gary Clark,Kyle Washington,15.1,19.6,31,17,16.1
+2017 Creighton,Davion Mintz,Marcus Foster,Khyri Thomas,Cole Huff,Justin Patton,12.3,15.1,22.5,11.9,12.6
+2017 Dayton,Scoochie Smith,Kyle Davis,Charles Cooke,Kendall Pollard,Xeyrius Williams,14.6,17.3,27.9,15.9,11.2
+2017 Duke,Frank Jackson,Matt Jones,Luke Kennard,Jayson Tatum,Amile Jefferson,19.3,19.9,32.7,21.4,12.9
+2017 East Tennessee St.,T.J. Cromer,A.J. Merriweather,Desonta Bradford,Tevin Glass,Hanner Mosquera-Perea,9.7,15,15.4,7.4,7.8
+2017 Florida,Kasey Hill,KeVaughn Allen,Justin Leon,Devin Robinson,Kevarrius Hayes,12.2,17,31,14.1,17.7
+2017 Florida Gulf Coast,Brandon Goodwin,Zach Johnson,Christian Terrell,Marc-Eddy Norelia,Demetris Morant,12,12.7,13.1,11.7,2.6
+2017 Florida St.,Xavier Rathan-Mayes,Terance Mann,Dwayne Bacon,Jonathan Isaac,Christ Koumadje,12.9,15.1,27.9,15.4,14.4
+2017 Gonzaga,Nigel Williams-Goss,Josh Perkins,Jordan Matthews,Johnathan Williams,Przemek Karnowski,14.5,20.3,37.4,18.8,18.3
+2017 Iona,Rickey McGill,Schadrac Casimir,Deyshonee Much,E.J. Crawford,Jordan Washington,10.1,10.2,7.6,9.1,0.8
+2017 Iowa St.,Monte Morris,Nazareth Mitrou-Long,Matt Thomas,Deonte Burton,Solomon Young,17.5,18,28.1,18.5,8.4
+2017 Jacksonville St.,Malcolm Drumwright,Greg Tucker,Erik Durham,Christian Cunningham,Norbertas Giga,8.8,12.6,2.6,3.1,-0.9
+2017 Kansas,Frank Mason III,Devonte' Graham,Sviatoslav Mykhailiuk,Josh Jackson,Landen Lucas,19.3,19,33.5,22.4,12.9
+2017 Kansas St.,Kamau Stokes,Barry Brown,Wesley Iwundu,Dean Wade,D.J. Johnson,13.6,18.5,21.5,11.5,11.9
+2017 Kent St.,Jalen Avery,Jaylin Walker,Deon Edwin,Mitch Peterson,Jimmy Hall,10.7,12.5,9.4,8.6,-0.8
+2017 Kentucky,De'Aaron Fox,Malik Monk,Isaiah Briscoe,Derek Willis,Edrice Adebayo,17.4,19.1,35.1,20.7,14.3
+2017 Louisville,Quentin Snider,Donovan Mitchell,Deng Adel,Jaylen Johnson,Mangok Mathiang,15.1,18.6,30.4,18.2,13.3
+2017 Marquette,Markus Howard,Andrew Rowsey,Duane Wilson,Sam Hauser,Matt Heldt,15.2,9.7,29,27.3,4.8
+2017 Maryland,Anthony Cowan,Melo Trimble,Kevin Huerter,Justin Jackson,Damonte Dodd,14.9,16.6,24.6,16.2,14.5
+2017 Miami FL,Ja'Quan Newton,Bruce Brown,Davon Reed,"Anthony Lawrence, Jr.",Kamari Murphy,12.1,20.4,22.7,9.3,10.1
+2017 Michigan,Derrick Walton Jr.,Muhammad-Ali Abdur-Rahkman,Zak Irvin,D.J. Wilson,Moritz Wagner,18.8,17.3,29.3,22.1,10.3
+2017 Michigan St.,Lourawls Narin Jr.,Alvin Ellis III,Joshua Langford,Miles Bridges,Nick Ward,9.6,14.3,24.4,12.9,14.1
+2017 Middle Tennessee,Tyrik Dixon,Ed Simpson,Giddy Potts,JaCorey Williams,Reggie Upshaw,12.8,17,23.5,13.3,13.1
+2017 Minnesota,Nate Mason,Dupree McBrayer,Amir Coffey,Jordan Murphy,Reggie Lynch,11.9,19,21.1,7.4,12.4
+2017 Mount St. Mary's,Elijah Long,Junior Robinson,Miles Wilson,Greg Alexander,Chris Wray,6.7,14.1,2.3,0.3,2.9
+2017 Nevada,Lindsey Drew,Marcus Marshall,D.J. Fenner,Jordan Caroline,Cameron Oliver,15.6,16.9,18.8,14.2,7.1
+2017 New Mexico St.,Ian Baker,Braxton Huggins,Matt Taylor,Eli Chuha,Johnathon Wilkins,11.3,12.3,12.2,8.9,7.5
+2017 New Orleans,Christavious Gill,Tevin Broyles,Erik Thomas,Makur Puou,Travin Thibodeaux,5.4,14.1,0.7,-3.3,0.1
+2017 North Carolina,Joel Berry II,Theo Pinson,Justin Jackson,Isaiah Hicks,Kennedy Meeks,18.2,17.7,37.4,23.8,14.3
+2017 North Carolina Central,Dajuan Graf,Rashaun Madison,Patrick Cole,Del'Vin Dickerson,Kyle Benton,8.8,15.1,5.3,2,2.4
+2017 North Dakota,Geno Crandall,Quinton Hooker,Corey Baldwin,Conner Avants,Drick Bernstine,8.5,14.1,5.5,3.4,2.4
+2017 Northern Kentucky,Lavone Holland II,Jordan Garnett,Cole Murray,Carson Williams,Drew McDonald,11.4,11.8,8.2,8.6,2
+2017 Northwestern,Bryant McIntosh,Scottie Lindsey,Vic Law,Sanjay Lumpkin,Dererk Pardon,14.2,19,19.9,10.6,7.2
+2017 Notre Dame,Matt Farrell,Rex Pflueger,Steve Vasturia,V.J. Beachem,Bonzie Colson,18.1,18,27.8,19.2,11.7
+2017 Oklahoma St.,Jawun Evans,"Phil Forte, III",Jeffrey Carroll,Leyton Hammonds,Mitchell Solomon,19.9,13.1,29.4,27.2,3.8
+2017 Oregon,Payton Pritchard,Dylan Ennis,Tyler Dorsey,Dillon Brooks,Jordan Bell,15.5,18.6,31.7,19.2,16.8
+2017 Princeton,Amir Bell,Devin Cannady,Spencer Weisz,Steven Cook,Myles Stephens,11.9,16.6,18.4,9.9,10
+2017 Providence,Kyron Cartwright,Alpha Diallo,Jalen Lindsey,Emmitt Holt,Rodney Bullock,11.8,17.9,17.4,7.9,9.6
+2017 Purdue,P.J. Thompson,Dakota Mathias,Ryan Cline,Vincent Edwards,Caleb Swanigan,16.6,18.7,32.8,19.2,17
+2017 Rhode Island,Jeff Dowtin,Jared Terrell,E.C. Matthews,Hassan Martin,Kuran Iverson,11.3,16.1,20.2,11.9,9.4
+2017 Saint Mary's,Emmett Naar,Joe Rahon,Calvin Hermanson,Dane Pineau,Jock Landale,17.3,19.2,30.9,17.9,9.9
+2017 Seton Hall,Madison Jones,Khadeen Carrington,Desi Rodriguez,Michael Nzei,Angel Delgado,11.9,16.8,16.6,8.4,5.6
+2017 SMU,Shake Milton,Jarrey Foster,Sterling Brown,Semi Ojeleye,Ben Moore,22,21.2,37,24.4,19.8
+2017 South Carolina,PJ Dozier,Duane Notice,Sindarius Thornwell,Chris Silva,Maik Kotsar,11.8,20.1,30.3,11.6,14.6
+2017 South Dakota St.,Michael Orris,Chris Howell,Lane Severyn,Reed Tellinghuisen,Mike Daum,9.9,7.9,-3.5,3,-4.4
+2017 Texas Southern,Demontrae Jefferson,Jalan McCloud,Zach Lofton,Kevin Scott,Marvin Jones,7.9,10.2,-1.7,0.8,-2.1
+2017 Troy,Kevin Baker,Wesley Person,DeVon Walker,Jordon Varnado,"Juan Davis, Jr.",10.7,10.2,7.2,10.1,1
+2017 UC Davis,Darius Graham,Brynton Lemar,Lawrence White,Chima Moneke,J.T. Adenrele,5.4,13.5,2.2,-2.8,4.2
+2017 UCLA,Lonzo Ball,Bryce Alford,Isaac Hamilton,TJ Leaf,Thomas Welsh,20.6,16.9,30.1,24.8,9.6
+2017 UNC Wilmington,Denzel Ingram,Ambrose Mosley,Chris Flemmings,C.J. Bryce,Devontae Cacok,16.7,13.3,20.5,20.6,4.5
+2017 USC,Jordan McLaughlin,De'Anthony Melton,Elijah Stewart,Bennie Boatwright,Chimezie Metu,15,15.8,21.4,16.2,11.9
+2017 Vanderbilt,Riley LaChance,Nolan Cressler,Joe Toye,Jeff Roberson,Luke Kornet,13.3,16.3,22.4,11.6,10.3
+2017 VCU,JeQuan Lewis,Doug Brooks,Jordan Burgess,Mo Alie-Cox,Justin Tillman,9.9,15.6,21,8.8,10.8
+2017 Vermont,Trae Bell-Haynes,Ernie Duncan,Kurt Steidl,Anthony Lamb,Payton Henson,11.6,14.6,16.4,10.7,5.9
+2017 Villanova,Jalen Brunson,Donte DiVincenzo,Josh Hart,Kris Jenkins,Eric Paschall,19,18.9,30.2,19.4,11.9
+2017 Virginia,London Perrantes,Darius Thompson,Marial Shayok,Devon Hall,Jack Salt,10.1,17.5,25.4,8.3,15.9
+2017 Virginia Tech,Justin Robinson,Seth Allen,Justin Bibbs,Ty Outlaw,Zach LeDay,14.5,13.9,21.7,19.8,5.4
+2017 Wake Forest,Bryant Crawford,Keyshawn Woods,Austin Arians,Dinos Mitoglou,John Collins,18.3,13,27.4,26.5,3.2
+2017 West Virginia,Tarik Phillip,Jevon Carter,Esa Ahmad,Nathan Adrian,Elijah Macon,13.1,18.5,32.9,15.7,18
+2017 Wichita St.,Landry Shamet,Conner Frankamp,Zach Brown,Markis McDuffie,Shaquille Morris,13.9,15.5,34.6,20.8,15.5
+2017 Winthrop,Keon Johnson,Bjorn Broman,Roderick Perkins,Tevin Prescott,Xavier Cooks,9.3,11.6,9,7,-0.8
+2017 Wisconsin,Bronson Koenig,Zak Showalter,Vitto Brown,Nigel Hayes,Ethan Happ,14.9,19.5,32,16.9,17
+2017 Xavier,Quentin Goodin,J.P. Macura,Trevon Bluiett,Malcolm Bernard,Sean O'Mara,10.8,14.5,16.7,9.7,5.5
+2018 Alabama,Collin Sexton,Dazon Ingram,Herbert Jones,Braxton Key,Donta Hall,10.3,16.4,20.6,7.8,10.7
+2018 Arizona,Parker Jackson-Cartwright,Allonzo Trier,Rawle Alkins,Dusan Ristic,Deandre Ayton,20.2,16.6,26.7,21.1,8.1
+2018 Arizona St.,Tra Holder,Shannon Evans II,Kodi Justice,Mickey Mitchell,Romello White,15,15,15.9,13.3,0.5
+2018 Arkansas,Daryl Macon,Anton Beard,Jaylen Barford,Adrio Bailey,Daniel Gafford,19,14.4,27,24,9.3
+2018 Auburn,Jared Harper,Bryce Brown,DeSean Murray,Mustapha Heron,Horace Spencer,14.2,14.9,22.9,14,10.9
+2018 Bucknell,Stephen Brown,Kimbal Mackenzie,Avi Toomer,Zach Thomas,Nana Foulland,11.6,13.3,12.5,8.8,7.8
+2018 Buffalo,Wes Clark,Dontay Caruthers,CJ Massinburg,Jeremy Harris,Nick Perkins,16.5,13.1,20,18.2,6.3
+2018 Butler,Aaron Thompson,Kamar Baldwin,Sean McDermott,Kelan Martin,Tyler Wideman,14,16.4,22.6,13,14.8
+2018 Cal St. Fullerton,Austen Awosika,Kyle Allman Jr.,Khalil Ahmad,Jackson Rowe,Arkim Robertson,9.6,12.8,5.5,3.2,3.2
+2018 Charleston,Joe Chealey,Marquise Pointer,Grant Riller,Cameron Johnson,Jarrell Brantley,15.5,14.6,15.2,13.9,5.5
+2018 Cincinnati,Justin Jenifer,Jarron Cumberland,Jacob Evans III,Gary Clark,Kyle Washington,14.4,20,35.9,16.5,20.9
+2018 Clemson,Shelton Mitchell,Marcquise Reed,Gabe DeVoe,Aamir Simms,Elijah Thomas,13.4,18.7,24.8,10.7,11.4
+2018 Creighton,Davion Mintz,Marcus Foster,Khyri Thomas,Mitch Ballock,Toby Hegner,13.6,14.4,22.3,14.5,7.1
+2018 Davidson,Jon Axel Gudmundsson,Rusty Reigel,Kellan Grady,Peyton Aldridge,Will Magarity,17.4,14.2,20,16,10.9
+2018 Duke,Trevon Duval,Grayson Allen,Gary Trent Jr.,Marvin Bagley III,Wendell Carter Jr.,21.9,20,35.7,23.9,18.5
+2018 Florida,Chris Chiozza,KeVaughn Allen,Jalen Hudson,Egor Koulechov,Kevarrius Hayes,14.4,16.9,26.9,15.1,15.3
+2018 Florida St.,Trent Forrest,PJ Savoy,Braian Angola,Phil Cofer,Mfiondu Kabengele,11.7,12.6,22.4,15.7,10.4
+2018 Georgia St.,D'Marcus Simonds,Devin Mitchell,Jeff Thomas,Malik Benlevi,Jordan Session,12.4,15.7,12.9,8.1,4.9
+2018 Gonzaga,Josh Perkins,Silas Melson,Zach Norvell Jr.,Killian Tillie,Johnathan Williams,15.9,17.7,29.5,17.6,14.6
+2018 Houston,Galen Robinson Jr.,Rob Gray,Corey Davis Jr.,Devin Davis,Breaon Brady,12.4,15.5,19.6,8.4,10.2
+2018 Iona,Rickey McGill,Schadrac Casimir,Zach Lewis,E.J. Crawford,Roland Griffin,10.7,10.4,3.7,6,1.2
+2018 Kansas,Devonte' Graham,Malik Newman,Lagerald Vick,Sviatoslav Mykhailiuk,Udoka Azubuike,20.8,18.9,32.3,23.3,12.1
+2018 Kansas St.,Kamau Stokes,Barry Brown Jr.,Cartier Diarra,Xavier Sneed,Makol Mawien,10,16.1,14.7,4.2,10.4
+2018 Kentucky,Shai Gilgeous-Alexander,Quade Green,PJ Washington,Kevin Knox,Wenyen Gabriel,14.2,16.7,24.3,14.4,12
+2018 Lipscomb,Kenny Cooper,Michael Buckland,Garrison Mathews,Rob Marberry,Eli Pepper,7.8,13.7,6.5,1.8,7.8
+2018 LIU,Jashaun Agosto,Julian Batts,Joel Hernandez,Raiquan Clark,Zach Coleman,8.4,10.1,-7,-1,-5.3
+2018 Loyola Chicago,Clayton Custer,Ben Richardson,Marques Townes,Donte Ingram,Cameron Krutwig,13.1,17.6,22.4,11.8,11.3
+2018 Marshall,Jon Elmore,Jarrod West,C.J. Burks,Jannson Williams,Ajdin Penava,13.3,14.5,13,9.2,3.5
+2018 Miami FL,Chris Lykes,Ja'Quan Newton,Lonnie Walker IV,Anthony Lawrence II,Dewan Huell,10.5,15.3,15.8,7.7,6.6
+2018 Michigan,Zavier Simpson,Muhammad-Ali Abdur-Rahkman,Charles Matthews,Duncan Robinson,Moritz Wagner,14.7,19.5,28.7,13.5,15.2
+2018 Michigan St.,Cassius Winston,Joshua Langford,Miles Bridges,Nick Ward,Jaren Jackson Jr.,17.8,17.1,35.3,22.8,15.5
+2018 Missouri,Jordan Geist,Kassius Robertson,Kevin Puryear,Jeremiah Tilmon,Jontay Porter,11.9,15.3,14.1,4.7,4
+2018 Montana,Ahmaad Rorie,Michael Oguine,Bobby Moorehead,Fabijan Krslovic,Jamar Akoh,11.5,16.3,17.1,9.1,5.4
+2018 Murray St.,Jonathan Stark,Temetrius Morant,Leroy Buchanan,Brion Sanchious,Terrell Miller Jr.,13.8,15.2,17.5,11.3,1.8
+2018 NC St.,Markell Johnson,Braxton Beverly,Allerik Freeman,Torin Dorn,Omer Yurtseven,14.9,15,19.9,15.9,7.3
+2018 Nevada,Cody Martin,Kendall Stephens,Josh Hall,Caleb Martin,Jordan Caroline,18.3,15.2,21.2,19.6,6.8
+2018 New Mexico St.,AJ Harris,Sidy N'Dir,Zach Lofton,Jemerrio Jones,Johnathon Wilkins,9.9,16.2,17,6.4,9.8
+2018 North Carolina,Joel Berry II,Kenny Williams,Theo Pinson,Cameron Johnson,Luke Maye,20.3,18.2,32.7,23.2,13.9
+2018 North Carolina Central,Jordan Perkins,Reggie Gardner Jr.,John Guerra,Zacarry Douglas,Raasean Davis,3.7,6.5,-16.1,-8.1,-9.5
+2018 Ohio St.,C.J. Jackson,Kam Williams,Jae'Sean Tate,Keita Bates-Diop,Kaleb Wesson,17.2,17.5,32.3,21.2,15.7
+2018 Oklahoma,Trae Young,Kameron McGusty,Christian James,Kristian Doolittle,Jamuni McNeace,14.6,13.5,17.9,12.4,5.6
+2018 Penn,Darnell Foreman,Devon Goodman,Caleb Wood,Ryan Betley,AJ Brodeur,7.8,13.9,7.7,2,6.9
+2018 Providence,Kyron Cartwright,Jalen Lindsey,Isaiah Jackson,Alpha Diallo,Rodney Bullock,12.2,17,17.8,9.7,8.9
+2018 Purdue,Carsen Edwards,P.J. Thompson,Dakota Mathias,Vincent Edwards,Isaac Haas,21.2,18.3,36.9,27.2,14.3
+2018 Radford,Travis Fields Jr.,Carlik Jones,Donald Hicks,Ed Polite Jr.,Devonnte Holland,7.2,11.8,0.4,-2.7,3
+2018 Rhode Island,Jeff Dowtin,Jared Terrell,Stanford Robinson,E.C. Matthews,Andre Berry,11.5,16.3,17.1,9.8,8.6
+2018 San Diego St.,Devin Watson,Trey Kell,Matt Mitchell,Jalen McDaniels,Malik Pope,12.3,16.8,22.5,11.2,12.7
+2018 Seton Hall,Khadeen Carrington,Myles Powell,Myles Cale,Michael Nzei,Angel Delgado,13,14.1,18.1,12.5,5.5
+2018 South Dakota St.,David Jenkins Jr.,Tevin King,Skyler Flatten,Reed Tellinghuisen,Mike Daum,15,13.8,17,13,5.2
+2018 St. Bonaventure,Jaylen Adams,Matt Mobley,Idris Taqqee,LaDarien Griffin,Amadi Ikpeze,12,15.4,10.7,5.5,4.5
+2018 Stephen F. Austin,Ivan Canete,Ty Charles,Kevon Harris,Leon Gilmore III,TJ Holyfield,7.8,13.7,11.2,5.2,4.5
+2018 Syracuse,Frank Howard,Tyus Battle,Marek Dolezaj,Oshae Brissett,Paschal Chukwu,12.6,22,18.2,4.4,13.7
+2018 TCU,Alex Robinson,Desmond Bane,Kouat Noi,Kenrich Williams,Vladimir Brodziansky,17.3,15.1,26.2,20.7,8.2
+2018 Tennessee,Jordan Bone,Lamonte Turner,Jordan Bowden,Admiral Schofield,Grant Williams,14,17.2,27.2,14.7,14
+2018 Texas,Matt Coleman,Jacob Young,Kerwin Roach II,Jericho Sims,Dylan Osetkowski,9,16.1,13,2.9,7.5
+2018 Texas A&M,T.J. Starks,Admon Gilder,D.J. Hogg,Robert Williams,Tyler Davis,13.2,18.5,24.6,12.3,11
+2018 Texas Southern,Demontrae Jefferson,Derrick Bruce,Robert Lewis,Donte Clark,Trayvon Reed,11.4,9.7,-2.5,5.1,-5.2
+2018 Texas Tech,Keenan Evans,Jarrett Culver,Zhaire Smith,Niem Stevenson,Justin Gray,14.7,17.5,34.4,17.9,16.2
+2018 UCLA,Aaron Holiday,Prince Ali,Kris Wilkes,Gyorgy Goloman,Thomas Welsh,15.4,14.4,17,12.7,2.4
+2018 UMBC,K.J. Maura,Jairus Lyles,Joe Sherburne,Arkel Lamar,Daniel Akin,9.4,13.3,5.1,2.1,2.2
+2018 UNC Greensboro,Demetrius Troy,Francis Alonso,Marvin Smith,James Dickey,Jordy Kuiper,7.3,16.2,10.6,2.6,3.3
+2018 Villanova,Jalen Brunson,Phil Booth,Mikal Bridges,Eric Paschall,Omari Spellman,22.6,18.2,40.6,28.7,12.9
+2018 Virginia,Ty Jerome,Kyle Guy,Devon Hall,Isaiah Wilkins,Jack Salt,14,22,32.4,12,16.2
+2018 Virginia Tech,Justin Robinson,Devin Wilson,Justin Bibbs,Nickeil Alexander-Walker,Kerry Blackshear Jr.,13,13.7,19.6,11.5,9.3
+2018 West Virginia,Jevon Carter,Daxter Miles Jr.,Wesley Harris,Esa Ahmad,Sagaba Konate,15.9,18,30.3,17.6,14.5
+2018 Wichita St.,Landry Shamet,Conner Frankamp,Zach Brown,Rashard Kelly,Shaquille Morris,14.9,12.9,27.8,21.2,8.1
+2018 Wright St.,Cole Gentry,Mark Hughes,Grant Benzinger,Parker Ernsthausen,Loudon Love,7.5,16.7,6.6,-1.6,4.3
+2018 Xavier,Quentin Goodin,J.P. Macura,Trevon Bluiett,Naji Marshall,Kerem Kanter,15.7,14.6,29.3,22.1,8.1
+2019 Abilene Christian,Damien Daniels,Payten Ricks,Jaylen Franklin,Jaren Lewis,Hayden Farquhar,7.3,12.8,4.2,0.3,4.9
+2019 Arizona St.,Remy Martin,Rob Edwards,Luguentz Dort,Romello White,Zylan Cheatham,11.4,16.5,13.8,8.1,5.4
+2019 Auburn,Jared Harper,Bryce Brown,Samir Doughty,Anfernee McLemore,Danjel Purifoy,13.9,14,25.3,17.3,5.6
+2019 Baylor,Makai Mason,Jared Butler,King McClure,Mark Vital,Mario Kegler,11.8,15.8,13.2,9.8,3.2
+2019 Belmont,Grayson Murphy,Kevin McClain,Michael Benkert,Dylan Windler,Nick Muszynski,14.3,14.7,20.8,14.9,12.7
+2019 Bradley,Darrell Brown,Luqman Lundy,Dwayne Lautier-Ogunleye,Elijah Childs,Luuk van Bree,7.2,13,5.2,1.3,2.6
+2019 Buffalo,Davonta Jordan,Jayvon Graves,CJ Massinburg,Jeremy Harris,Montell McRae,12.8,15.9,27.3,16.5,11.8
+2019 Cincinnati,Justin Jenifer,Jarron Cumberland,Keith Williams,Tre Scott,Nysier Brooks,14.8,17.1,25.8,14.3,11.4
+2019 Colgate,Jordan Burns,Tucker Richardson,Will Rayman,Dana Batt,Rapolas Ivanauskas,12,12.4,5.2,7.3,-2.5
+2019 Duke,Tre Jones,R.J. Barrett,Cam Reddish,Javin DeLaurier,Zion Williamson,18.5,21.6,41.4,22.3,13.9
+2019 Fairleigh Dickinson,Jahlil Jenkins,Darnell Edge,Kaleb Bishop,Elyjah Williams,Mike Holloway Jr.,12,10,-0.9,5.4,-5.1
+2019 Florida,Andrew Nembhard,KeVaughn Allen,Jalen Hudson,Keyontae Johnson,Kevarrius Hayes,11.5,17.7,24.5,10.1,13.8
+2019 Florida St.,Trent Forrest,M.J. Walker,Terance Mann,Raiquan Gray,Christ Koumadje,9,15.2,23.1,6.8,11.4
+2019 Gardner Webb,Jaheam Cornwall,David Efianayi,Nate Johnson,Jose Perez,DJ Laster,10.5,10.9,3.5,8.1,-1
+2019 Georgia St.,D'Marcus Simonds,Kane Williams,Jeff Thomas,Damon Wilson,Malik Benlevi,11.1,14.5,7.8,4.2,0.3
+2019 Gonzaga,Josh Perkins,Zach Norvell Jr.,Corey Kispert,Rui Hachimura,Brandon Clarke,21,20.5,43.5,28.4,18.8
+2019 Houston,Galen Robinson Jr.,Corey Davis Jr.,Armoni Brooks,Fabian White Jr.,Breaon Brady,13.5,16.7,24.5,12.3,8.9
+2019 Iona,Rickey McGill,Asante Gist,Ben Perez,E.J. Crawford,Tajuan Agee,12.6,10.2,0.6,6.9,-0.8
+2019 Iowa,Jordan Bohannon,Isaiah Moss,Joe Wieskamp,Tyler Cook,Luka Garza,15,13.2,17.2,16.5,2.5
+2019 Iowa St.,Nick Weiler-Babb,Tyrese Haliburton,Marial Shayok,Talen Horton-Tucker,Michael Jacobson,17.7,18.2,26.7,18,8.4
+2019 Kansas,Devon Dotson,Quentin Grimes,Ochai Agbaji,Dedric Lawson,David McCormack,12.4,16.7,22,11.7,14.4
+2019 Kansas St.,Kamau Stokes,Barry Brown Jr.,Cartier Diarra,Xavier Sneed,Makol Mawien,9.6,21.3,21.9,4.4,16.2
+2019 Kentucky,Ashton Hagans,Tyler Herro,Keldon Johnson,PJ Washington,Reid Travis,17.3,19.8,33.6,19.3,17
+2019 Liberty,Georgie Pacheco-Ortiz,Lovell Cabbil,Elijah Cuffee,Caleb Homesley,Scottie James,11.6,14.4,16.8,11.7,6.4
+2019 Louisville,Christen Cunningham,Khwan Fore,Dwayne Sutton,Jordan Nwora,Malik Williams,11.3,16.9,23.5,10.7,15.2
+2019 LSU,Tremont Waters,Skylar Mays,Marlon Taylor,Naz Reid,Kavell Bigby-Williams,14.9,15.5,25.3,16.3,11.2
+2019 Marquette,Markus Howard,Sacar Anim,Sam Hauser,Joey Hauser,Theo John,15.1,17.3,21.6,12.6,9.1
+2019 Maryland,Anthony Cowan Jr.,Darryl Morsell,Eric Ayala,Jalen Smith,Bruno Fernando,15.4,18,24.6,13.7,12.9
+2019 Michigan,Zavier Simpson,Jordan Poole,Charles Matthews,Ignas Brazdeikis,Jon Teske,16.3,23.5,34.2,15.3,20.8
+2019 Michigan St.,Cassius Winston,Matt McQuaid,Aaron Henry,Kenny Goins,Xavier Tillman,17.6,18.6,37.7,21.3,16.4
+2019 Minnesota,Amir Coffey,Gabe Kalscheur,Dupree McBrayer,Jordan Murphy,Daniel Oturu,14,17.3,19.7,12.1,10.3
+2019 Mississippi,Breein Tyree,Devontae Shuler,Terence Davis,Blake Hinson,Bruce Stevens,14.7,16,20.8,14.8,6.6
+2019 Mississippi St.,Lamar Peters,Tyson Carter,Quinndary Weatherspoon,Reggie Perry,Abdul Ado,14.6,15.4,20.8,13.7,8.9
+2019 Montana,Timmy Falls,Ahmaad Rorie,Michael Oguine,Sayeed Pridgett,Bobby Moorehead,8.5,13.1,3.5,2,3.1
+2019 Murray St.,Ja Morant,Shaq Buchanan,Tevin Brown,KJ Williams,Darnell Cowart,15.3,16,21.2,15.2,6.8
+2019 Nevada,Jazz Johnson,Cody Martin,Caleb Martin,Jordan Caroline,Tre'Shawn Thurman,16.4,19.7,26,16.5,11.5
+2019 New Mexico St.,AJ Harris,Terrell Brown,Clayton Henry,C.J. Bobbitt,Eli Chuha,9.7,10.9,18.9,13.4,4.6
+2019 North Carolina,Coby White,Kenny Williams,Cameron Johnson,Garrison Brooks,Luke Maye,17.5,18.8,34,21.3,12
+2019 North Carolina Central,Jordan Perkins,"Randy Miller, Jr.",Larry McKnight Jr.,Zacarry Douglas,Raasean Davis,4.6,9.9,-8.1,-4.2,-4
+2019 North Dakota St.,Vinnie Shahid,Jared Samuelson,Tyson Ward,Sam Griesel,Rocky Kreuser,8.9,9,-1.8,3.8,-6.1
+2019 Northeastern,Vasa Pusica,Jordan Roland,Donnell Gresham Jr.,Bolden Brace,Anthony Green,14,14.1,14.6,12,4.4
+2019 Northern Kentucky,Jalen Tate,Tyler Sharpe,Trevon Faulkner,Dantez Walton,Drew McDonald,13.1,14,16.4,13.4,4.9
+2019 Ohio St.,C.J. Jackson,Keyshawn Woods,Musa Jallow,Andre Wesson,Kaleb Wesson,9.5,15.8,17.8,6.6,10.2
+2019 Oklahoma,Jamal Bieniemy,Christian James,Rashard Odomes,Kristian Doolittle,Brady Manek,11.5,17.2,24.9,12.7,11.7
+2019 Old Dominion,Ahmad Caver,Xavier Green,B.J. Stith,Aaron Carver,Elbert Robinson III,6.3,15.8,2.2,-6.5,4.1
+2019 Oregon,Payton Pritchard,Will Richardson,Louis King,Paul White,Kenny Wooten,10,17.3,17,5.1,12.9
+2019 Prairie View A&M,Dennis Jones,Gary Blackston,Gerard Andrus,Devonte Patterson,Iwin Ellis,5.7,10.7,-4.2,-3.4,0
+2019 Purdue,Carsen Edwards,Ryan Cline,Nojel Eastern,Grady Eifert,Matt Haarms,19.9,16.5,34.6,23.5,13.3
+2019 Saint Louis,Tramaine Isabell,Jordan Goodwin,Javon Bess,Hasahn French,D.J. Foreman,7.9,18.9,7.7,-0.4,3.5
+2019 Saint Mary's,Tommy Kuhse,Jordan Ford,Tanner Krebs,Malik Fitts,Jordan Hunter,16.3,16.5,24.1,15.6,12.4
+2019 Seton Hall,Quincy McKnight,Myles Powell,Myles Cale,Michael Nzei,Sandro Mamukelashvili,12.5,16.8,16.2,9.6,7.6
+2019 St. John's,Shamorie Ponds,Justin Simon,Mustapha Heron,LJ Figueroa,Marvin Clark II,14.1,16.8,14,9.7,6.7
+2019 Syracuse,Tyus Battle,Jimmy Boeheim,Elijah Hughes,Marek Dolezaj,Oshae Brissett,11.7,17.1,15.3,8.7,2.2
+2019 Temple,Shizz Alston Jr.,Nate Pierre-Louis,Quinton Rose,J.P. Moorman II,Ernest Aflakpui,12.4,16.3,14,8.4,5
+2019 Tennessee,Jordan Bone,Lamonte Turner,Jordan Bowden,Admiral Schofield,Grant Williams,20.5,18.2,32.2,24,11.7
+2019 Texas Tech,Matt Mooney,Davide Moretti,Brandone Francis,Jarrett Culver,Tariq Owens,14.8,21.7,35.7,15,23.9
+2019 UC Irvine,Robert Cartwright,Max Hazzard,Evan Leonard,Tommy Rutherford,Jonathan Galloway,9.5,12.5,16.3,8.8,6.1
+2019 UCF,Terrell Allen,BJ Taylor,Aubrey Dawkins,Collin Smith,Tacko Fall,13.1,17.6,21.4,10.8,7.4
+2019 Utah St.,Abel Porter,Sam Merrill,Brock Miller,Quinn Taylor,Neemias Queta,12.3,15.4,18,10.9,8.4
+2019 VCU,Marcus Evans,De'Riante Jenkins,Issac Vann,Sean Mobley,Marcus Santos-Silva,9.1,18.1,25.3,8.4,11.9
+2019 Vermont,Stef Smith,Ernie Duncan,Ben Shungu,Samuel Dingba,Anthony Lamb,11.2,13.5,18.5,9.8,3.5
+2019 Villanova,Phil Booth,Collin Gillespie,Jermaine Samuels,Saddiq Bey,Eric Paschall,16.8,16.3,21.4,16,7.5
+2019 Virginia,Kihei Clark,Kyle Guy,Ty Jerome,De'Andre Hunter,Mamadi Diakite,18.7,20.6,37.9,22.1,20.2
+2019 Virginia Tech,Nickeil Alexander-Walker,Wabissa Bede,Ahmed Hill,Ty Outlaw,Kerry Blackshear Jr.,16.3,19.3,27.7,15.4,14.7
+2019 Washington,David Crisp,Jaylen Nowell,Matisse Thybulle,Hameir Wright,Noah Dickerson,9.9,18.5,16.6,2.4,5.3
+2019 Wisconsin,D'Mitrik Trice,Brad Davison,Khalil Iverson,Nate Reuvers,Ethan Happ,13.4,20.6,28.2,9.6,15.7
+2019 Wofford,Storm Murphy,Nathan Hoover,Fletcher Magee,Keve Aluma,Cameron Jackson,17.7,14.7,30.1,22.9,7
+2019 Yale,Alex Copeland,Trey Phills,Miye Oni,Blake Reynolds,Jordan Bruner,12.5,13.6,15,11.2,7
+2020 Akron,Loren Cristian Jackson,Channel Banks,Tyler Cheese,Xeyrius Williams,Deng Riak,14.1,16.1,17.2,11.6,7
+2020 Arizona,Nico Mannion,Dylan Smith,Josh Green,Stone Gettings,Zeke Nnaji,13.4,18.2,23.6,11.8,10.2
+2020 Arizona St.,Remy Martin,Rob Edwards,Mickey Mitchell,Kimani Lawrence,Romello White,8.3,14.8,11.2,3.2,5.3
+2020 Auburn,J'Von McCormick,Samir Doughty,Isaac Okoro,Danjel Purifoy,Austin Wiley,14.4,16.3,23.4,15.1,9
+2020 Baylor,Davion Mitchell,Jared Butler,MaCio Teague,Mark Vital,Freddie Gillespie,15.9,21.2,34.6,16.7,14.3
+2020 Belmont,Grayson Murphy,Adam Kunkel,Michael Benkert,Tyler Scanlon,Nick Muszynski,11.4,14.5,16,9.8,8.6
+2020 Boston University,Javante McCoy,Jonas Harper,Walter Whyte,Max Mahoney,Sukhmail Mathon,9.7,12,8.1,7.6,5.9
+2020 Bradley,Darrell Brown,Danya Kingsby,Nate Kennell,Elijah Childs,Koch Bar,11.4,14.6,9.4,6.2,5.9
+2020 Butler,Aaron Thompson,Kamar Baldwin,Sean McDermott,Bryce Nze,Bryce Golden,16,18.5,23.8,13,10.1
+2020 BYU,TJ Haws,Alex Barcello,Jake Toolson,Yoeli Childs,Kolby Lee,17.6,16.4,27.4,19.8,12
+2020 Cincinnati,Jarron Cumberland,Mika Adams-Woods,Keith Williams,Tre Scott,Chris Vogt,12.8,17.4,20.9,10.4,10.4
+2020 Colorado,McKinley Wright IV,Shane Gatling,D'Shawn Schwartz,Tyler Bey,Evan Battey,14,17.9,22.1,11.1,11.1
+2020 Creighton,Marcus Zegarowski,Ty-Shon Alexander,Mitch Ballock,Damien Jefferson,Christian Bishop,18.7,16.9,28.3,20.7,9.5
+2020 Dayton,Rodney Chatman,Jalen Crutcher,Trey Landers,Ryan Mikesell,Obi Toppin,17.5,18.3,32.9,20.8,12.1
+2020 Duke,Tre Jones,Jordan Goldwire,Cassius Stanley,Wendell Moore Jr.,Vernon Carey Jr.,14.3,17.7,26.5,14.6,9.4
+2020 East Tennessee St.,Daivien Williamson,Isaiah Tisdale,Tray Boyd III,Bo Hodges,Lucas N'Guessan,11.7,15.2,15.9,9,5.6
+2020 Eastern Washington,Ellis Magnuson,Jack Perry,Jacob Davison,Kim Aiken Jr.,Mason Peatling,10.6,14,6,4.4,1.5
+2020 Florida,Andrew Nembhard,Noah Locke,Scottie Lewis,Keyontae Johnson,Kerry Blackshear Jr.,16.5,17.6,26.4,17,11.5
+2020 Florida St.,Trent Forrest,M.J. Walker,Devin Vassell,Patrick Williams,Malik Osborne,13,16,26.1,14.1,11.3
+2020 Gonzaga,Ryan Woolridge,Joel Ayayi,Corey Kispert,Killian Tillie,Filip Petrusev,18.9,17.7,35.6,25.3,14.7
+2020 Hofstra,Desure Buie,Jalen Ray,Eli Pemberton,Tareq Coburn,Isaac Kante,15.2,14.8,11,10.4,1.8
+2020 Houston,DeJon Jarreau,Marcus Sasser,Nate Hinton,Fabian White Jr.,Chris Harris Jr.,12.2,15.2,25.1,12,13
+2020 Illinois,Trent Frazier,Andres Feliz,Ayo Dosunmu,Da'Monte Williams,Kofi Cockburn,12.5,16.9,21.4,9.5,7
+2020 Indiana,Rob Phinisee,Al Durham,Justin Smith,Trayce Jackson-Davis,Joey Brunk,11.9,15.8,18.1,7.8,12.6
+2020 Iowa,Bakari Evelyn,Connor McCaffery,Joe Wieskamp,Cordell Pemsl,Luka Garza,13.3,13.2,19.9,14,3.7
+2020 Kansas,Devon Dotson,Marcus Garrett,Isaiah Moss,Ochai Agbaji,Udoka Azubuike,17.2,21.9,35.1,17.5,17
+2020 Kentucky,Ashton Hagans,Immanuel Quickley,Tyrese Maxey,EJ Montgomery,Nick Richards,16.1,18.7,22.6,12.7,7.9
+2020 Liberty,Georgie Pacheco-Ortiz,Darius McGhee,Elijah Cuffee,Caleb Homesley,Scottie James,10.6,17.8,15.5,8.2,9
+2020 Little Rock,Markquis Nowell,Jovan Stulic,Ben Coupet Jr,Kamani Johnson,Ruot Monyyong,10.9,13.7,8,7.6,2.4
+2020 Louisville,David Johnson,Ryan McMahon,Dwayne Sutton,Jordan Nwora,Malik Williams,16.1,15.7,35.2,23.2,16
+2020 LSU,Skylar Mays,Javonte Smart,Marlon Taylor,Emmitt Williams,Trendon Watford,17.1,14.5,17.5,15.5,5.6
+2020 Marquette,Markus Howard,Koby McEwen,Sacar Anim,Brendan Bailey,Theo John,14.8,15.8,21.3,13.9,8
+2020 Maryland,Anthony Cowan Jr.,Eric Ayala,Darryl Morsell,Donta Scott,Jalen Smith,15.3,18.1,24.2,13.8,10.2
+2020 Michigan,Zavier Simpson,Eli Brooks,Isaiah Livers,Franz Wagner,Jon Teske,14.9,19.6,24.7,12.9,11.1
+2020 Michigan St.,Cassius Winston,Rocket Watts,Aaron Henry,Malik Hall,Xavier Tillman,15.3,17.9,28.1,14.5,11.1
+2020 New Mexico St.,Evan Gilyard,Jabari Rice,Trevelin Queen,Johnny McCants,Ivan Aurrecoechea,12.7,13.4,19.6,16.8,7
+2020 North Carolina Central,Mike Melvin,Ty Graves,C.J. Keyser,Evan Clayborne,Jibri Blount,4.2,9.5,-9.8,-7.8,-4.9
+2020 North Carolina St.,Markell Johnson,Devon Daniels,C.J. Bryce,Jericole Hellems,D.J. Funderburk,13.5,16.5,16.3,10.9,5.9
+2020 North Dakota St.,Vinnie Shahid,Jared Samuelson,Tyson Ward,Sam Griesel,Rocky Kreuser,12,12.9,9.6,8.3,0
+2020 North Texas,Javion Hamlet,Umoja Gibson,James Reese,Thomas Bell,Zachary Simmons,13.6,13.1,15.1,12.2,0.7
+2020 Northern Kentucky,Bryson Langdon,Tyler Sharpe,Trevon Faulkner,Jalen Tate,Dantez Walton,9.7,15.7,8.6,3.7,4.1
+2020 Ohio St.,CJ Walker,Luther Muhammad,Duane Washington Jr.,Andre Wesson,Kaleb Wesson,14,17.9,25.8,13.7,13.8
+2020 Oklahoma,De'Vion Harmon,Jamal Bieniemy,Austin Reaves,Kristian Doolittle,Brady Manek,12.2,18.5,18.4,9.5,11.5
+2020 Oregon,Payton Pritchard,Anthony Mathis,Will Richardson,Chandler Lawson,Shakur Juiston,17.4,14.4,26.3,19.4,6.1
+2020 Penn St.,Jamari Wheeler,Myles Dread,Seth Lundy,Lamar Stevens,John Harrar,9.2,14.3,19.5,7.3,12.4
+2020 Prairie View A&M,Faite Williams,Antione Lister,Chancellor Ellis,Gerard Andrus,Devonte Patterson,6.9,10.7,0.5,0,3.1
+2020 Providence,Luwane Pipkins,David Duke,A.J. Reeves,Alpha Diallo,Nate Watson,11.1,16.4,21.5,10.9,11.2
+2020 Richmond,Jacob Gilyard,Blake Francis,Nick Sherod,Nathan Cayo,Grant Golden,15.3,17.4,23.8,14.8,7.8
+2020 Robert Morris,Jon Williams,Dante Treacy,Josh Williams,AJ Bramah,Yannis Mendy,8.6,11.7,2.7,2.7,2.4
+2020 Rutgers,Geo Baker,Montez Mathis,Akwasi Yeboah,Ron Harper Jr.,Shaq Carter,9.8,15.5,20.7,7.4,14.5
+2020 Saint Mary's,Tommy Kuhse,Jordan Ford,Tanner Krebs,Dan Fotu,Malik Fitts,15.6,15,17.3,13,3.5
+2020 San Diego St.,Malachi Flynn,KJ Feagin,Jordan Schakel,Matt Mitchell,Yanni Wetzell,16.1,19.4,29.5,17.5,12.4
+2020 Seton Hall,Quincy McKnight,Myles Powell,Myles Cale,Sandro Mamukelashvili,Romaro Gill,14.3,17.1,25.2,14.8,14.1
+2020 Siena,Jalen Pickett,Donald Carey,"Gary Harris, Jr.",Manny Camper,Elijah Burns,12.5,11.7,8.1,9.9,0
+2020 Stephen F. Austin,John Comeaux,Roti Ware,Nathan Bain,Kevon Harris,Gavin Kensmil,9.4,14.8,16.9,7.1,12.7
+2020 Texas,Matt Coleman III,Courtney Ramey,Andrew Jones,Royce Hamm Jr.,Kai Jones,7.8,14.7,11,-0.6,3.9
+2020 Texas Tech,Davide Moretti,Jahmi'us Ramsey,Kyler Edwards,Kevin McCullar,TJ Holyfield,12,18.2,21.3,8.6,9.4
+2020 UC Irvine,Eyassu Worku,Evan Leonard,John Edgar Jr.,Tommy Rutherford,Brad Greene,9.6,12.4,10.1,6.9,7
+2020 UCLA,Tyger Campbell,David Singleton,Jaime Jaquez Jr.,Chris Smith,Jalen Hill,10.5,12.7,14.2,8.6,8.1
+2020 USC,Ethan Anderson,Jonah Mathews,Daniel Utomi,Onyeka Okongwu,Nick Rakocevic,10.8,17.6,19.2,6.5,13.9
+2020 Utah St.,Abel Porter,Sam Merrill,Diogo Brito,Justin Bean,Neemias Queta,13.8,18.5,24.9,12.2,14.2
+2020 Vermont,Stef Smith,Ben Shungu,Everett Duncan,Anthony Lamb,Daniel Giddens,10,14.5,13.9,5.6,9.8
+2020 Villanova,Collin Gillespie,Justin Moore,Jermaine Samuels,Saddiq Bey,Jeremiah Robinson-Earl,17.7,19.5,25.8,15.6,14.5
+2020 Virginia,Kihei Clark,Tomas Woldetensae,Braxton Key,Mamadi Diakite,Jay Huff,9.8,24,24,4.2,17.9
+2020 West Virginia,Miles McBride,Sean McNeil,Emmitt Matthews Jr.,Jermaine Haley,Oscar Tshiebwe,10.8,15,29.4,13.7,14.6
+2020 Winthrop,Chandler Vaudrin,Kyle Zunic,Hunter Hale,Micheal Anumba,Josh Ferguson,7.3,11.6,4,3,0.2
+2020 Wisconsin,D'Mitrik Trice,Brevin Pritzl,Brad Davison,Aleem Ford,Nate Reuvers,13,17.7,21.7,10.1,12.4
+2020 Yale,Eric Monroe,Azar Swain,Jalen Gabbidon,Jordan Bruner,Paul Atkinson,11.9,16.7,17,8.7,7
+2021 Abilene Christian,Reggie Miller,Damien Daniels,Coryon Mason,Joe Pleasant,Kolton Kohl,6.5,16,12.9,2,10.7
+2021 Alabama,Jaden Shackelford,John Petty Jr.,Keon Ellis,Herbert Jones,Jordan Bruner,12.6,17,34.2,14.8,17.8
+2021 Appalachian St.,Justin Forrest,Michael Almonacy,Adrian Delph,Donovan Gregory,RJ Duhart,8.1,11.9,-0.5,-0.8,0.2
+2021 Arkansas,JD Notae,Davonte Davis,Jalen Tate,Moses Moody,Justin Smith,14.2,17.7,22.6,11.1,14.5
+2021 Baylor,Davion Mitchell,Jared Butler,MaCio Teague,Mark Vital,Flo Thamba,18.8,16.8,34.4,22.4,11.2
+2021 BYU,Brandon Averette,Alex Barcello,Gideon George,Caleb Lohner,Matt Haarms,12.8,14.7,21.6,12.1,8.8
+2021 Clemson,Nick Honor,Alex Hemenway,Clyde Trapp,Hunter Tyson,Aamir Simms,10.3,15,23,9.6,14.6
+2021 Cleveland St.,Craig Beaudion,D'Moi Hodge,Tre Gomillion,Torrey Patton,Algevon Eichelberger,7.1,11.9,0.9,-0.1,3
+2021 Colgate,Jordan Burns,Nelly Cummings,Tucker Richardson,Ryan Moffatt,Keegan Records,12.3,13.8,12.8,9.3,2.2
+2021 Colorado,McKinley Wright IV,Eli Parquet,D'Shawn Schwartz,Evan Battey,Dallas Walton,14.4,16,24.7,12.3,12.7
+2021 Connecticut,R.J. Cole,James Bouknight,Tyrese Martin,Isaiah Whaley,Adama Sanogo,15.6,16.8,28.8,16.9,9.6
+2021 Creighton,Marcus Zegarowski,Mitch Ballock,Denzel Mahoney,Damien Jefferson,Christian Bishop,16.2,17.8,25.7,15.6,11.1
+2021 Drake,Joseph Yesufu,D.J. Wilkins,Garrett Sturtz,Tremell Murphy,Darnell Brodie,13.2,13.4,16.9,12.7,6.2
+2021 Drexel,Camren Wynter,Xavier Bell,Zach Walton,T.J. Bickerstaff,James Butler,11.9,10.4,5.7,8.7,-2.5
+2021 Eastern Washington,Michael Meadows,Jack Perry,Jacob Groves,Kim Aiken Jr.,Tanner Groves,11.9,11.9,13.5,9.8,4.2
+2021 Florida,Tyree Appleby,Noah Locke,Tre Mann,Anthony Duruji,Colin Castleton,14.1,15.7,19.2,12.4,5.1
+2021 Florida St.,M.J. Walker,Anthony Polite,Scottie Barnes,Raiquan Gray,Balsa Koprivica,15.2,15.2,32,19,13
+2021 Georgetown,Dante Harris,Donald Carey,Chudier Bile,Jamorko Pickett,Qudus Wahab,10.1,16.3,15.1,5.5,8.6
+2021 Georgia Tech,Jose Alvarado,Bubba Parham,Michael Devoe,Khalid Moore,Jordan Usher,13.1,15.8,17,9.7,5.5
+2021 Gonzaga,Jalen Suggs,Andrew Nembhard,Joel Ayayi,Corey Kispert,Drew Timme,23.4,19.1,44.3,31,20.4
+2021 Grand Canyon,Jovan Blacksher Jr.,Mikey Dixon,Oscar Frayer,Alessandro Lever,Asbjorn Midtgaard,10.7,15.8,13.7,6.4,9.3
+2021 Hartford,Traci Carter,DJ Mitchell,Austin Williams,Hunter Marks,Miroslav Stafl,6.7,14.6,2.2,-2.4,3.9
+2021 Houston,DeJon Jarreau,Marcus Sasser,Quentin Grimes,Reggie Chaney,Justin Gorham,18.7,18.1,36.8,23.3,12.4
+2021 Illinois,Trent Frazier,Adam Miller,Ayo Dosunmu,Jacob Grandison,Kofi Cockburn,16.5,17.7,31.8,19.1,13.3
+2021 Iona,Asante Gist,Isaiah Ross,Berrick JeanLouis,Dylan van Eyck,Nelly Junior Joseph,9.5,14.6,9.5,4.1,3.7
+2021 Iowa,Jordan Bohannon,CJ Fredrick,Connor McCaffery,Joe Wieskamp,Luka Garza,19.1,13.9,30.2,24.6,10.8
+2021 Kansas,Marcus Garrett,Bryce Thompson,Ochai Agbaji,Christian Braun,David McCormack,12.5,17.2,18.1,6.9,10.5
+2021 Liberty,Chris Parker,Darius McGhee,Elijah Cuffee,Kyle Rode,Blake Preston,13.4,12.9,17.6,14.3,4.4
+2021 Loyola Chicago,Braden Norris,Keith Clemons,Lucas Williamson,Aher Uguak,Cameron Krutwig,13,18.5,28.4,12.3,14.4
+2021 LSU,Javonte Smart,Cameron Thomas,Aundre Hyatt,Darius Days,Trendon Watford,20.6,13.8,23.5,23.7,5.4
+2021 Maryland,Eric Ayala,Darryl Morsell,Hakim Hart,Aaron Wiggins,Donta Scott,16.5,17.4,25.4,15.6,12.1
+2021 Michigan,Mike Smith,Eli Brooks,Franz Wagner,Brandon Johns Jr.,Hunter Dickinson,16.1,17.7,30.8,15,14.7
+2021 Michigan St.,Rocket Watts,Joshua Langford,Aaron Henry,Malik Hall,Marcus Bingham Jr.,8.5,12.6,16.9,5.9,11.3
+2021 Missouri,Xavier Pinson,Dru Smith,Mark Smith,Kobe Brown,Jeremiah Tilmon,12.9,15.4,17.6,10.8,7.4
+2021 Morehead St.,Ta'Lon Cooper,Skyelar potter,De'Von Cooper,"James Baker, Jr.",Johni Broome,8.7,15.3,6.9,2.1,2
+2021 Mount St. Mary's,Damian Chong Qui,Deandre Thomas,Nana Opoku,Mezie Offurum,Malik Jefferson,6.7,14.6,-2.4,-4.5,-2.3
+2021 Norfolk St.,Devante Carter,Joe Bryant Jr.,Kyonze Chavis,Kashaun Hicks,J.J. Matthews,6.5,10.7,0.1,-0.5,1.6
+2021 North Carolina,Caleb Love,Kerwin Walton,Leaky Black,Garrison Brooks,Armando Bacot,10.2,15.6,20.3,9.6,9.4
+2021 North Texas,Javion Hamlet,Mardrez McBride,James Reese,Thomas Bell,Zachary Simmons,13,16.3,14.3,8.2,5.8
+2021 Ohio,Jason Preston,Lunden McDay,Ben Roderick,Ben Vander Plas,Dwight Wilson III,14.5,14.1,17.1,14.9,2.5
+2021 Ohio St.,CJ Walker,Duane Washington Jr.,Justice Sueing,Seth Towns,E.J. Liddell,16.6,13.3,23.9,19.4,6.5
+2021 Oklahoma,Austin Reaves,Umoja Gibson,Elijah Harkless,Jalen Hill,Brady Manek,12.8,14.7,21.1,12.4,7.3
+2021 Oklahoma St.,Avery Anderson III,Rondel Walker,Isaac Likekele,Matthew-Alexander Moncrieffe,Cade Cunningham,11.8,17.8,18.1,7.3,10.6
+2021 Oral Roberts,Max Abmas,Carlos Jurgens,Kareem Thompson,Francis Lacis,Kevin Obanor,12.9,11.8,7.6,8.2,-3.5
+2021 Oregon,Will Richardson,Chris Duarte,LJ Figueroa,Eric Williams Jr.,Eugene Omoruyi,19.9,18.4,26.4,20.2,8.1
+2021 Oregon St.,Ethan Thompson,Jarod Lucas,Zach Reichle,Warith Alatishe,Roman Silva,13.9,14.1,20.3,13.2,7.4
+2021 Purdue,Eric Hunter Jr.,Jaden Ivey,Sasha Stefanovic,Mason Gillis,Trevion Williams,14,15.3,22.4,14.4,8.1
+2021 Rutgers,Jacob Young,Geo Baker,Paul Mulcahy,Ron Harper Jr.,Myles Johnson,13.3,17.9,22.7,10.2,15
+2021 San Diego St.,Terrell Gomez,Trey Pulliam,Jordan Schakel,Matt Mitchell,Nathan Mensah,13.9,16.9,28.1,15.7,14
+2021 St. Bonaventure,Kyle Lofton,Jaren Holmes,Dominick Welch,Jalen Adaway,Osun Osunniyi,17.5,21.6,24.3,12.5,13.6
+2021 Syracuse,Joseph Girard III,Buddy Boeheim,Alan Griffin,Quincy Guerrier,Marek Dolezaj,17.3,17.1,18.5,13.9,7.4
+2021 Tennessee,Santiago Vescovi,Keon Johnson,Jaden Springer,Yves Pons,Josiah-Jordan James,11.4,18.7,24.9,8.6,14.1
+2021 Texas,Matt Coleman III,Courtney Ramey,Andrew Jones,Greg Brown III,Jericho Sims,14.4,17.3,20.8,11.8,6.3
+2021 Texas Southern,Michael Weathers,Jordan Gilliam,Justin Hopkins,Yahuza Rasas,John Walker III,5.6,11.4,-1,-1.8,-0.6
+2021 Texas Tech,Mac McClung,Kyler Edwards,Terrence Shannon Jr.,Kevin McCullar,Marcus Santos-Silva,15.4,19,29.7,16.4,11.1
+2021 UC Santa Barbara,Devearl Ramsey,JaQuori McLaughlin,Brandon Cyrus,Miles Norris,Amadou Sow,12.5,14.4,19.4,11.7,8.9
+2021 UCLA,Tyger Campbell,Johnny Juzang,Jules Bernard,Jaime Jaquez Jr.,Cody Riley,17.5,16.6,22.9,15.4,9.1
+2021 UNC Greensboro,Isaiah Miller,Keyshaun Langley,Kaleb Hunter,Angelo Allegri,Mohammed Abdulsalam,8.8,14,7.5,2.9,4.3
+2021 USC,Tahj Eaddy,Isaiah White,Drew Peterson,Isaiah Mobley,Evan Mobley,17.2,18.9,33.9,18.6,15.9
+2021 Utah St.,Rollie Worster,Brock Miller,Marco Anthony,Justin Bean,Neemias Queta,11.5,19.7,23.3,7.6,16.3
+2021 VCU,Adrian Baldwin Jr.,Nah'Shon Hyland,Vince Williams Jr.,Hason Ward,Levi Stockard,10.2,16.7,20.1,6,9.8
+2021 Villanova,Justin Moore,Caleb Daniels,Jermaine Samuels,Cole Swider,Jeremiah Robinson-Earl,17.6,15.4,23.9,18.4,8.3
+2021 Virginia,Kihei Clark,Reece Beekman,Trey Murphy III,Sam Hauser,Jay Huff,17.4,18,29,17.7,17.2
+2021 Virginia Tech,Wabissa Bede,Tyrece Radford,Nahiem Alleyne,Justyn Mutts,Keve Aluma,12.6,16.7,18.7,8.9,7.7
+2021 West Virginia,Miles McBride,Sean McNeil,Emmitt Matthews Jr.,Jalen Bridges,Derek Culver,16,14.1,23,18.4,8.3
+2021 Wichita St.,Alterique Gilbert,Tyson Etienne,Dexter Dennis,Trey Wade,Morris Udeze,11.8,14.7,13.6,7.9,6.3
+2021 Winthrop,Chandler Vaudrin,Kyle Zunic,Charles Falden,Micheal Anumba,DJ Burns,6.8,12.2,9.4,2.9,4.2
+2021 Wisconsin,D'Mitrik Trice,Brad Davison,Jonathan Davis,Aleem Ford,Micah Potter,13.9,17,28,15.8,12
+2022 Akron,Xavier Castaneda,Greg Tribble,Mikal Dawson,Ali Ali,Enrique Freeman,12.1,12.4,5.4,7.3,3.2
+2022 Alabama,Jahvon Quinerly,Jaden Shackelford,Keon Ellis,Noah Gurley,Charles Bediako,15,13.3,15.9,15.1,5.2
+2022 Arizona,Justin Kier,Bennedict Mathurin,Dalen Terry,Azuolas Tubelis,Christian Koloko,16.1,17.1,28.1,19.3,16
+2022 Arkansas,JD Notae,Davonte Davis,Au'Diese Toney,Stanley Umude,Jaylin Williams,13.5,19,20.9,9.8,13.8
+2022 Auburn,K.D. Johnson,Zep Jasper,Allen Flanigan,Jabari Smith,Walker Kessler,11.5,17.4,15.7,9.4,19.7
+2022 Baylor,James Akinjo,Adam Flagler,Kendall Brown,Matthew Mayer,Flo Thamba,15.6,17.6,29,16.8,12.6
+2022 Boise St.,"Marcus Shaver, Jr.",Emmanuel Akot,Abu Kigab,Tyson Degenhart,Mladen Armus,13.5,18.7,21.9,7.8,12
+2022 Bryant,Luis Hurtado Jr.,Charles Pride,Peter Kiss,Adham Eleeda,Hall Elisias,11.5,11.5,5.7,7.8,1.5
+2022 Cal St. Fullerton,Damari Milstead,Tory San Antonio,Latrell Wrightsell Jr.,E.J. Anosike,Vincent Lee,7.7,12,4.6,0.2,5.5
+2022 Chattanooga,David Jean-Baptiste,Malachi Smith,Darius Banks,K.C. Hankton,Silvio De Sousa,14,14.7,19.1,12.2,4.8
+2022 Colgate,Nelly Cummings,Jack Ferguson,Tucker Richardson,Ryan Moffatt,Keegan Records,13.3,12.4,7.2,9.3,2.6
+2022 Colorado St.,Isaiah Stevens,Kendle Moore,John Tonje,David Roddy,Dischon Thomas,16.2,13.6,20.5,15.7,10.9
+2022 Connecticut,R.J. Cole,Andre Jackson,Tyrese Martin,Isaiah Whaley,Adama Sanogo,15.8,18.3,25.5,14.4,9.5
+2022 Creighton,Trey Alexander,Alex O'Connell,Arthur Kaluma,Ryan Hawkins,Ryan Kalkbrenner,12.3,18,13.6,8.2,13.4
+2022 Davidson,Foster Loyer,Michael Jones,Hyunjung Lee,Sam Mennenga,Luka Brajkovic,20.3,14,20.8,23.8,3.2
+2022 Delaware,Kevin Anderson,Jameer Nelson Jr.,Ebby Asamoah,Jyare Davis,Andrew Carr,10.9,11.3,8.1,6.9,4.6
+2022 Duke,Jeremy Roach,Wendell Moore Jr.,AJ Griffin,Paolo Banchero,Mark Williams,18.8,16.7,26.2,25.5,13
+2022 Georgia St.,Justin Roberts,Corey Allen,Kane Williams,Eliel Nsoseme,Jalen Thomas,9.9,13.8,13.2,3.9,6.7
+2022 Gonzaga,Andrew Nembhard,Rasir Bolton,Julian Strawther,Drew Timme,Chet Holmgren,19.7,19.5,32.1,26,19.1
+2022 Houston,Jamal Shead,Kyler Edwards,Taze Moore,Fabian White Jr.,Josh Carlton,17.8,19.7,31.9,21.2,17.9
+2022 Illinois,Trent Frazier,Alfonso Plummer,Da'Monte Williams,Coleman Hawkins,Kofi Cockburn,15.5,17.1,21.3,14.2,8.4
+2022 Indiana,Xavier Johnson,Parker Stewart,Miller Kopp,Race Thompson,Trayce Jackson-Davis,12.8,17.1,17.1,11.7,12.2
+2022 Iowa,Jordan Bohannon,Tony Perkins,Patrick McCaffery,Keegan Murray,Filip Rebraca,16.6,12.8,29.3,23.7,15.2
+2022 Iowa St.,Tyrese Hunter,Gabe Kalscheur,Izaiah Brockington,Aljaz Kunc,George Conditt IV,9.5,18.2,13.5,1,12.9
+2022 Jacksonville St.,Jalen Finch,Jalen Gibbs,Darian Adams,Kayne Henry,Brandon Huffman,9.5,12.7,6,1.4,2.8
+2022 Kansas,Dajuan Harris Jr.,Ochai Agbaji,Christian Braun,Jalen Wilson,David McCormack,19,18.1,30.4,21.7,12.6
+2022 Kentucky,Sahvir Wheeler,TyTy Washington Jr.,Kellan Grady,Keion Brooks Jr.,Oscar Tshiebwe,19.7,18.4,24.6,21.6,10.6
+2022 Longwood,Justin Hill,DeShaun Wade,Jesper Granlund,Isaiah Wilkins,Zac Watson,10.3,10.6,9.4,6.7,3.2
+2022 Loyola Chicago,Braden Norris,Lucas Williamson,Tate Hall,Aher Uguak,Chris Knight,12.3,15.8,20,10.5,12.1
+2022 LSU,Xavier Pinson,Eric Gaines,Brandon Murray,Tari Eason,Darius Days,13.2,20.2,25.9,12.9,18.7
+2022 Marquette,Tyler Kolek,Darryl Morsell,Olivier-Maxence Prosper,Justin Lewis,Kur Kuath,10.3,15.2,9.3,4.9,11.5
+2022 Memphis,Alex Lomax,Lester Quinones,Landers Nolley II,DeAndre Williams,Jalen Duren,11.6,16.1,20.5,12.1,12.7
+2022 Miami FL,Charlie Moore,Isaiah Wong,Kameron McGusty,Jordan Miller,Sam Waardenburg,18.6,15.1,18.1,16.3,6.3
+2022 Michigan,Frankie Collins,Eli Brooks,Caleb Houstan,Moussa Diabate,Hunter Dickinson,14.4,14.4,11.5,10.3,7.3
+2022 Michigan St.,Tyson Walker,Max Christie,Gabe Brown,Joey Hauser,Marcus Bingham Jr.,11,13.7,14.3,13.1,8.7
+2022 Montana St.,Xavier Bishop,Amin Adamu,Tyler Patterson,Abdul Mohamed,Jubrile Belo,8.5,12.7,4.8,3.8,-0.3
+2022 Murray St.,Justice Hill,Tevin Brown,Trae Hannibal,DJ Burns,KJ Williams,15.6,17.3,22.1,16.3,7.8
+2022 New Mexico St.,Jabari Rice,Clayton Henry,Teddy Allen,Johnny McCants,Will McNair Jr.,11.6,14.6,15.1,6.6,5.1
+2022 Norfolk St.,Joe Bryant Jr.,Jalen Hawkins,Tyrese Jenkins,Dana Tate Jr.,Kris Bankston,10.2,12.9,6.6,5.6,2.8
+2022 North Carolina,RJ Davis,Caleb Love,Leaky Black,Brady Manek,Armando Bacot,17.9,17.2,23.8,17.5,15.1
+2022 Notre Dame,Prentiss Hubb,Blake Wesley,Cormac Ryan,Dane Goodwin,Paul Atkinson,15.5,16,15.7,12.2,9.2
+2022 Ohio St.,Jamari Wheeler,Malaki Branham,Eugene Brown III,Kyle Young,E.J. Liddell,16.5,13.1,17.5,18.1,8.9
+2022 Providence,Aljami Durham,A.J. Reeves,Justin Minaya,Noah Horchler,Nate Watson,12.9,15.8,17,11.6,6.5
+2022 Purdue,Jaden Ivey,Eric Hunter Jr.,Sasha Stefanovic,Mason Gillis,Zach Edey,17.4,13.2,20.6,25.9,8
+2022 Richmond,Jacob Gilyard,Andre Gustavson,Nathan Cayo,Tyler Burton,Grant Golden,13.8,15.1,12.8,9.3,9.5
+2022 Rutgers,Geo Baker,Paul Mulcahy,Caleb McConnell,Ron Harper Jr.,Clifford Omoruyi,11.6,17.5,15.6,7.4,11.6
+2022 Saint Mary's,Tommy Kuhse,Logan Johnson,Alex Ducas,Kyle Bowen,Matthias Tass,14.4,19.4,22.4,10.9,12.9
+2022 Saint Peter's,Matthew Lee,Daryl Banks III,KC Ndefo,Hassan Drame,Clarence Rupert,5.2,12.7,9.2,-1.6,8
+2022 San Diego St.,Trey Pulliam,Lamont Butler,Matt Bradley,Keshad Johnson,Nathan Mensah,8.8,19.8,20,2.7,16.6
+2022 San Francisco,Jamaree Bouyea,Khalil Shabazz,Julian Rishwain,Josh Kunen,Patrick Tape,11.8,15.2,20.2,9.4,8.4
+2022 Seton Hall,Jamir Harris,Myles Cale,Jared Rhoden,Alexis Yetna,Tyrese Samuel,9.9,15.5,12.6,4.4,7.8
+2022 South Dakota St.,Baylor Scheierman,Charlie Easley,Zeke Mayo,Alex Arians,Douglas Wilson,14.1,11.2,14.7,14.7,0.4
+2022 TCU,Mike Miles Jr.,Damion Baugh,Chuck O'Bannon Jr.,Emanuel Miller,Eddie Lampkin Jr.,13.2,16.7,18.9,11.4,10.5
+2022 Tennessee,Zakai Zeigler,Kennedy Chandler,Santiago Vescovi,Josiah-Jordan James,John Fulkerson,14.5,19.3,34.1,14.8,19
+2022 Texas,Marcus Carr,Courtney Ramey,Andrew Jones,Timmy Allen,Christian Bishop,13.7,17.7,22.6,14.3,12.6
+2022 Texas A&M Corpus Chris,Jalen Jackson,Terrion Murdix,Simeon Fryer,Isaac Mushila,De'Lazarus Keys,4.9,11.2,3.7,-2.8,7.3
+2022 Texas Southern,PJ Henry,Bryson Etienne,AJ Lawson,Joirdon Karl Nicholas,Brison Gresham,4.1,10.9,-1.2,-5.3,4.7
+2022 Texas Tech,Adonis Arms,Terrence Shannon Jr.,Kevin McCullar,Bryson Williams,Kevin Obanor,13.9,18.3,27.7,15.4,17.9
+2022 UAB,Jordan Walker,Michael Ertel,Quan Jackson,KJ Buffen,Trey Jemison,13.7,14.9,17,11.1,5.6
+2022 UCLA,Tyger Campbell,Jules Bernard,Johnny Juzang,Jaime Jaquez Jr.,Cody Riley,16.7,17,26.3,17.3,12.2
+2022 USC,Boogie Ellis,Max Agbonkpolo,Drew Peterson,Chevez Goodwin,Isaiah Mobley,14.3,15.9,14.7,12.1,7.6
+2022 Vermont,Ben Shungu,Justin Mazzulla,Finn Sullivan,Isaiah Powell,Ryan Davis,13.2,14.9,15.9,14.5,6.3
+2022 Villanova,Collin Gillespie,Justin Moore,Caleb Daniels,Brandon Slater,Jermaine Samuels,19.3,18,27.6,18.3,9.6
+2022 Virginia Tech,Storm Murphy,Hunter Cattoor,Nahiem Alleyne,Justyn Mutts,Keve Aluma,15.2,17.5,18.4,14.2,7.8
+2022 Wisconsin,Chucky Hepburn,Brad Davison,Johnny Davis,Tyler Wahl,Steven Crowl,16.4,18.3,22.5,13.8,9.7
+2022 Wright St.,Trey Calvin,Keaton Norris,Tanner Holden,Tim Finke,Grant Basile,11.3,12.1,2.5,5.3,-1.1
+2022 Wyoming,Hunter Maldonado,Xavier DuSell,Drake Jeffries,Jeremiah Oden,Graham Ike,15.5,17.4,16.9,9.2,6.5
+2022 Yale,Bez Mbeng,Azar Swain,Jalen Gabbidon,Matt Knowling,Isaiah Kelly,7.7,12.4,10.1,1,7.6
+2023 Alabama,Jahvon Quinerly,Mark Sears,Brandon Miller,Noah Clowney,Charles Bediako,15.1,18.6,36.8,18.7,17.9
+2023 Arizona,Kerr Kriisa,Courtney Ramey,Cedric Henderson Jr.,Azuolas Tubelis,Oumar Ballo,16.3,16.8,26.9,18.5,12.9
+2023 Arizona St.,Frankie Collins,DJ Horne,Desmond Cambridge Jr.,Devan Cambridge,Warren Washington,11.4,17.3,22.4,11.3,12.1
+2023 Arkansas,Davonte Davis,Ricky Council IV,Anthony Black,Jordan Walsh,Makhi Mitchell,12.3,18.7,23.4,10.2,11
+2023 Auburn,Wendell Green Jr.,Zep Jasper,Allen Flanigan,Jaylin Williams,Johni Broome,11.7,15.9,22.9,12.5,12.5
+2023 Baylor,Adam Flagler,LJ Cryer,Keyonte George,Jalen Bridges,Flo Thamba,18.3,14.9,24.4,20.7,7.7
+2023 Boise St.,Marcus Shaver Jr.,Max Rice,Naje Smith,Chibuzo Agbo,Tyson Degenhart,14.9,20.4,22.3,11.7,10.5
+2023 Charleston,Ryan Larson,Reyne Smith,Dalton Bolon,Jaylon Scott,Ante Brzovic,9.5,13.5,18.5,11,3.8
+2023 Colgate,Braeden Smith,Oliver Lynch-Daniels,Tucker Richardson,Ryan Moffatt,Keegan Records,14.7,12.4,14.4,14.4,3.3
+2023 Connecticut,Tristen Newton,Jordan Hawkins,Andre Jackson Jr.,Alex Karaban,Adama Sanogo,18.1,18.1,35.6,22.8,14.7
+2023 Creighton,Ryan Nembhard,Trey Alexander,Baylor Scheierman,Arthur Kaluma,Ryan Kalkbrenner,17.7,19.9,28.7,16.1,12
+2023 Drake,Roman Penn,D.J. Wilkins,Garrett Sturtz,Tucker DeVries,Darnell Brodie,12.8,16.9,17.2,8.6,12.7
+2023 Duke,Jeremy Roach,Tyrese Proctor,Mark Mitchell,Kyle Filipowski,Dereck Lively II,12.9,17.6,24.7,11.3,14.7
+2023 Fairleigh Dickinson,Demetre Roberts,Grant Singleton,Sean Moore,Joe Munden Jr.,Ansley Almonor,10.7,5.6,-4,6.8,-7.5
+2023 Florida Atlantic,Bryan Greenlee,Nicholas Boyd,Alijah Martin,Johnell Davis,Vladislav Goldin,12.2,15.3,26.6,15.9,12.4
+2023 Furman,JP Pegues,Mike Bothwell,Marcus Foster,Jalen Slawson,Garrett Hien,13.7,13.2,13.9,12.4,3.3
+2023 Gonzaga,Nolan Hickman,Rasir Bolton,Julian Strawther,Anton Watson,Drew Timme,18.5,15.6,27.3,21.5,7.7
+2023 Grand Canyon,Rayshon Harrison,Chance McMillian,Walter Ellis,Noah Baumann,Gabe McGlothan,13.9,10.9,10.9,13,1.5
+2023 Houston,Jamal Shead,Marcus Sasser,Tramon Mark,J'Wan Roberts,Jarace Walker,17.5,22.2,38.2,20.7,19
+2023 Howard,Elijah Hawkins,Marcus Dockery,Shy Odom,Steve Settle III,Jordan Wood,7.6,10.2,2.3,4.5,-2.8
+2023 Illinois,Terrence Shannon Jr.,RJ Melendez,Matthew Mayer,Coleman Hawkins,Dain Dainja,12.4,17.3,23.8,12.4,11
+2023 Indiana,Jalen Hood-Schifino,Trey Galloway,Miller Kopp,Race Thompson,Trayce Jackson-Davis,15.4,17.7,24.5,15,8.7
+2023 Iona,Daniss Jenkins,Walter Clayton Jr.,Berrick JeanLouis,Nelly Junior Joseph,Osborn Shema,14.1,17.5,21.5,12.1,10.6
+2023 Iowa,Ahron Ulis,Tony Perkins,Connor McCaffery,Kris Murray,Filip Rebraca,17.1,14.2,17.4,15.3,10.1
+2023 Iowa St.,Tamin Lipsey,Gabe Kalscheur,Jaren Holmes,Tre King,Robert Jones,9.3,17.8,14.2,0.8,11
+2023 Kansas,Dajuan Harris Jr.,Kevin McCullar Jr.,Gradey Dick,KJ Adams Jr.,Jalen Wilson,17.4,21.4,29.8,15.6,14.3
+2023 Kansas St.,Markquis Nowell,Desi Sills,Cam Carter,Keyontae Johnson,Nae'Qwan Tomlin,12.4,19.2,20.4,8.8,13.8
+2023 Kennesaw St.,Terrell Burden,Spencer Rodgers,Chris Youngblood,Brandon Stroud,Demond Robinson,9.5,13.6,10.7,6,3.1
+2023 Kent St.,Sincere Carry,Jalen Sullinger,Malique Jacobs,Miryne Thomas,Chris Payton,10.2,16.2,17,8,9.1
+2023 Kentucky,Cason Wallace,Antonio Reeves,Chris Livingston,Jacob Toppin,Oscar Tshiebwe,16.8,16.4,25.1,17.9,8.9
+2023 Louisiana,Themus Fulks,Kentrell Garnett,Greg Williams Jr.,Terence Lewis II,Jordan Brown,13.6,12.6,12.9,12.1,6.9
+2023 Marquette,Tyler Kolek,Stevie Mitchell,Kam Jones,Olivier-Maxence Prosper,Oso Ighodaro,17.4,16.5,28.9,19,12.4
+2023 Maryland,Jahmir Young,Donald Carey,Hakim Hart,Donta Scott,Julian Reese,15,18.4,24,14.2,10.7
+2023 Memphis,Kendric Davis,Jayden Hardaway,Elijah McCadden,Chandler Lawson,DeAndre Williams,13.9,14.5,21.7,14.6,5.6
+2023 Miami FL,Nijel Pack,Isaiah Wong,Wooga Poplar,Jordan Miller,Norchad Omier,18.7,14.7,24.1,19.8,9.4
+2023 Michigan St.,A.J. Hoggard,Tyson Walker,Jaden Akins,Joey Hauser,Mady Sissoko,14.5,17.2,23.7,13.4,14.7
+2023 Mississippi St.,Dashawn Davis,Shakeel Moore,D.J. Jeffries,Cameron Matthews,Tolu Smith,9,19.6,21.4,5.4,11.3
+2023 Missouri,Nick Honor,D'Moi Hodge,DeAndre Gholston,Noah Carter,Kobe Brown,16.7,12,21.8,21.2,5.1
+2023 Montana St.,Darius Brown II,RaeQuan Battle,Caleb Fuller,Tyler Patterson,Jubrile Belo,8.5,13.8,9.9,4.6,4.3
+2023 NC St.,Terquavion Smith,Jarkel Joiner,Casey Morsell,Jack Clark,DJ Burns,17.7,16.6,23.8,17.5,7.1
+2023 Nevada,Kenan Blackshear,Jarod Lucas,Tre Coleman,Darrion Williams,Will Baker,13.4,17.3,18.1,10.7,5.9
+2023 Northern Kentucky,Xavier Rhodes,Marques Warrick,Sam Vinson,Trey Robinson,Chris Brandon,9.1,14.4,7.4,2.1,4
+2023 Northwestern,Boo Buie,Ty Berry,Chase Audige,Brooks Barnhizer,Tydus Verhoeven,10.2,18,16.7,3.6,12.5
+2023 Oral Roberts,Issac McBride,Max Abmas,Carlos Jurgens,Kareem Thompson,Connor Vanover,14.5,14.6,17.1,13.5,3.8
+2023 Penn St.,Jalen Pickett,Camren Wynter,Andrew Funk,Seth Lundy,Kebba Njie,16.8,14.3,19.9,16,9.3
+2023 Pittsburgh,Nelly Cummings,Greg Elliott,Jamarius Burton,Blake Hinson,Guillermo Diaz Graham,14.3,13.5,16.8,12.4,8
+2023 Princeton,Matt Allocco,Ryan Langborg,Caden Pierce,Tosan Evbuomwan,Zach Martini,10,13.5,9.6,6.3,5.8
+2023 Providence,Jared Bynum,Devin Carter,Noah Locke,Bryce Hopkins,Ed Croswell,16.3,15.1,19,15.9,5.4
+2023 Purdue,Braden Smith,Fletcher Loyer,Brandon Newman,Mason Gillis,Zach Edey,17.4,16.6,31.7,20.5,12.8
+2023 Saint Mary's,Logan Johnson,Aidan Mahaney,Alex Ducas,Kyle Bowen,Mitchell Saxen,16.3,22.3,27.9,13,11.4
+2023 San Diego St.,Darrion Trammell,Lamont Butler,Matt Bradley,Keshad Johnson,Nathan Mensah,9.7,16.3,21.8,6.7,14.5
+2023 Southeast Missouri St.,Phillip Russell,Israel Barnes,Chris Harris,Dylan Branson,Nate Johnson,7.3,9.5,-6,-1.3,-6.8
+2023 TCU,Damion Baugh,Mike Miles Jr.,Chuck O'Bannon Jr.,Emanuel Miller,JaKobe Coles,13.9,17.1,27.7,16.6,11.9
+2023 Tennessee,Santiago Vescovi,Jahmai Mashack,Josiah-Jordan James,Olivier Nkamhoua,Jonas Aidoo,10.3,19,31.2,9.1,21.4
+2023 Texas,Marcus Carr,Tyrese Hunter,Sir'Jabari Rice,Brock Cunningham,Christian Bishop,13,16.2,27.6,14.4,13.4
+2023 Texas A&M,Wade Taylor IV,Tyrece Radford,Dexter Dennis,Henry Coleman III,Julius Marble II,14.6,16.1,25.7,16.2,9.8
+2023 Texas A&M Corpus Chris,Jalen Jackson,Ross Williams,Trevian Tennyson,Simeon Fryer,Isaac Mushila,7.1,9.5,-3,2.4,-8.1
+2023 Texas Southern,PJ Henry,Kolby Granger,Davon Barnes,John Walker III,Joirdon Karl Nicholas,6.1,10.7,-5.7,-0.9,-2.2
+2023 UC Santa Barbara,Ajay Mitchell,Calvin Wishart,Josh Pierre-Louis,Miles Norris,Andre Kelly,13.4,13.7,10,8.4,6.1
+2023 UCLA,Tyger Campbell,Amari Bailey,David Singleton,Jaime Jaquez Jr.,Kenneth Nwuba,13.8,18.9,26.7,11.1,18.3
+2023 UNC Asheville,Caleb Burgess,Fletcher Abee,Tajion Jones,Nick McMullen,Drew Pember,9.3,13.8,0.7,0.5,-2.1
+2023 USC,Boogie Ellis,Kobe Johnson,Tre White,Drew Peterson,Joshua Morgan,14.5,17.5,23,12.9,12.5
+2023 Utah St.,Steven Ashworth,Max Shulga,Sean Bairstow,Taylor Funk,Dan Akin,18.3,16.6,26,19,10.1
+2023 VCU,Adrian Baldwin Jr.,Jayden Nunn,Nick Kern Jr.,Brandon Johns Jr.,Jalen DeLoach,9.7,17.6,15.9,3,12
+2023 Vermont,Dylan Penn,Kam Gibson,Finn Sullivan,Robin Duncan,Matt Veretto,11.3,12.3,14.5,11.2,3.3
+2023 Virginia,Kihei Clark,Reece Beekman,Armaan Franklin,Jayden Gardner,Kadin Shedrick,13.6,17.4,24.7,11.4,14.5
+2023 West Virginia,Kedrian Johnson,Erik Stevenson,Emmitt Matthews Jr.,Tre Mitchell,Jimmy Bell Jr.,14.1,15.1,21.7,14.3,8.5
+2023 Xavier,Souley Boum,Adam Kunkel,Colby Jones,Jerome Hunter,Jack Nunge,18.6,15.9,26.2,20.2,7.9
+2024 Akron,Greg Tribble,Nate Johnson,Ali Ali,Enrique Freeman,Sammy Hunter,12.2,14.6,9.7,6.2,6.5
+2024 Alabama,Mark Sears,Aaron Estrada,Rylan Griffen,Nick Pringle,Grant Nelson,19.1,13.8,28.5,23.7,6.6
+2024 Arizona,Kylan Boswell,Caleb Love,Pelle Larsson,Keshad Johnson,Oumar Ballo,17.2,18.5,34.2,21.5,14
+2024 Auburn,Aden Holloway,Denver Jones,Chad Baker-Mazara,Jaylin Williams,Johni Broome,14.8,15.2,37.7,24.9,16.7
+2024 Baylor,RayJ Dennis,Jayden Nunn,Ja'Kobe Walter,Jalen Bridges,Yves Missi,19.2,16.1,28.3,21.4,12.2
+2024 Boise St.,Roddie Anderson III,Max Rice,Chibuzo Agbo,Tyson Degenhart,O'Mar Stanley,15.3,17,20.7,12.4,13.4
+2024 BYU,Dallin Hall,Spencer Johnson,Richie Saunders,Jaxson Robinson,Fousseyni Traore,14.7,14.3,28.2,19.8,10.9
+2024 Charleston,Kobe Rodgers,Reyne Smith,Ben Burnham,Frankie Policelli,Ante Brzovic,12.2,10.1,16.5,16.4,4.5
+2024 Clemson,Chase Hunter,Joseph Girard III,Jack Clark,Ian Schieffelin,PJ Hall,17.2,16,29.6,20.1,12.6
+2024 Colgate,Braeden Smith,Jalen Cox,Brady Cummins,Ryan Moffatt,Keegan Records,7.8,13.3,3.8,-0.8,5.9
+2024 Colorado,KJ Simpson,J'Vonne Hadley,Luke O'Brien,Tristan da Silva,Eddie Lampkin Jr.,18.2,17.1,25.8,17,11.5
+2024 Colorado St.,Isaiah Stevens,Josiah Strong,Nique Clifford,Patrick Cartier,Joel Scott,15.5,16.1,23.9,14.9,10.7
+2024 Connecticut,Tristen Newton,Cam Spencer,Stephon Castle,Alex Karaban,Donovan Clingan,23,19.5,47.1,31.2,19.5
+2024 Creighton,Steven Ashworth,Trey Alexander,Baylor Scheierman,Mason Miller,Ryan Kalkbrenner,21.1,19.2,31.1,20.7,12.2
+2024 Dayton,Kobe Elvis,Enoch Cheeks,Koby Brea,Nate Santos,DaRon Holmes II,17,16.5,22,16.7,7.5
+2024 Drake,Conor Enright,Atin Wright,Kevin Overton,Tucker DeVries,Darnell Brodie,14.5,15.8,19.7,13.3,11
+2024 Duke,Jeremy Roach,Jared McCain,Tyrese Proctor,Mark Mitchell,Kyle Filipowski,19.7,18.3,33.5,22.7,13.4
+2024 Duquesne,Jimmy Clark III,Dae Dae Grant,Jake DiMichele,Fousseyni Drame,David Dixon,10.1,15.1,15.6,5.2,10.6
+2024 Florida,Zyon Pullin,Walter Clayton Jr.,Will Richard,Tyrese Samuel,Micah Handlogten,17.3,14.4,27.4,21.2,9
+2024 Florida Atlantic,Jalen Gaffney,Brandon Weatherspoon,Alijah Martin,Johnell Davis,Vladislav Goldin,15.7,13.8,24.9,19.8,9.1
+2024 Gonzaga,Ryan Nembhard,Nolan Hickman,Anton Watson,Ben Gregg,Graham Ike,18.6,17.4,31.3,22.3,11.1
+2024 Grambling St.,Tra'Michael Moton,Kintavious Dozier,Jourdan Smith,Antwan Burnett,Jonathan Aku,5.3,10,-5.6,-4.9,-0.5
+2024 Grand Canyon,Ray Harrison,Collin Moore,Tyon Grant-Foster,Gabe McGlothan,Duke Brennan,13,16.9,17.2,8.7,9.9
+2024 Houston,Jamal Shead,L.J. Cryer,Emanuel Sharp,J'Wan Roberts,Ja'Vier Francis,17.8,21.9,44.7,21.9,22.6
+2024 Howard,Isiah Warfield,Jordan Hairston,Marcus Dockery,Bryce Harris,Seth Towns,10.2,7.9,-3.4,4.3,-1.9
+2024 Illinois,Marcus Domask,Ty Rodgers,Terrence Shannon Jr.,Quincy Guerrier,Coleman Hawkins,20.1,16.1,31.3,24.3,10.1
+2024 Iowa St.,Keshon Gilbert,Tamin Lipsey,Milan Momcilovic,Tre King,Robert Jones,13,20.9,30.2,10.9,17.5
+2024 James Madison,Xavier Brown,Noah Freidel,Terrence Edwards Jr.,Julien Wooden,T.J. Bickerstaff,12.5,13.9,18.3,12.1,7.7
+2024 Kansas,Dajuan Harris Jr.,Nicolas Timberlake,KJ Adams Jr.,Johnny Furphy,Hunter Dickinson,13.2,17.8,22.5,10.5,12.9
+2024 Kentucky,Reed Sheppard,Rob Dillingham,Antonio Reeves,Tre Mitchell,Zvonimir Ivisic,17.6,12.7,30.8,24.4,7.5
+2024 Long Beach St.,Marcus Tsohonis,Jadon Jones,AJ George,Aboubacar Traore,Lassina Traore,12,12.6,9.6,8.8,0.9
+2024 Longwood,Walyn Napper,DA Houston,Jesper Granlund,Michael Christmas,Elijah Tucker,6.5,11.5,-2.3,-2.6,2.9
+2024 Marquette,Tyler Kolek,Stevie Mitchell,Kam Jones,David Joplin,Oso Ighodaro,18.8,18.4,33.6,21.1,12.5
+2024 McNeese,Shahada Wells,Javohn Garcia,DJ Richards Jr.,Christian Shumate,CJ Felder,13.9,14.7,17.6,11.9,7.3
+2024 Michigan St.,A.J. Hoggard,Tyson Walker,Jaden Akins,Malik Hall,Carson Cooper,13.2,17.8,25.8,12.5,15.2
+2024 Mississippi St.,Dashawn Davis,Josh Hubbard,D.J. Jeffries,Cameron Matthews,Tolu Smith,12,17.4,24.3,11.9,9.2
+2024 Montana St.,Eddie Turner III,Robert Ford III,Tyler Patterson,Sam Lecholat,John Olmsted,6.2,10.4,-1.8,-2.2,-0.2
+2024 Morehead St.,Drew Thelwell,Kalil Thomas,Jordan Lathon,Eddie Ricks III,Riley Minix,13.1,15.2,12.1,9.7,-0.1
+2024 NC St.,Michael O'Connell,DJ Horne,Casey Morsell,Mohamed Diarra,DJ Burns,13.5,14.9,20.7,13.6,8
+2024 Nebraska,Keisei Tominaga,Brice Williams,Juwan Gary,Josiah Allick,Rienk Mast,15.5,16.6,27.9,18.5,9.4
+2024 Nevada,Kenan Blackshear,Jarod Lucas,Daniel Foster,Tre Coleman,Nick Davidson,14.2,16.6,24.4,15.1,8.8
+2024 New Mexico,Donovan Dent,Jaelen House,Jamal Mashburn Jr.,JT Toppin,Nelly Junior Joseph,14.8,17.8,24.8,14.2,13.6
+2024 North Carolina,Elliot Cadeau,RJ Davis,Cormac Ryan,Harrison Ingram,Armando Bacot,17.2,19.7,29.8,17,13.8
+2024 Northwestern,Boo Buie,Ryan Langborg,Nick Martinelli,Brooks Barnhizer,Luke Hunger,15.1,14.9,14.7,11.1,4.4
+2024 Oakland,DQ Cole,Blake Lampman,Jack Gohlke,Trey Townsend,Chris Conway,11.8,12.8,9.8,9.4,2.1
+2024 Oregon,Jackson Shelstad,Jadrian Tracey,Jermaine Couisnard,Kwame Evans Jr,N'Faly Dante,14.6,16.1,24,14.7,8.2
+2024 Purdue,Braden Smith,Lance Jones,Fletcher Loyer,Trey Kaufman-Renn,Zach Edey,19.3,17.4,35.6,23.7,12.8
+2024 Saint Mary's,Augustas Marciulionis,Aidan Mahaney,Alex Ducas,Mason Forbes,Mitchell Saxen,14.6,18.3,26,13.6,10.1
+2024 Saint Peter's,Latrell Reid,Marcus Randolph,Corey Washington,Mouhamed Sow,Michael Houge,6.2,12.5,-0.4,-2,-2.4
+2024 Samford,Dallas Graziani,Rylan Jones,Jaden Campbell,Jermaine Marshall,Achor Achor,11.3,10.9,22.1,15.1,7.6
+2024 San Diego St.,Darrion Trammell,Lamont Butler,Micah Parrish,Jay Pal,Jaedon LeDee,12.3,16.7,22.1,8.9,9.8
+2024 South Carolina,Meechie Johnson,Ta'Lon Cooper,Zachary Davis,Collin Murray-Boyles,B.J. Mack,14.6,14.8,26.2,17.6,10.7
+2024 South Dakota St.,Zeke Mayo,Matt Mims,Charlie Easley,Luke Appel,William Kyle III,11.1,13,4.8,4.5,0.4
+2024 Stetson,Stephan Swanson,Jalen Blackmon,Tristan Gross,Alec Oglesby,Aubin Gateretse,11.9,8,-3.7,5.6,-6.5
+2024 TCU,Jameer Nelson Jr.,Emanuel Miller,Chuck O'Bannon Jr.,Micah Peavy,Ernest Udah Jr.,12.1,14,23,12.7,10.1
+2024 Tennessee,Zakai Zeigler,Santiago Vescovi,Dalton Knecht,Josiah-Jordan James,Jonas Aidoo,14.8,20.2,33.1,15.7,14.6
+2024 Texas,Tyrese Hunter,Max Abmas,Chendall Weaver,Brock Cunningham,Dylan Disu,14.9,14.8,25.2,15.4,8.4
+2024 Texas A&M,Wade Taylor IV,Tyrece Radford,Manny Obaseki,Solomon Washington,Andersson Garcia,15.4,14.5,22.8,14.9,7.9
+2024 Texas Tech,Joe Toussaint,Pop Isaacs,Kerwin Walton,Darrion Williams,Robert Jennings,14.4,14.6,16.4,11.1,6.9
+2024 UAB,Eric Gaines,Efrem Johnson,Alejandro Vasquez,Christian Coleman,Yaxel Lendeborg,12.6,11.7,10.5,11.2,0.2
+2024 Utah St.,Darius Brown II,Ian Martinez,Mason Falslev,Great Osobor,Isaac Johnson,14.9,15.4,21.5,14.4,9.6
+2024 Vermont,Aaron Deloney,TJ Long,Shamir Bogues,Ileri Ayo-Faleye,Nick Fiorillo,9.1,14,11.9,3.5,4.7
+2024 Virginia,Reece Beekman,Isaac McKneely,Taine Murray,Ryan Dunn,Jordan Minor,10.2,16.2,20.2,4.9,11.3
+2024 Wagner,Javier Ezquerra,Julian Brown,Melvin Council Jr.,Tahron Allen,Keyontae Lewis,3.6,11.6,-11.5,-8.9,-2.6
+2024 Washington St.,Myles Rice,Jaylen Wells,Andrej Jakimovski,Isaac Jones,Oscar Cluff,14.7,17.1,20.9,12.6,11
+2024 Western Kentucky,Don McHenry,Khristian Lander,Brandon Newman,Tyrone Marshall Jr.,Babacar Faye,6.8,12.6,7.5,1.7,3.4
+2024 Wisconsin,Chucky Hepburn,Max Klesmit,AJ Storr,Tyler Wahl,Steven Crowl,17.4,16,25.9,17.9,8.5
+2024 Yale,Bez Mbeng,August Mahoney,John Poulakidas,Matt Knowling,Danny Wolf,13.2,15.3,16.8,11.2,7.3
