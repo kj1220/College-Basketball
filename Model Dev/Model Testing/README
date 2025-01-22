@@ -1,0 +1,5 @@
+Store files used in testing models. Each model will evalaute the following:
+
+- Greedy
+- Bayes
+- Monte Carlo Tree Search
